@@ -6,8 +6,8 @@ on:
       - dev
 env:
   BUILD_HOST: ci.uffs.cc
-  BUILD_WEB_DIRECTORY: /home/ccuffsci/ci.uffs.cc/template
-  BUILD_WEB_URL: https://ci.uffs.cc/template
+  BUILD_WEB_DIRECTORY: /home/ccuffsci/ci.uffs.cc/practice-website-programa
+  BUILD_WEB_URL: https://ci.uffs.cc/practice-website-programa
 jobs:
   build-deploy-audit:
     name: Build, deploy and audit
@@ -22,20 +22,25 @@ jobs:
       uses: appleboy/ssh-action@master
       with:
         host: ${{ env.BUILD_HOST }}
-        username: ${{ secrets.USERNAME }}
-        password: ${{ secrets.PASSWORD }}
+        username: ${{ secrets.CI_USERNAME }}
+        password: ${{ secrets.CI_PASSWORD }}
         port: ${{ secrets.PORT }}
         script: |
           mkdir -p ${{ env.BUILD_WEB_DIRECTORY }}/${{ steps.extract_branch.outputs.branch }}/${{ github.sha }}
           mkdir -p ${{ env.BUILD_WEB_DIRECTORY }}/${{ steps.extract_branch.outputs.branch }}/${{ github.sha }}/_report
+    - name: Build site in jekyll/builder container
+      run: |
+        docker run \
+        -v ${{ github.workspace }}/src:/srv/jekyll -v ${{ github.workspace }}/src/_site:/srv/jekyll/_site \
+        jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
     - name: Deploy site via SSH
       uses: garygrossgarten/github-action-scp@release
       with:
-        local: ${{ github.workspace }}/
+        local: ${{ github.workspace }}/src/_site/
         remote: ${{ env.BUILD_WEB_DIRECTORY }}/${{ steps.extract_branch.outputs.branch }}/${{ github.sha }}/
         host: ${{ env.BUILD_HOST }}
-        username: ${{ secrets.USERNAME }}
-        password: ${{ secrets.PASSWORD }}
+        username: ${{ secrets.CI_USERNAME }}
+        password: ${{ secrets.CI_PASSWORD }}
     - name: Audit site performance
       uses: jakejarvis/lighthouse-action@master
       with:
@@ -51,8 +56,8 @@ jobs:
         local: ${{ github.workspace }}/report
         remote: ${{ env.BUILD_WEB_DIRECTORY }}/${{ steps.extract_branch.outputs.branch }}/${{ github.sha }}/_report/
         host: ${{ env.BUILD_HOST }}
-        username: ${{ secrets.USERNAME }}
-        password: ${{ secrets.PASSWORD }}  
+        username: ${{ secrets.CI_USERNAME }}
+        password: ${{ secrets.CI_PASSWORD }}  
     - name: Summary
       run: |
         echo "Summary:"

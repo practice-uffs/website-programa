@@ -1,0 +1,32 @@
+name: deploy
+on:
+  push:
+    branches:    
+      - master
+env:
+  BUILD_HOST: practice.uffs.cc
+  BUILD_WEB_DIRECTORY: /home/ccuffspractice/practice.uffs.cc
+  BUILD_WEB_URL: https://practice.uffs.cc
+jobs:
+  build-deploy-audit:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: Build site in jekyll/builder container
+      run: |
+        docker run \
+        -v ${{ github.workspace }}/src:/srv/jekyll -v ${{ github.workspace }}/src/_site:/srv/jekyll/_site \
+        jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
+    - name: Deploy (via SSH)
+      uses: garygrossgarten/github-action-scp@release
+      with:
+        local: ${{ github.workspace }}/src/_site/
+        remote: ${{ env.BUILD_WEB_DIRECTORY }}/
+        host: ${{ env.BUILD_HOST }}
+        username: ${{ secrets.PROD_USERNAME }}
+        password: ${{ secrets.PROD_PASSWORD }}
+    - name: Summary
+      run: |
+        echo "Summary:"
+        echo " Live URL: ${{ env.BUILD_WEB_URL }}"
