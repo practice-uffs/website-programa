@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+{% if page.image.feature %}
+<section class="hero-block bg-dark fp-active" style="background: url({{ site.url }}/images/{{ page.image.feature }}) 0% 50%; background-size: cover;">
+  <div class="container">
+    <div class="row text-center">
+      <div class="col-12" style="z-index: 10000;"><h1>{{ page.hero_message }}</h1></div>
+    </div>
+  </div>
+</section>
+{% endif %}
+
+<div id="main" role="main">
+  <div class="wrap">
+    <div class="archive-wrap">
+      <div class="page-content">
+        {{ content }}
+      </div><!-- /.page-content -->
+    </div class="archive-wrap"><!-- /.archive-wrap -->
+  </div><!-- /.wrap -->
+</div><!-- /#main -->

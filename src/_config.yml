@@ -1,0 +1,91 @@
+# Site wide configuration
+
+title: "Ciência da Computação"
+description: "Curso de Ciência da Computação da Universidade Federal da Fronteira Sul, Chapecó, SC, Brasil."
+logo: # 120x120 px default image used for Twitter summary card
+teaser: # 400x250 px default teaser image used in image archive grid
+locale: en
+url: https://cc.uffs.edu.br
+feed:
+  path: atom.xml
+
+# Jekyll configuration
+permalink: /:categories/:title/
+kramdown:
+  toc_levels: 1..2
+highlighter: rouge
+plugins:
+  - jekyll-sitemap
+  - jekyll-gist
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: article
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+      author_profile: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: default
+      author_profile: false
+      share: true
+collections: # Collections of content
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  pages:
+    output: true
+    permalink: /:path/
+
+# Site owner
+owner:
+  name: Coordenação CC
+  email: computacao.ch@uffs.edu.br
+  twitter:
+  google:
+    ad-client:
+    ad-slot:
+  bio: Coordenação do Curso de Ciência da Computação
+  avatar: bio-photo.jpg # 160x160 px image for author byline
+  disqus-shortname:
+
+include:
+  - .htaccess
+exclude:
+  - "*.less"
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - config
+  - gulpfile.js
+  - lib
+  - log
+  - node_modules
+  - package.json
+  - spec
+  - tmp
