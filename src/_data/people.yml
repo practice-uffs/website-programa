@@ -1,28 +1,28 @@
 # Coordenação
 - person:
   name: Elisângela Ribas
-  #email: Elisangela.santos@uffs.edu.br
+  email: Elisangela.santos@uffs.edu.br
   position: coor-tec
   avatar: /images/equipe/elisangela-ribas.jpg
   github: https://github.com/elisribas
 
 - person:
   name: Fernando Bevilacqua
-  #email: fernando.bevilacqua@uffs.edu.br
+  email: fernando.bevilacqua@uffs.edu.br
   position: coor-geral
   avatar: /images/equipe/fernando-bevilacqua.png
   github: https://github.com/Dovyski
 
 - person:
   name: Luciano Lores Caimi
-  #email: lcaimi@uffs.edu.br
+  email: lcaimi@uffs.edu.br
   position: coor-tec
   avatar: /images/equipe/luciano-caimi.jpg
   github: https://github.com/lcaimi
 
 - person:
   name: Maurício Fernando Bozatski
-  #email: mauricio@uffs.edu.br
+  email: mauricio@uffs.edu.br
   position: coor-geral
   avatar: /images/equipe/mauricio-bozatski.png
   github: https://github.com/phdmauricio
@@ -31,77 +31,77 @@
 
 - person:
   name: Alessandra Pedrotti
-  #email: alessandrapedrotti24@gmail.com
+  email: alessandrapedrotti24@gmail.com
   position: con-material
   avatar: /images/equipe/alessandra-pedrotti.jpg
   github: https://github.com/alessandrapedrotti
 
 - person:
   name: Andrew M. Silva
-  #email: andrewsaxx@gmail.com
+  email: andrewsaxx@gmail.com
   position: dev
   avatar: /images/equipe/andrew-silva.jpg
   github: https://github.com/andrewmsilva
 
 - person:
   name: Cleisson Vieira Raimundi
-  #email: cleisson.raimundi@estudante.uffs.edu.br
+  email: cleisson.raimundi@estudante.uffs.edu.br
   position: dev
   avatar: /images/equipe/cleisson-raimundi.png
   github: https://github.com/CleissonVieira
 
 - person:
   name: Estela Maris Vilas Boas
-  #email: estelavilasboas01@gmail.com
+  email: estelavilasboas01@gmail.com
   position: dev
   avatar: /images/equipe/estela-vilas-boas.jpg
   github: https://github.com/estelavilasboas
 
 - person:
   name: Igor Matheus
-  #email: igor.uffs@gmail.com
+  email: igor.uffs@gmail.com
   position: con-midia
   avatar: /images/equipe/igor-matheus.jpg
   github: https://github.com/oigor
 
 - person:
   name: Isabeli Reik
-  #email: isabelireik2@gmail.com
+  email: isabelireik2@gmail.com
   position: con-material
   avatar: /images/equipe/isabeli-reik.jpg
   github: https://github.com/isabelirk
 
 - person:
   name: Lucas Ferreira
-  #email: lucas.colegioagricola@gmail.com
+  email: lucas.colegioagricola@gmail.com
   position: con-material
   avatar: /images/equipe/lucas-ferreira.jpg
   github: https://github.com/lucasgalize
 
 - person:
   name: Maria Gelain
-  #email: mariaegelain9@gmail.com
+  email: mariaegelain9@gmail.com
   position: con-material
   avatar: /images/equipe/maria-gelain.jpg
   github: https://github.com/mariagelain
 
 - person:
   name: Matheus Dias Negrão
-  #email: matheus.dnegrao@gmail.com
+  email: matheus.dnegrao@gmail.com
   position: con-midia
   avatar: /images/equipe/matheus-negrao.jpg
   github: https://github.com/MaNegrao
 
 - person:
   name: Vinícius dos Reis
-  #email: viniciusdosreis312@gmail.com
+  email: viniciusdosreis312@gmail.com
   position: con-midia
   avatar: /images/equipe/vinicius-reis.jpg
   github: https://github.com/vini2reis
 
 - person:
   name: Vinícius França Alves
-  #email: viniciusfrancap@hotmail.com
+  email: viniciusfrancap@hotmail.com
   position: ger-aux
   avatar: /images/equipe/vinicius-alves.jpg
   github: https://github.com/VIF-Franca
