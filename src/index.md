@@ -3,7 +3,7 @@ layout: hero
 permalink: /
 title: "Inicial"
 image:
-  feature: wood-texture-1600x800.jpg
+  feature: banner-rotulo.png
 ---
 
 <section>
