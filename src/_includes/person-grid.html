@@ -1,12 +1,6 @@
-<div class="col-md-3 mb-2">
-    <div class="card">
-        <div class="card-body">
-            <img src="{{ person.avatar }}" class="card-img-top rounded-circle" alt="Avatarde {{ person.name }}">
-            <h5 class="card-title">{{ person.name }}</h5>
-            <p class="card-text">{{ person.position }}</p>
-        </div>
-        <div class="card-footer">
-            <small class="text-muted"><a href="{{person.lattes}}">Curriculo Lattes</a></small>
-        </div>
-    </div>
+<div class="col-sm-2 m-2 text-center">
+    <a href="{{ person.github }}" style="color: #222;">
+        <img src="{{ person.avatar }}" class="card-img-top rounded-circle" alt="Avatarde {{ person.name }}">
+        <h5 class="card-title">{{ person.name }}</h5>
+    </a>
 </div>
