@@ -17,11 +17,57 @@ permalink: /equipe/
 
 <section class="fdb-block">
   <div class="container">
-    <div class="card-group">
-      {% assign people = site.data.people | sort:"name" %}
-      {% for person in people %}
-        {% include person-grid.html %}
-      {% endfor %}
-    </div>
+    <section>
+      <h2>Coordenação</h2>
+      <h3>Coordenação geral</h3>
+      <div class="card-group">
+        {% assign people = site.data.people | where:"position","coor-geral" | sort:"name" %}
+        {% for person in people %}
+          {% include person-grid.html %}
+        {% endfor %}
+      </div>
+      <h3>Coordenação técnica-pedagógica</h3>
+      <div class="card-group">
+        {% assign people = site.data.people | where:"position","coor-tec" | sort:"name" %}
+        {% for person in people %}
+          {% include person-grid.html %}
+        {% endfor %}
+      </div>
+    </section>
+    <section>
+      <h2>Produção de conteúdo</h2>
+      <h3>Texto e roteiro</h3>
+      <div class="card-group">
+        {% assign people = site.data.people | where:"position","con-material" | sort:"name" %}
+        {% for person in people %}
+          {% include person-grid.html %}
+        {% endfor %}
+      </div>
+      <h3>Imagem, vídeo e som</h3>
+      <div class="card-group">
+        {% assign people = site.data.people | where:"position","con-midia" | sort:"name" %}
+        {% for person in people %}
+          {% include person-grid.html %}
+        {% endfor %}
+      </div>
+    </section>
+    <section>
+      <h2>Desenvolvimento de software</h2>
+      <div class="card-group">
+        {% assign people = site.data.people | where:"position","dev" | sort:"name" %}
+        {% for person in people %}
+          {% include person-grid.html %}
+        {% endfor %}
+      </div>
+    </section>
+    <section>
+      <h2>Auxílio organizacional</h2>
+      <div class="card-group">
+        {% assign people = site.data.people | where:"position","ger-aux" | sort:"name" %}
+        {% for person in people %}
+          {% include person-grid.html %}
+        {% endfor %}
+      </div>
+    </section>
   </div>
 </section>
