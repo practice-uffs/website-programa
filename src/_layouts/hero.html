@@ -3,10 +3,10 @@ layout: default
 ---
 
 {% if page.image.feature %}
-<section class="hero-block bg-dark fp-active" style="background: url({{ site.url }}/images/{{ page.image.feature }}) 0% 50%; background-size: cover;">
+<section class="hero-block bg-dark fp-active" style="background: url({{ site.url }}/images/{{ page.image.feature }}) 0% 50%; background-size: cover; background-position: center top;">
   <div class="container">
     <div class="row text-center">
-      <div class="col-12" style="z-index: 10000;"><h1>{{ page.hero_message }}</h1></div>
+      <div class="col-12" style="z-index: 10000;"><h2 style="font-family: 'Caviar Dreams', Fallback, sans-serif;">{{ page.hero_message }}</h2></div>
     </div>
   </div>
 </section>
