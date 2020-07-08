@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="650" height="200" src="https://github.com/practice-uffs/website-programa/blob/master/src/images/logo.png?raw=true" title="Logo do projeto"><br />
+    <img width="650" height="200" src="https://practice.uffs.cc/images/logo.png" title="Logo do projeto"><br />
     <img src="https://img.shields.io/maintenance/yes/2020?style=for-the-badge" title="Status do projeto">
     <img src="https://img.shields.io/github/workflow/status/ccuffs/template/ci.uffs.cc?label=Build&logo=github&logoColor=white&style=for-the-badge" title="Status do build">
 </p>
@@ -90,21 +90,34 @@ gem install bundler
 
 Se você seguiu os pré-requisitos de instalação, a partir desse ponto você pode testar o site localmente na sua máquina. Siga os passos abaixo para 
 
-### 1. Clone esse repositório
+### 1. Faça fork do repositório
 
-Close esse repositório em uma pasta qualquer da sua máquina, e.x: `c:\` ou `/tmp/:
+Faça ***fork*** do repositório do site pelo Github.
+
+### 2. Clone esse repositório
+
+**Clone o seu fork** em uma pasta qualquer da sua máquina, e.x: `c:\` ou `/tmp/:
 
 ```
-git clone https://github.com/practice-uffs/website-programa.git && cd website-programa
+git clone https://github.com/SEU_USUARIO/website-programa.git && cd website-programa
 ```
+
+Mude para a branch *`dev`*.
+```
+git checkout dev
+```
+> **Cuidado:** Preste atenção em qual das branchs estão sendo feitas as alterações.
 
 Instale todas as dependências:
 
 ```
+cd src
 bundle update
 ```
 
-### 2. Testando o site
+Antes de fazer qualquer alteração no site, lembre-se do ***[Guia para a equipe de desenvolvimento](https://github.com/orgs/practice-uffs/teams/dev/discussions/1)***.
+
+### 3. Testando o site
 
 Para testar o site, entre na pasta onde você clonou esse repositório, e rode:
 
