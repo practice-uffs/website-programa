@@ -2,96 +2,38 @@
 layout: hero
 title: "Sobre o curso"
 image:
-  feature: wood-texture-1600x800.jpg
+  feature: banner-rotulo.png
 permalink: /sobre/
 ---
 
-<section class="fdb-block">
-  <div class="container">
-    <div class="row align-items-center pt-2 pt-lg-5">
-      <div class="col-12 col-md-8 col-lg-7">
-        <h2>Apresentação</h2>
-        <p class="lead">O curso de Ciência da Computação da UFFS pretende, através de bases sólidas de computação, formar profissionais capazes de desempenhar um papel importante em áreas da Tecnologia da Informação (TI), tanto na indústria quanto na academia.</p>
-        <p class="mt-4"><a class="btn btn-info" href="https://www.uffs.edu.br/campi/chapeco/cursos/graduacao/ciencia-da-computacao/">Ver informações institucionais (site UFFS)</a></p>
-      </div>
+## Resumo
+------
+<p class="text-justify">O cenário de isolamento social motivou a utilização de estratégias emergenciais para continuidade das aulas, especialmente no ensino superior. Muitas instituições adotaram recursos próprios da Educação a Distância, como ambientes virtuais de ensino e aprendizagem, para realização de aulas ou orientações aos estudantes. Na UFFS, os diferentes cursos de graduação e pós-graduação, assim como pró-reitorias, construíram instrumentos que buscaram mapear as habilidades dos professores em manusear diferentes tecnologias para a construção de aulas semipresenciais, bem como as condições de acesso dos estudantes. Os resultados divulgados em diferentes espaços, como o Conselho Universitário (Consuni), demonstraram a carência de conhecimento tecnológico e pedagógico desses professores, assim como a falta de acesso a tecnologias por parte de estudantes.
 
-      <div class="col-8 col-md-4 m-auto m-md-0 ml-md-auto pt-5">
-        <p><img alt="image" class="img-fluid" src="https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs//draws/git.svg"></p>
-      </div>
-    </div>
-  </div>
-</section>
+Nesse contexto, o fomento de iniciativas que oportunizem maior envolvimento da comunidade interna em projetos e ações que busquem ampliar a habilidade pedagógica e tecnológica, tanto de servidores quanto de estudantes, poderá ser uma prioridade institucional. Por esse motivo, este Programa visa atuar em 7 eixos distintos com o intuito de aprimorar e fortalecer o cenário tecnlógico voltado à educação na UFFS.</p>
 
 
-<section class="fdb-block">
-  <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-12 text-left">
-        <h2>Modalidades</h2>
-        <p class="lead">O curso oferece graduação bacharelado presencial em dois formatos: vespertino (tarde) e noturno.</p>
-      </div>
-    </div>
+1. <p class="text-justify">
+Estruturação de ambientes que possibilitem a gravação, a transmissão, edição e produção de conteúdos educacionais nas mais variadas plataformas  de distribuição de conteúdo; 2) Adaptação de algumas salas de aulas atuais para o oferecimento de aula em tempo real por telepresença; 3) Capacitação didática de docentes para a oferta de aulas via telepresença, de maneira síncrona e assíncrona, bem como o fomento para o desenvolvimento de tecnologias inovadoras próprias da UFFS voltadas a interação, criação, curadoria e distribuição de conteúdos de acesso público; 4) Ciração da UFFSTV em plataforma exclusivamente digital; 5) Capacitação dos estudantes e adequação de programas de assistência estudantil para que oportunizar a participação de todos, sem prejuízo, nas atividades telepresenciais; 6) Contribuir para a curricularização da extensão a partir da produção de conteúdos voltados para a Educação Básica e os mais variados dos setores produtivos e governamentais; e, 7) Proporcionar que o presente Programa tenha alcance em todos os campi da UFFS com o mesmo nível de interação e atuação.<p>
 
-    <div class="row text-left pt-5">
-      <div class="col-12 col-sm-6 col-md-5">
-        <p><img alt="image" class="fdb-icon" src="../../images/illustrations/matutino.svg"></p>
-        <h3><strong>Bacharelado vespertino (50 vagas/ano)</strong></h3>
-        <p>Duração mínima de 8 semestres com aulas durante a tarde. Em caros excepcionais, existem aulas durante a manhã e noite. São ofertadas 50 vagas anuais para o bacharelado vespertino, com ingresso no primeiro semestre (meados de março).</p>
-        <p class="mt-4">
-            <a class="btn btn-primary" href="https://www.uffs.edu.br/campi/chapeco/cursos/graduacao/ciencia-da-computacao/documentos">Projeto pedagógico</a>
-            <a class="btn btn-primary" href="/grade">Grade</a>
-        </p>
-      </div>
+vídeo de apresentação do programa embutido na página, [link: https://www.youtube.com/watch?v=MBX_Ij4qSPc](https://www.youtube.com/watch?v=MBX_Ij4qSPc)
 
-      <div class="col-12 col-sm-6 col-md-5 ml-sm-auto pt-5 pt-sm-0">
-        <p><img alt="image" class="fdb-icon" src="../../images/illustrations/noturno.svg"></p>
-        <h3><strong>Bacharelado noturno (50 vagas/ano)</strong></h3>
-        <p>Duração mínima de 10 semestres com aulas durante a noite. Em caros excepcionais, existem aulas durante a manhã e tarde. São ofertadas 50 vagas anuais para o bacharelado noturno, com ingresso no segundo semestre (meados de agosto).</p>
-        <p class="mt-4">
-            <a class="btn btn-warning" href="https://www.uffs.edu.br/campi/chapeco/cursos/graduacao/ciencia-da-computacao/documentos">Projeto pedagógico</a>
-            <a class="btn btn-warning" href="/grade">Grade</a>
-        </p>
-      </div>
-    </div>
-  </div>
-</section>
 
-## Informações gerais
 
-<p class="text-justify">O curso oferece várias opções para o estudante se aprofundar: banco de dados, computação gráfica, redes de computadores, engenharia de software, hardware e teoria da computação. Todos os professores se dedicam integralmente ao curso e todos possuem no mínimo o título de mestre, sendo que aproximadamente a metade tem o título de doutor. Esse perfil dos professores faz com que os estudantes tenham contato com assuntos de ponta da computação. Os estudantes têm acesso aos projetos de pesquisa e de extensão do curso, experiência profissional através do projeto FronteiraTec, além de várias opções de estágios em empresas da região.</p>
+## Objetivo
+------
+<p class="text-justify">Estruturar ambientes, capacitar agentes educacionais e produzir e mediar na produção de conteúdos que possibitem a produção de conteúdos de ensino e tecnologias baseadas em metodologias ativas para promover a inovação do processo de aprendizagem de estudantes em componentes curriculares e extracurriculares da UFFS.</p>
 
-### Perfil do egresso
+### Objetivos específicos
 
-<p class="text-justify">O egresso do Bacharelado em Ciência da Computação da UFFS deverá possuir um conjunto de competências, habilidades e atitudes adquiridas durante a realização do curso. Por definição, o bacharel em Ciência da Computação deve ser um profissional qualificado para a pesquisa e o desenvolvimento na área de computação, para o projeto e construção de software básico e também para o uso de sistemas computadorizados em outras áreas da atividade humana, a fim de viabilizar ou aumentar a produtividade e a qualidade de todos os tipos de procedimentos. Na UFFS, todo egresso deve ser um profissional com domínio e capacidade para trabalhar na área da Computação, desenvolvendo projetos de computadores e sistemas de computação, programas e sistemas de informação. As características desejáveis dos egressos do curso de Ciência da Computação da UFFS são as seguintes:</p>
+- Mapear tecnologias já existentes que poderão ser utilizadas nos processos de ensino e aprendizagem de componentes curriculares da UFFS;
 
-- Capacidade para aplicar seus conhecimentos de forma independente e inovadora, acompanhando a evolução do setor e contribuindo na busca de soluções nas diferentes áreas aplicadas;
+- Propor o layout e as características técnicas e instrumentais de ambientes de gravação e produção de conteúdos e aulas semipresenciais;
 
-- Formação humanística que permita a compreensão do mundo e da sociedade, assim como o desenvolvimento de habilidades de trabalho em grupo e de comunicação e expressão;
+- Realizar a criação da UFFSTV em plataforma digitial;
 
-- Preocupação constante com a atualização tecnológica;
+- Capacitar docentes e discentes para aulas telepresenciais;
 
-- Capacidade para construção de soluções de problemas com base científica;
+- Criar e desenvolver conteúdos digitais, bem como auxiliar na produção deste material por demanda direta dos docentes e taes.
 
-- Capacidade de modelagem e especificação de soluções computacionais para diversos tipos de problemas;
-
-- Liderança de projetos e implementação de sistemas de computação; e
-
-- Senso crítico para o desenvolvimento de novas maneiras de se utilizar computadores e sistemas computacionais.
-
-Para atender ao perfil profissional definido, as atividades do curso priorizam o exercício dos seguintes requisitos inerentes ao desempenho da profissão:
-
-- Método e disciplina de trabalho;
-
-- Raciocínio lógico e abstrato;
-
-- Capacidade de trabalho em equipe;
-
-- Criatividade, produtividade e iniciativa;
-
-- Disposição para efetuar trabalho complexo e minucioso;
-
-- Compromisso com o desenvolvimento tecnológico;
-
-- Compromisso com o ser humano; e
-
-- Senso crítico, seriedade e responsabilidade.
+- Participar mais ativamente na rede ensino básica e em setores produtivos da sociedade por meio do desenvolvimento de conteúdo direcionado e sob demanda.
