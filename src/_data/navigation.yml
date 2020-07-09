@@ -2,26 +2,38 @@
 
 # Top navbar
 
-- title: O programa
+- title: Sobre
   excerpt: "Programa Practice"
   image:
   dropdown:
-    # - title: Apresentação
-    #   url: /sobre
+    - title: O que é PRACTICE
+      url: /sobre
+    - title: ---
     - title: Equipe
       url: /equipe
-    # - title: ---
-    # - title: Notícias
-    #   url: /noticias
+    - title: ---
+    - title: Prcoin
+      url: /prcoin
 
 - title: Serviços
   excerpt: "Serviços Practice"
   dropdown:
-    - title: Em construção
-      url: /
+    - title: Fluxo de trabalho
+      url: /servico/fluxo
+    - title: ---
+    - title: Áudio e vídeo
+      url: /servico/midia
+    - title: ---
+    - title: Texto e imagem
+      url: /servico/conteudo
+    - title: ---
+    - title: Evento virtual
+      url: /servico/evento-virtual
 
 - title: Parcerias
   excerpt: "Parcerias Practice"
-  dropdown:
-    - title: Em construção
-      url: /
+  url: /parcerias
+
+- title: Contato
+  excerpt: "Contatos Practice"
+  url: /contato

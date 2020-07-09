@@ -1,6 +1,15 @@
-<div class="col-sm-2 m-2 text-center">
-    <a href="{{ person.github }}" style="color: #222;">
-        <img src="{{ person.avatar }}" class="card-img-top rounded-circle" alt="Avatarde {{ person.name }}">
-        <h5 class="card-title">{{ person.name }}</h5>
-    </a>
+<div class="col-sm-6" style="float: left;">
+    <div class="row m-3">
+        <div class="col-5">
+            <img src="{{ person.avatar }}" class="card-img-top rounded-circle" alt="Avatarde {{ person.name }}">
+        </div>
+        <div class="col-7">
+            <a href="{{ person.github }}" class="text-dark" target="_blank">
+                <h4><strong>{{ person.name }}</strong> <i class="fa fa-github"></i></h4>
+            </a>
+            <small>{{ person.formation }}</small>
+            <small>{{ person.uffs }}</small>
+        </div>
+    </div>
+
 </div>
