@@ -1,17 +1,17 @@
 ---
 layout: servicos
-title: "Fluxo de trabalho"
+title: "Coin"
 image:
   feature: banner-rotulo.png
-permalink: /servico/fluxo
+permalink: /contato/
 ---
 
 <section class="fdb-block">
   <div class="container">
     <div class="row align-items-center pt-2 pt-lg-5">
       <div class="col-12 col-md-8 col-lg-7">
-        <h2>Fluxo de trabalho</h2>
-        <p class="lead">Sobre fluxo de trabalho.</p>
+        <h2>Contato</h2>
+        <p class="lead">Forma de comunicação oficial através do e-mail practice@uffs.edu.br.</p>
       </div>
 
       <div class="col-8 col-md-4 m-auto m-md-0 ml-md-auto pt-5">
