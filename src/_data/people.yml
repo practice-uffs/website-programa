@@ -3,6 +3,8 @@
   name: Elisângela Ribas
   email: Elisangela.santos@uffs.edu.br
   position: coor-tec
+  uffs: Pedagoga
+  formation: Doutorado em Educação, em Ciências e Matemática
   avatar: /images/equipe/elisangela-ribas.jpg
   github: https://github.com/elisribas
 
@@ -10,6 +12,8 @@
   name: Fernando Bevilacqua
   email: fernando.bevilacqua@uffs.edu.br
   position: coor-geral
+  uffs: Professor de Ciência da Computação
+  formation: Doutor em Tecnologia da Informação
   avatar: /images/equipe/fernando-bevilacqua.png
   github: https://github.com/Dovyski
 
@@ -17,6 +21,8 @@
   name: Luciano Lores Caimi
   email: lcaimi@uffs.edu.br
   position: coor-tec
+  uffs: Professor de Ciência da Computação
+  formation: Doutor em Ciência da Computação
   avatar: /images/equipe/luciano-caimi.jpg
   github: https://github.com/lcaimi
 
@@ -24,6 +30,8 @@
   name: Maurício Fernando Bozatski
   email: mauricio@uffs.edu.br
   position: coor-geral
+  uffs: Professor de Filosofia
+  formation: Doutor em Filosofia
   avatar: /images/equipe/mauricio-bozatski.png
   github: https://github.com/phdmauricio
 
@@ -33,6 +41,7 @@
   name: Alessandra Pedrotti
   email: alessandrapedrotti24@gmail.com
   position: con-material
+  formation: Acadêmica de Letras
   avatar: /images/equipe/alessandra-pedrotti.jpg
   github: https://github.com/alessandrapedrotti
 
@@ -40,6 +49,7 @@
   name: Andrew M. Silva
   email: andrewsaxx@gmail.com
   position: dev
+  formation: Acadêmico de Ciência da Computação
   avatar: /images/equipe/andrew-silva.jpg
   github: https://github.com/andrewmsilva
 
@@ -47,6 +57,7 @@
   name: Cleisson Vieira Raimundi
   email: cleisson.raimundi@estudante.uffs.edu.br
   position: dev
+  formation: Acadêmico de Ciência da Computação
   avatar: /images/equipe/cleisson-raimundi.png
   github: https://github.com/CleissonVieira
 
@@ -54,6 +65,7 @@
   name: Estela Maris Vilas Boas
   email: estelavilasboas01@gmail.com
   position: dev
+  formation: Acadêmica de Ciência da Computação
   avatar: /images/equipe/estela-vilas-boas.jpg
   github: https://github.com/estelavilasboas
 
@@ -61,6 +73,7 @@
   name: Igor Matheus
   email: igor.uffs@gmail.com
   position: con-midia
+  formation: Acadêmico de Ciências Econômicas
   avatar: /images/equipe/igor-matheus.jpg
   github: https://github.com/oigor
 
@@ -68,6 +81,7 @@
   name: Isabeli Reik
   email: isabelireik2@gmail.com
   position: con-material
+  formation: Acadêmica de Ciência da Computação
   avatar: /images/equipe/isabeli-reik.jpg
   github: https://github.com/isabelirk
 
@@ -75,6 +89,7 @@
   name: Lucas Ferreira
   email: lucas.colegioagricola@gmail.com
   position: con-material
+  formation: Acadêmico de Agronomia
   avatar: /images/equipe/lucas-ferreira.jpg
   github: https://github.com/lucasgalize
 
@@ -82,6 +97,7 @@
   name: Maria Gelain
   email: mariaegelain9@gmail.com
   position: con-material
+  formation: Acadêmica de Geografia
   avatar: /images/equipe/maria-gelain.jpg
   github: https://github.com/mariagelain
 
@@ -89,6 +105,7 @@
   name: Matheus Dias Negrão
   email: matheus.dnegrao@gmail.com
   position: con-midia
+  formation: Acadêmico de Ciência da Computação
   avatar: /images/equipe/matheus-negrao.jpg
   github: https://github.com/MaNegrao
 
@@ -96,6 +113,7 @@
   name: Vinícius dos Reis
   email: viniciusdosreis312@gmail.com
   position: con-midia
+  formation: Acadêmico de Ciência da Computação
   avatar: /images/equipe/vinicius-reis.jpg
   github: https://github.com/vini2reis
 
@@ -103,5 +121,6 @@
   name: Vinícius França Alves
   email: viniciusfrancap@hotmail.com
   position: ger-aux
+  formation: Acadêmico de Ciências Econômicas
   avatar: /images/equipe/vinicius-alves.jpg
   github: https://github.com/VIF-Franca
