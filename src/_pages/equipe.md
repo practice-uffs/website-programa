@@ -1,10 +1,12 @@
 ---
 layout: hero
 title: "Equipe"
+image:
+  feature: banner-rotulo.png
 permalink: /equipe/
 ---
 
-<div class="row align-items-center pt-2 pt-lg-5">
+<div class="row align-items-center pt-2">
     <div class="col-md-7">
         <h2>Equipe</h2>
         <p class="lead">O PRACTICE conta com uma equipe de estudantes e professores que se dedicam de forma organizada e eficiente para realizar diversos tipos de atividades.</p>
