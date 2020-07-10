@@ -1,32 +1,27 @@
 ---
-layout: hero
-title: "Projetos de pesquisa"
-permalink: /pesquisa/projetos/
+layout: servicos
+title: "Parcerias"
+image:
+  feature: banner-rotulo.png
+permalink: /parcerias
 ---
 
-<section class="fdb-block">
-  <div class="container">
-    <div class="row align-items-center pt-2 pt-lg-5">
-      <div class="col-12 col-md-8 col-lg-7">
-        <h2>Projetos de pesquisa</h2>
-        <p class="lead">O curso de Ciência da Computação e seus integrantes estão constantemente envolvidos em projetos de pesquisa nas mais diversas áreas.</p>
-        <p class="mt-4"><a class="btn btn-primary" href="/pesquisa/grupos">Ver grupos de pesquisa</a></p>
-      </div>
-
-      <div class="col-8 col-md-4 m-auto m-md-0 ml-md-auto pt-5">
-        <p><img alt="image" class="img-fluid" src="https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs//draws/rocket.svg"></p>
-      </div>
+<div class="container">
+    <div class="row align-items-center pt-2">
+        <div class="col-md-7">
+            <h2>Parcerias</h2>
+        </div>
     </div>
-  </div>
-</section>
+</div>
 
-{% assign projects = site.data.projects | where: "type","project-research" %}
+
+{% assign projects = site.data.projects | where: "type","project-extension" %}
 
 <section>
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-12 text-left">
-        <h2>Projetos em andamento</h2>
+        <h3>Projetos em andamento</h3>
         <hr />
       </div>
     </div>
@@ -46,10 +41,10 @@ permalink: /pesquisa/projetos/
 {% assign inactive_projects = projects | where: "active",false %}
 
 <section>
-  <div class="container">
+  <div class="container breath-top">
     <div class="row justify-content-center">
       <div class="col-12 text-left">
-        <h2>Projetos finalizados</h2>
+        <h3>Projetos finalizados</h3>
         <hr />
       </div>
     </div>

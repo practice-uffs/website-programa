@@ -8,7 +8,7 @@ permalink: /servico/midia/
 
 <section class="fdb-block">
   <div class="container">
-    <div class="row align-items-center pt-2 pt-lg-5">
+    <div class="row align-items-center pt-2">
       <div class="col-12 col-md-8 col-lg-7">
         <h2>Áudio e vídeo</h2>
         <p class="lead">Equipe responsável pela criação de conteúdo de Áudio e vídeo.</p>
