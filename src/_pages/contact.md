@@ -1,6 +1,6 @@
 ---
 layout: servicos
-title: "Coin"
+title: "Contatos"
 image:
   feature: banner-rotulo.png
 permalink: /contato/

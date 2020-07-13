@@ -1,6 +1,6 @@
 ---
 layout: hero
-title: "Sobre o curso"
+title: "Sobre"
 image:
   feature: banner-rotulo.png
 permalink: /sobre/
