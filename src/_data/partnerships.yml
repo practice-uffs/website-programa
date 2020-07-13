@@ -1,0 +1,25 @@
+- project:
+  type: partnerships
+  active: true
+  author: Acadêmicos da UFFS
+  role: Coordenador
+  title: FronteiraCast
+  funding: Acadêmicos de Ciência da Computação da UFFS
+  date_start: 2019
+  date_end:
+  web: https://uffs.cc/fronteiracast
+  description: O FronteiraCast é um novo projeto de cultura fundado por estudantes de Ciência da Computação da UFFS Campus Chapecó em conjunto com o coordenador do curso Fernando Bevilacqua e professor Maurício Bozatski da área da Filosofia.
+  image: /images/partnerships/fronteiracast.png
+
+- project:
+  type: partnerships
+  active: true
+  author: Acadêmicos da UFFS
+  role: Colaborador
+  title: Grupo de Invovação Tecnológica Experimental (GRINTEX)
+  funding: Acadêmicos de Ciência da Computação da UFFS
+  date_start: 2020
+  date_end:
+  web: https://grintex.uffs.cc
+  description:  O Grupo de Inovação Tecnológica Experimental é formado por acadêmicos da UFFS Campus Chapecó.
+  image: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/tabs.svg
