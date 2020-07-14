@@ -1,5 +1,14 @@
 # Coordenação
 - person:
+  name: Alexandre Manoel dos Santos
+  email: alexandre.manoel@uffs.edu.br
+  position: coor-tec-ls
+  uffs: Professor de Magistério Superior
+  formation: Doutor em Engenharia de Produção
+  avatar: /images/equipe/alexandre.jpeg
+  github: https://github.com/Alexandre-Manoel
+
+- person:
   name: Elisângela Ribas
   email: Elisangela.santos@uffs.edu.br
   position: coor-tec
@@ -16,6 +25,15 @@
   formation: Doutor em Tecnologia da Informação
   avatar: /images/equipe/fernando-bevilacqua.png
   github: https://github.com/Dovyski
+
+- person:
+  name: Luciano da Silva Lopes
+  email: luciano.lopes@uffs.edu.br
+  position: coor-tec-ls
+  uffs: Técnico-Administrativo
+  formation: Técnico de Tecnologia da Informação
+  avatar: /images/equipe/
+  github:
 
 - person:
   name: Luciano Lores Caimi
