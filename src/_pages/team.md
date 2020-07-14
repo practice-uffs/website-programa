@@ -9,7 +9,7 @@ permalink: /equipe/
 <div class="row align-items-center pt-2">
     <div class="col-md-7">
         <h2>Equipe</h2>
-        <p class="lead">O PRACTICE conta com uma equipe de estudantes e professores que se dedicam de forma organizada e eficiente para realizar diversos tipos de atividades.</p>
+        <p class="lead">O PRACTICE conta com uma equipe de estudantes e servidores que se dedicam de forma organizada e eficiente para realizar diversos tipos de atividades.</p>
     </div>
     <div class="col-md-1"></div>
     <div class="col-md-4">
@@ -21,16 +21,23 @@ permalink: /equipe/
   <div class="container">
     <section>
       <h2>Coordenação</h2>
-      <h3>Coordenação geral</h3>
+      <h3>Coordenação Geral</h3>
       <div class="card-group">
         {% assign people = site.data.people | where:"position","coor-geral" | sort:"name" %}
         {% for person in people %}
           {% include person-grid.html %}
         {% endfor %}
       </div>
-      <h3>Coordenação técnica-pedagógica</h3>
+      <h3>Coordenação Técnica-pedagógica</h3>
       <div class="card-group">
         {% assign people = site.data.people | where:"position","coor-tec" | sort:"name" %}
+        {% for person in people %}
+          {% include person-grid.html %}
+        {% endfor %}
+      </div>
+      <h3>Equipe Técnica Pedagógica Campus Laranjeiras do Sul</h3>
+      <div class="card-group">
+        {% assign people = site.data.people | where:"position","coor-tec-ls" | sort:"name" %}
         {% for person in people %}
           {% include person-grid.html %}
         {% endfor %}
