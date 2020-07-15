@@ -32,8 +32,8 @@
   position: coor-tec-ls
   uffs: Técnico-Administrativo
   formation: Técnico de Tecnologia da Informação
-  avatar: /images/equipe/
-  github:
+  avatar: /images/equipe/lucianolopes.jpeg
+  github: https://github.com/luciferd
 
 - person:
   name: Luciano Lores Caimi
