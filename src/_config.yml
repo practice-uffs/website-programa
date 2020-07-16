@@ -54,14 +54,14 @@ collections: # Collections of content
 
 # Site owner
 owner:
-  name: Coordenação CC
-  email: computacao.ch@uffs.edu.br
+  name: Equipe PRACTICE
+  email: practice@uffs.edu.br
   twitter:
   google:
     ad-client:
     ad-slot:
-  bio: Coordenação do Curso de Ciência da Computação
-  avatar: bio-photo.jpg # 160x160 px image for author byline
+  bio: Equipe PRACTICE
+  avatar: logo-icon.png # 160x160 px image for author byline
   disqus-shortname:
 
 include:
