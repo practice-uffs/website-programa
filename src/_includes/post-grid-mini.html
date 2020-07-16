@@ -1,17 +1,21 @@
 <div class="row post-grid-mini">
   <div class="col-1 image">
-      <a href="{% if post.web %}{{ post.web }}{% endif %}" {% if post.web %}target="_blank"{% endif %}><img alt="image" class="img-fluid" src="{{ post.image }}"></a>
+    <a href="{{ site.url }}{{ post.url }}">
+      <img alt="image" class="img-fluid" src="{{ site.url }}{{ post.image.feature }}">
+    </a>
   </div>
   <div class="col-11">
-    <h3>{% if post.web %} <a href="{{ post.web }}" target="_blank">{{ post.title }}</a> {% else %} {{ post.title }} {% endif %}</h3>
+    <h4>
+      <a href="{{ site.url }}{{ post.url }}" target="_blank">{{ post.title }}</a>
+    </h4>
+    <p>{{ post.description }}</p>
 
-      {% assign text = post.description %}
-
-      <p>{{ text }}</p>
-      <p class="meta">
-        <i class="fa fa-calendar"></i> {{ post.date_start }} {% if post.date_end %} a {{ post.date_end }} {% endif %}
-        {% if post.funding %}<i class="fa fa-money"></i> {{ post.funding }}{% endif %}
-        {% if post.tags %}<i class="fa fa-tags"></i> {{ post.tags | join: "," }}{% endif %}
+    {% if post.date %}
+      <p class="entry-date date published">
+        <time datetime="{{ post.date | date: '%Y-%m-%d' }}" itemprop="datePublished">
+          <small>{{ post.date | date: "%d de %B de %Y" }}</small>
+        </time>
       </p>
+    {% endif %}
   </div>
 </div>
