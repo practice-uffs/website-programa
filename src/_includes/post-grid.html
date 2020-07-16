@@ -14,7 +14,7 @@
   </h2>
   <p class="post-excerpt" itemprop="description">
     {% if post.description %} 
-      {{ post.description | truncate: 100 }}
+      {{ post.description }}
     {% else %} 
       {{ post.excerpt | strip_html | truncate: 100 }}
     {% endif %}

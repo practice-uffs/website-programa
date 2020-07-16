@@ -8,7 +8,7 @@
     <a href="{{ site.url }}{{ post.url }}" target="_blank">{{ post.title }}</a>
     <p>
       {% if post.description %} 
-        {{ post.description | truncate: 100 }}
+        {{ post.description }}
       {% else %} 
         {{ post.excerpt | strip_html | truncate: 100 }}
       {% endif %}
