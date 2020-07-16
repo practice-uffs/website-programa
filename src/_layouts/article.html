@@ -3,11 +3,11 @@ layout: default
 ---
 
 <div id="main" role="main">
-	<article class="wrap" itemscope itemtype="http://schema.org/Article">
+	<article class="wrap text-justify" itemscope itemtype="http://schema.org/Article" style="margin-top: 90px;">
 		{% if page.image.feature %}
 		<div class="page-feature">
 			<div class="page-image">
-				<img src="{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}" itemprop="image">
+				<img src="{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}" itemprop="image" />
 				{% if page.image.credit %}{% include image-credit.html %}{% endif %}
 			</div><!-- /.page-image -->
 		</div><!-- /.page-feature -->
@@ -15,18 +15,43 @@ layout: default
 		{% include breadcrumbs.html %}
 		<div class="page-title">
 			<h1>{{ page.title }}</h1>
+			{% include page-meta.html %}
 		</div>
 		<div class="inner-wrap">
-			<div id="content" class="page-content" itemprop="articleBody">
+			<div id="content" itemprop="articleBody">
+				{% if page.description %}
+					<hr />
+					<h4>{{ page.description }}</h4>
+				{% endif %}
+				<hr />
 				{{ content }}
 				<hr />
 				<footer class="page-footer">
 					{% if page.categories %}{% include page-author.html %}{% endif %}
 					{% if page.share != false %}{% include share-this.html %}{% endif %}
-					{% include page-meta.html %}
 				</footer><!-- /.footer -->
 			</div><!-- /.content -->
 		</div><!-- /.inner-wrap -->
-		{% if page.ads == true %}<div class="ads">{% include advertising.html %}</div><!-- /.ads -->{% endif %}
+		<div class="mr-4">
+			<div class="card">
+			  <div class="card-header">
+				<h4>Últimas notícias</h4>
+			  </div>
+			  <div class="card-body">
+				<div class="row">
+				  <div class="col-12 text-left">
+					{% for post in site.categories.noticias limit: 2 %}
+						{% include post-grid-mini.html %}
+					{% endfor %}
+				  </div>
+				</div>
+				<div class="row">
+				  <div class="col-12 text-right">
+					<a href="/noticias">Ver mais notícias</a>
+				  </div>
+				</div>
+			  </div>
+			</div>
+		</div>
 	</article><!-- ./wrap -->
 </div><!-- /#main -->

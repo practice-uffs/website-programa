@@ -9,7 +9,7 @@ locales:
     toc: "Sumário"
     written_by: "Postado por"
     updated: "Atualizado em"
-    share: "Compartilhe"
+    share: ""
   en_US:
     <<: *DEFAULT_EN     # use English translation for en_US
   en_UK:
