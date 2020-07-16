@@ -1,16 +1,19 @@
 ---
-layout: archive
+layout: hero
 title: "Notícias"
 date: 2014-05-30T11:39:03-04:00
-excerpt: ""
 tags: []
 image:
-  feature:
-  teaser:
+  feature: banner-rotulo.png
 ---
-
-<div class="tiles">
-  {% for post in site.categories.noticias %}
-    {% include post-grid.html %}
-  {% endfor %}
-</div><!-- /.tiles -->
+<article>
+  <div class="page-title">
+    <h1>Notícias</h1>
+    <hr />
+  </div>
+  <div class="tiles">
+    {% for post in site.categories.noticias %}
+      {% include post-grid.html %}
+    {% endfor %}
+  </div>
+</article>
