@@ -1,6 +1,6 @@
 ---
 title: "Vídeo promocional"
-description: "Assista agora um vídeo curto apresentando como o PRACTICE pode inovar no âmbito acadêmico!"
+description: "Descubra como o PRACTICE pode inovar no âmbito acadêmico!"
 layout: article
 categories: noticias
 last_modified_at: 2020-05-19T16:00:00-00:00

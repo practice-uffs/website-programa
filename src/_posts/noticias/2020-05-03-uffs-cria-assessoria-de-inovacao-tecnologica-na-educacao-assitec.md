@@ -1,6 +1,6 @@
 ---
 title: "UFFS cria Assessoria de Inovação Tecnológica na Educação - ASSITEC"
-description: "Uma das primeiras ações do órgão é o Programa de Ampliação e Consolidação de Tecnologias e Inovação no Contexto Educacional – PRACTICE!"
+description: "Uma das primeiras ações do órgão é o PRACTICE!"
 layout: article
 categories: noticias
 last_modified_at: 2020-05-03T16:06:00-00:00
