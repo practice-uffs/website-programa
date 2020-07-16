@@ -5,17 +5,13 @@
     </a>
   </div>
   <div class="col-11">
-    <h4>
-      <a href="{{ site.url }}{{ post.url }}" target="_blank">{{ post.title }}</a>
-    </h4>
-    <p>{{ post.description }}</p>
-
-    {% if post.date %}
-      <p class="entry-date date published">
-        <time datetime="{{ post.date | date: '%Y-%m-%d' }}" itemprop="datePublished">
-          <small>{{ post.date | date: "%d de %B de %Y" }}</small>
-        </time>
-      </p>
-    {% endif %}
+    <a href="{{ site.url }}{{ post.url }}" target="_blank">{{ post.title }}</a>
+    <p>
+      {% if post.description %} 
+        {{ post.description | truncate: 100 }}
+      {% else %} 
+        {{ post.excerpt | strip_html | truncate: 100 }}
+      {% endif %}
+    </p>
   </div>
 </div>

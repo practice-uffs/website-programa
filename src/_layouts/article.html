@@ -32,6 +32,26 @@ layout: default
 				</footer><!-- /.footer -->
 			</div><!-- /.content -->
 		</div><!-- /.inner-wrap -->
-		{% if page.ads == true %}<div class="ads">{% include advertising.html %}</div><!-- /.ads -->{% endif %}
+		<div class="mr-4">
+			<div class="card">
+			  <div class="card-header">
+				<h4>Últimas notícias</h4>
+			  </div>
+			  <div class="card-body">
+				<div class="row">
+				  <div class="col-12 text-left">
+					{% for post in site.categories.noticias limit: 2 %}
+						{% include post-grid-mini.html %}
+					{% endfor %}
+				  </div>
+				</div>
+				<div class="row">
+				  <div class="col-12 text-right">
+					<a href="/noticias">Ver mais notícias</a>
+				  </div>
+				</div>
+			  </div>
+			</div>
+		</div>
 	</article><!-- ./wrap -->
 </div><!-- /#main -->
