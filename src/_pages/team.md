@@ -20,7 +20,7 @@ permalink: /equipe/
 <section class="fdb-block">
   <div class="container">
     <section>
-      <h2>Coordenação</h2>
+      <h2 class="pb-3">Coordenação</h2>
       <h3>Coordenação Geral</h3>
       <div class="card-group">
         {% assign people = site.data.people | where:"position","coor-geral" | sort:"name" %}
@@ -43,8 +43,8 @@ permalink: /equipe/
         {% endfor %}
       </div>
     </section>
-    <section>
-      <h2>Produção de conteúdo</h2>
+    <section> <hr class="pb-4">
+      <h2 class="pb-3">Produção de conteúdo</h2>
       <h3>Texto e roteiro</h3>
       <div class="card-group">
         {% assign people = site.data.people | where:"position","con-material" | sort:"name" %}
@@ -60,8 +60,8 @@ permalink: /equipe/
         {% endfor %}
       </div>
     </section>
-    <section>
-      <h2>Desenvolvimento de software</h2>
+    <section> <hr class="pb-4">
+      <h2 class="pb-3">Desenvolvimento de software</h2>
       <div class="card-group">
         {% assign people = site.data.people | where:"position","dev" | sort:"name" %}
         {% for person in people %}
@@ -69,8 +69,8 @@ permalink: /equipe/
         {% endfor %}
       </div>
     </section>
-    <section>
-      <h2>Auxílio organizacional</h2>
+    <section> <hr class="pb-4">
+      <h2 class="pb-3">Auxílio organizacional</h2>
       <div class="card-group">
         {% assign people = site.data.people | where:"position","ger-aux" | sort:"name" %}
         {% for person in people %}
