@@ -36,7 +36,7 @@ permalink: /parcerias
           {% assign active_partnerships = partnerships | where: "active",true | sort:"date_start" | reverse %}
           {% for post in active_partnerships %}
             <hr />
-            {% include post-grid-mini.html %}
+            {% include post-partnerships.html %}
           {% endfor %}
         </div>
       </div>
