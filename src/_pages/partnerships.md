@@ -3,7 +3,7 @@ layout: hero
 title: "Parcerias"
 image:
   feature: banner-rotulo.png
-permalink: /parcerias
+permalink: /parcerias/
 ---
 
 <section class="fdb-block">
