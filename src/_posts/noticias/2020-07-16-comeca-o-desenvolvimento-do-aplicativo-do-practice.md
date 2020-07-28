@@ -6,7 +6,7 @@ layout: article
 categories: noticias
 last_modified_at: 2020-07-16T16:40:00-00:00
 highlight: true
-highlight_order: 1
+highlight_order: 2
 share: true
 image:
   teaser: posts/2020-07-16-comeca-o-desenvolvimento-do-aplicativo-do-practice.png
