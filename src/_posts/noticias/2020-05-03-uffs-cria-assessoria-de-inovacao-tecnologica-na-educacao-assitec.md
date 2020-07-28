@@ -1,6 +1,7 @@
 ---
 title: "UFFS cria Assessoria de Inovação Tecnológica na Educação - ASSITEC"
 description: "Uma das primeiras ações do órgão é o PRACTICE!"
+source: https://www.uffs.edu.br/institucional/reitoria/diretoria_de_comunicacao_social/noticias/uffs-cria-assessoria-de-inovacao-tecnologica-na-educacao-assitec
 layout: article
 categories: noticias
 last_modified_at: 2020-05-03T16:06:00-00:00
@@ -36,4 +37,4 @@ Basicamente, o Programa de Ampliação e Consolidação de Tecnologias e Inovaç
 
 ---
 #### Fonte
-[Notícia original](https://www.uffs.edu.br/institucional/reitoria/diretoria_de_comunicacao_social/noticias/uffs-cria-assessoria-de-inovacao-tecnologica-na-educacao-assitec)
+[Notícia original]({{page.source}})

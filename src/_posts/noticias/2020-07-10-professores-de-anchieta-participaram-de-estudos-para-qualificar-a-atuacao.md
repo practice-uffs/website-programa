@@ -1,6 +1,7 @@
 ---
 title: "Professores de Anchieta participaram de estudos para qualificar a atuação"
 description: "PRACTICE realiza formação continuada para professores"
+source: https://www.anchieta.sc.gov.br/noticias/index/ver/codNoticia/625796/codMapaItem/8589
 layout: article
 categories: noticias
 last_modified_at: 2020-07-10T16:46:00-00:00
@@ -23,4 +24,5 @@ Os encontros foram realizados nas datas, assessorias e temáticas abaixo relacio
 A formação foi proporcionada pela Secretaria Municipal de Educação aos professores, a sua realização faz parte do Programa PRACTICE da UFFS – Universidade Federal da Fronteira Sul, coordenada pelo Prof. Dr. Maurício Bozatski, trouxe estudos importantes e não teve custos ao município.
 
 ---
-[Notícia original](https://www.anchieta.sc.gov.br/noticias/index/ver/codNoticia/625796/codMapaItem/8589)
+#### Fonte
+[Notícia original]({{page.source}})

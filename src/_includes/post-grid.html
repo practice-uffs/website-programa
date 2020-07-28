@@ -5,7 +5,7 @@
   {% if post.date %}
     <p class="entry-date date published">
       <time datetime="{{ post.date | date: '%Y-%m-%d' }}" itemprop="datePublished">
-        <small>{{ post.date | date: "%d de %B de %Y" }}</small>
+        <small>{% include data.html date=post.date %}</small>
       </time>
     </p>
   {% endif %}
@@ -13,9 +13,9 @@
     <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
   </h2>
   <p class="post-excerpt" itemprop="description">
-    {% if post.description %} 
+    {% if post.description %}
       {{ post.description }}
-    {% else %} 
+    {% else %}
       {{ post.excerpt | strip_html | truncate: 100 }}
     {% endif %}
   </p>
