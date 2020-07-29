@@ -4,3 +4,10 @@
   title: Cartilha para criação e condução de videoconferência
   modified: 2020
   image: /images/resources/cartilha-para-criacao-e-conducao-de-videoconferencia.png
+
+- resource:
+  active: true
+  file: /resources/cartilha-de-edicao-de-imagem-ferramenta-photopea.pdf
+  title: "Cartilha de edição de imagem: ferramenta Photopea"
+  modified: 2020
+  image: /images/resources/cartilha-de-edicao-de-imagem-ferramenta-photopea.png
