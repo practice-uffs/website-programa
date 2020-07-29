@@ -11,3 +11,10 @@
   title: "Cartilha de edição de imagem: ferramenta Photopea"
   modified: 2020
   image: /images/resources/cartilha-de-edicao-de-imagem-ferramenta-photopea.png
+
+- resource:
+  active: true
+  file: /resources/cartilha-de-iluminacao-angulo-e-audio.pdf
+  title: "Cartilha de iluminação, ângulo e áudio"
+  modified: 2020
+  image: /images/resources/cartilha-de-iluminacao-angulo-e-audio.png
