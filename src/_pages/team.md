@@ -45,7 +45,7 @@ permalink: /equipe/
     </section>
     <section> <hr class="pb-4">
       <h2 class="pb-3">Produção de conteúdo</h2>
-      <h3>Texto e roteiro</h3>
+      <h3>Texto e imagem</h3>
       <div class="card-group">
         {% assign people = site.data.people | where:"position","con-material" | sort:"name" %}
         {% for person in people %}

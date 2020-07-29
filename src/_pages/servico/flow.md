@@ -9,25 +9,24 @@ permalink: /servico/fluxo/
 
 <div class="row align-items-center pt-2">
     <div class="col-md-7">
-        <h2>{{ page.title }}</h2>
-        <p class="lead">Horizontes, equipes e sprints</p>
+        <h3>{{ page.title }}</h3>
     </div>
 </div>
 
 
 &nbsp;
-#### Atualmente trabalhamos em cima de 3 horizontes:
-* Horizonte Zero:
+#### Trabalhamos com nossas metas divididas em 3 horizontes :
+* Horizonte Zero (planos a curto prazo):
   * Produção de guias e tutoriais;
-  * Produção de vídeo;
+  * produção de vídeos;
   * Produção de livros e apostilas;
   * Facilitação no consumo de conteúdos;
-* Horizonte Um:
+* Horizonte Um (planos a medio prazo):
   * Formas de consumo de conteúdo;
   * Políticas de acesso;
-* Horizonte Dois:
+* Horizonte Dois (planos a longo prazo):
   * Produção de elementos interativos;
-  * Material para consumo da comunidade externa;
+  * Materiais para uso da comunidade externa;
 
 &nbsp;
 #### Para trabalhar em cima desses horizontes, dividimos 4 equipe principais:
@@ -46,6 +45,6 @@ permalink: /servico/fluxo/
 #### Fluxo de trabalho das equipes:
 * Toda comunicação é feita exclusivamente no <a href="https://github.com/" target="_blank">GitHub</a>
 * Utilizamos o método ágil <a href="https://www.desenvolvimentoagil.com.br/scrum/" target="_blank">Scrum</a> e trabalhamos em cima de Sprints que tem duração de 14 dias (2 semanas):
-  * A sprint se inicia com uma reunião de planejamento onde são definidos tarefas e essas inseridas em um Quadro de Tarefa Scrum onde os membros de cada equipe tem acesso para relizar essas atividades.
-  * Após 7 dias há uma reunião de andamento onde é verificado com cada membro como está o andamento das tarefas, o que foi feito até o momento, se o membro teve dificuldades, se sim quais, e dessa forma melhoranda a forma de trabalhar e o engajamento da equipe.
-  * No décimo quarto dia há uma reunião de fechamento de sprint onde segue o mesmo processo da reunião do sétimo dia e passado sobre o inicio de uma nova sprint.
+  * A sprint é iniciada com uma reunião de planejamento, que define as tarefas que serão desenvolvidas. Essas tarefas então são inseridas em um   Quadro de Tarefas Scrum pelo qual os membros de cada equipe tem acesso para realiza-las.
+  Após 7 dias, é realizada uma reunião de andamento, pela qual se verifica detalhadamente o andamento do trabalho das equipes visando aperfeiçoar o fluxo de trabalho.
+  O fechamento da sprint acontece ao final do período de 14 dias e cabe a gerência encerrar as tarefas que foram desenvolvidas no período ou mantê-las abertas para a próxima sprint, caso o resultado não tenha sido satisfatório.

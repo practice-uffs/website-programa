@@ -9,7 +9,7 @@ image:
 <section>
   <div class="card breath-top">
     <div class="card-header">
-      <h2>Destaques</h2>
+      <h3>Destaques</h3>
     </div>
     <div class="card-body">
       <div class="row justify-content-center">
@@ -29,7 +29,7 @@ image:
 <section>
   <div class="card breath-top">
     <div class="card-header">
-      <h2>Últimas notícias</h2>
+      <h3>Últimas notícias</h3>
     </div>
     <div class="card-body">
       <div class="row">

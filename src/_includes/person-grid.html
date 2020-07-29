@@ -7,8 +7,8 @@
             <a href="{{ person.github }}" class="text-dark" target="_blank">
                 <h4><strong>{{ person.name }}</strong> <i class="fa fa-github"></i></h4>
             </a>
-            <small>{{ person.formation }}</small>
-            <small>{{ person.uffs }}</small>
+            <small>{{ person.formation }}.</small><br>
+            {% if person.uffs %}<small>{{ person.uffs }}.</small>{% endif %}
         </div>
     </div>
 
