@@ -42,10 +42,10 @@ permalink: /servico/midia/
   <div class="container">
     <div class="row align-items-center pt-2">
       <div class="col-12 col-md-5 col-lg-6">
+        <h2 class="text-left" style="color: #00384d;">Áudio Expositivo Longo</h2>
         <p class="lead text-justify">Pode ser feito em 2 modelos: Áudios com até 3 pessoas e uma trilha musical, gravado de forma corrida, com edição simples (apenas cortes necessários), como podcasts simples. Ou áudios de até 5 pessoas com a possibilidade de trilha e efeitos sonoros mais elaborados e composição de diferentes áudios, como entrevistas e/ou leitura de livros. Os áudios podem ser enviados pelo solicitante ou gravados no estúdio do PRACTICE.</p>
       </div>
       <div class="col-8 col-md-5 m-auto m-md-5 ml-md-auto pt-2">
-        <h2 class="text-left mb-5" style="color: #00384d;">Áudio Expositivo Longo</h2>
         <p><img style="width: 400px;" src="{{ site.url }}/images/midia/undraw_audio_conversation_dgtw.svg" alt="logo"></p>
       </div>
     </div>
