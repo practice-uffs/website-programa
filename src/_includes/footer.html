@@ -4,15 +4,15 @@
 			<div class="col-md-5 text-md-left">
 				<h3><i class="fa fa-angle-right"></i><strong>Coordenação Practice</strong></h3>
 
-				<p>
-					<i class="fa fa-envelope"></i> practice@uffs.edu.br <br />
+				<p style="color: #727373;">
+					<i class="fa fa-envelope"></i>practice@uffs.edu.br <br />
 				</p>
 				<br />
 				<h4><strong>Coordenação Geral</strong></h4>
 
 			{% assign people = site.data.people | where:"position","coor-geral" | sort:"name" %}
         {% for person in people %}
-					<p>
+					<p style="color: #727373;">
 						<i class="fa fa-user"></i> <strong>{{ person.name }}</strong> <br />
 						<small>
 							<i class="fa fa-envelope"></i>{{ person.email }}<br />
@@ -24,7 +24,7 @@
 
 				{% assign people = site.data.people | where:"position","coor-tec" | sort:"name" %}
         {% for person in people %}
-					<p>
+					<p  style="color: #727373;">
 						<i class="fa fa-user"></i> <strong>{{ person.name }}</strong> <br />
 						<small>
 							<i class="fa fa-envelope"></i>{{ person.email }}<br />
@@ -36,19 +36,42 @@
 			<div class="col-md-1"></div>
 
 			<div class="col-md-3 text-sm-left">
-
+				<div class="row align-items-top text-center">
+					<div class="col-md-12 text-sm-left">
+						<h3><i class="fa fa-angle-right"></i><strong>Serviços</strong></h3>
+						<nav class="nav flex-column">
+							{% for link in site.data.navigation %}
+								{% if link.title == "Serviços" %}
+									{% if link.dropdown %}
+										{% for item in link.dropdown %}
+											{% if item.url != nil %}
+												{% if item.url contains 'http' %}
+													{% assign domain = '' %}
+												{% else %}
+													{% assign domain = site.url %}
+												{% endif %}
+												<a class="nav-link" href="{{ domain }}{{ item.url }}" {% if item.url contains 'http' %}target="_blank"{% endif %}><span style="color: #727373;">{{ item.title }}</span></a>
+											{% endif %}
+										{% endfor %}
+									{% endif %}
+								{% endif %}
+							{% endfor %}
+						</nav>
+					</div>
+				</div>
 			</div>
+
 
 			<div class="col-md-3 text-sm-left">
 				<div class="row align-items-top text-center">
 					<div class="col-md-12 text-sm-left">
 						<h3><i class="fa fa-angle-right"></i><strong>Redes Sociais</strong></h3>
 						<p class="lead">
-						<a href="https://github.com/practice-uffs"  class="mx-2" target="_blank"><i class="fa fa-github"></i></a>
-						<a href="https://www.instagram.com/practiceuffs/" class="mx-2" target="_blank"><i class="fa fa-instagram"></i></a>
-						<a href="https://www.facebook.com/PRACTICE-103075354796170/?modal=admin_todo_tour" class="mx-2" target="_blank"><i class="fa fa-facebook"></i></a>
-						<a href="https://twitter.com/PracticeUffs" class="mx-2" target="_blank"><i class="fa fa-twitter"></i></a>
-						<a href="https://www.youtube.com/channel/UCu3jAl8MTMPkaxb3u0_xESw?view_as=subscriber" class="mx-2" target="_blank"><i class="fa fa-youtube"></i></a>
+							<a href="https://github.com/practice-uffs"  class="mx-2" target="_blank"><i class="fa fa-github" style="color: #727373;"></i></a>
+							<a href="https://www.instagram.com/practiceuffs/" class="mx-2" target="_blank"><i class="fa fa-instagram" style="color: #727373;"></i></a>
+							<a href="https://www.facebook.com/PRACTICE-103075354796170/?modal=admin_todo_tour" class="mx-2" target="_blank"><i class="fa fa-facebook" style="color: #727373;"></i></a>
+							<a href="https://twitter.com/PracticeUFFS" class="mx-2" target="_blank"><i class="fa fa-twitter" style="color: #727373;"></i></a>
+							<a href="https://www.youtube.com/channel/UCu3jAl8MTMPkaxb3u0_xESw?view_as=subscriber" class="mx-2" target="_blank"><i class="fa fa-youtube" style="color: #727373;"></i></a>
 						</p>
 					</div>
 				</div>
