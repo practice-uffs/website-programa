@@ -3,7 +3,7 @@
 # Top navbar
 
 - title: Sobre
-  excerpt: "Programa Practice"
+  excerpt: "Programa PRACTICE"
   image:
   dropdown:
     - title: O que é PRACTICE
@@ -16,7 +16,7 @@
       url: /prcoin
 
 - title: Serviços
-  excerpt: "Serviços Practice"
+  excerpt: "Serviços PRACTICE"
   dropdown:
     - title: Fluxo de trabalho
       url: /servico/fluxo
@@ -30,10 +30,14 @@
     - title: Evento virtual
       url: /servico/evento-virtual
 
+- title: Recursos
+  excerpt: "Recursos PRACTICE"
+  url: /recursos
+
 - title: Parcerias
-  excerpt: "Parcerias Practice"
+  excerpt: "Parcerias PRACTICE"
   url: /parcerias
 
 - title: Contato
-  excerpt: "Contatos Practice"
+  excerpt: "Contatos PRACTICE"
   url: /contato
