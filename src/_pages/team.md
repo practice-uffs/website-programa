@@ -9,18 +9,20 @@ permalink: /equipe/
 <div class="row align-items-center pt-2">
     <div class="col-md-7">
         <h2>Equipe</h2>
+        <hr class="pb-4">
         <p class="lead">O PRACTICE conta com uma equipe de estudantes e servidores que se dedicam de forma organizada e eficiente para realizar diversos tipos de atividades.</p>
     </div>
     <div class="col-md-1"></div>
-    <div class="col-md-4">
-        <p><img alt="image" class="img-fluid" src="https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/tabs.svg"></p>
+    <div class="col-md-3 mt-4">
+        <p><img alt="image" class="img-fluid" src="/images/icons/noun_team_2717434.svg"></p>
     </div>
 </div>
 
 <section class="fdb-block">
   <div class="container">
-    <section>
+    <section class="pt-5">
       <h2 class="pb-3">Coordenação</h2>
+      <hr class="pb-4">
       <h3>Coordenação Geral</h3>
       <div class="card-group">
         {% assign people = site.data.people | where:"position","coor-geral" | sort:"name" %}
@@ -43,8 +45,9 @@ permalink: /equipe/
         {% endfor %}
       </div>
     </section>
-    <section> <hr class="pb-4">
+    <section class="pt-5">
       <h2 class="pb-3">Produção de conteúdo</h2>
+      <hr class="pb-4">
       <h3>Texto e imagem</h3>
       <div class="card-group">
         {% assign people = site.data.people | where:"position","con-material" | sort:"name" %}
@@ -60,8 +63,9 @@ permalink: /equipe/
         {% endfor %}
       </div>
     </section>
-    <section> <hr class="pb-4">
+    <section class="pt-5">
       <h2 class="pb-3">Desenvolvimento de software</h2>
+      <hr class="pb-4">
       <div class="card-group">
         {% assign people = site.data.people | where:"position","dev" | sort:"name" %}
         {% for person in people %}
@@ -69,8 +73,9 @@ permalink: /equipe/
         {% endfor %}
       </div>
     </section>
-    <section> <hr class="pb-4">
+    <section class="pt-5">
       <h2 class="pb-3">Auxílio organizacional</h2>
+      <hr class="pb-4">
       <div class="card-group">
         {% assign people = site.data.people | where:"position","ger-aux" | sort:"name" %}
         {% for person in people %}
