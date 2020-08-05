@@ -7,15 +7,14 @@ permalink: /prcoin/
 ---
 
 <section class="fdb-block">
+  <h1>PRACTICE Coin</h1>
   <div class="container">
     <div class="row align-items-center pt-2">
-      <div class="col-12 col-md-8 col-lg-7">
-        <h2>PRACTICE Coin</h2>
-        <p class="lead">Em construção.</p>
+      <div class="col-md-10">
+        <h2>Conheça o que é o Programa de Ampliação e Consolidação de Tecnologias e Inovação no Contexto Educacional (PRACTICE)</h2>
       </div>
-
-      <div class="col-8 col-md-4 m-auto m-md-0 ml-md-auto pt-5">
-        <p><img alt="image" class="img-fluid" src="https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs//draws/git.svg"></p>
+      <div class="col-md-2">
+        <p><img src="/images/icons/ecology.svg" class="card-img-top rounded-circle" alt="image"></p>
       </div>
     </div>
   </div>

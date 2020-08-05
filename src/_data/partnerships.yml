@@ -1,12 +1,16 @@
 - project:
   type: partnerships
   active: true
-  author: Acadêmicos da UFFS
-  role: Coordenador
+  title: Curso de Ciência da Computação da UFFS
+  web: https://cc.uffs.edu.br/
+  description: O curso de Ciência da Computação da UFFS, campus Chapecó/SC, pretende, através de bases sólidas de computação, formar profissionais capazes de desempenhar um papel importante em áreas da Tecnologia da Informação (TI), tanto na Indústria quanto na Academia
+  image: /images/partnerships/grintex-logo-icon.png
+  url_image: https://cc.uffs.edu.br/images/favicons/android-chrome-512x512.png
+
+- project:
+  type: partnerships
+  active: true
   title: FronteiraCast
-  funding: Acadêmicos de Ciência da Computação da UFFS
-  date_start: 2019
-  date_end:
   web: https://uffs.cc/fronteiracast
   description: O FronteiraCast é um projeto de cultura fundado em 2019 por estudantes da UFFS Campus Chapecó em conjunto com o coordenador do curso de Ciência da Computação Fernando Bevilacqua e professor do curso de Filosofia Maurício Bozatski.
   image: /images/partnerships/fronteiracast.png
@@ -14,12 +18,7 @@
 - project:
   type: partnerships
   active: true
-  author: Acadêmicos da UFFS
-  role: Colaborador
   title: Grupo de Invovação Tecnológica Experimental (GRINTEX)
-  funding: Acadêmicos de Ciência da Computação da UFFS
-  date_start: 2019
-  date_end:
   web: https://grintex.uffs.cc
-  description:  O Grupo de Inovação Tecnológica Experimental (GRINTEX) da Universidade Federal da Fronteira Sul, campus Chapecó/SC, foi fundado em 2019. Atua com membros do curso de Ciência da Computação e da Secretaria Especial de Tecnologia da Informação (SETI).
+  description: O Grupo de Inovação Tecnológica Experimental (GRINTEX) da Universidade Federal da Fronteira Sul, campus Chapecó/SC, foi fundado em 2019. Atua com membros do curso de Ciência da Computação e da Secretaria Especial de Tecnologia da Informação (SETI).
   image: /images/partnerships/grintex-logo-icon.png

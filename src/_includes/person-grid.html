@@ -1,14 +1,13 @@
 <div class="col-sm-6" style="float: left;">
-    <div class="row m-3">
-        <div class="col-5">
+    <div class="row my-3 mr-5">
+        <div class="col-4">
             <img src="{{ person.avatar }}" class="card-img-top rounded-circle" alt="Avatarde {{ person.name }}">
         </div>
         <div class="col-7">
-            <a href="{{ person.github }}" class="text-dark" target="_blank">
-                <h4><strong>{{ person.name }}</strong> <i class="fa fa-github"></i></h4>
-            </a>
+            <h4><strong>{{ person.name }}</strong></h4>
             <small>{{ person.formation }}.</small><br>
-            {% if person.uffs %}<small>{{ person.uffs }}.</small>{% endif %}
+            {% if person.uffs %}<small>{{ person.uffs }}.</small><br>{% endif %}
+            <a href="{{ person.github }}" class="text-dark" target="_blank"><i class="fa fa-github"></i></a>
         </div>
     </div>
 

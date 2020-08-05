@@ -6,7 +6,21 @@ image:
 permalink: /sobre/
 ---
 
-## Resumo
+<section class="fdb-block">
+  <h1>Sobre</h1>
+  <div class="container">
+    <div class="row align-items-center pt-2">
+      <div class="col-md-10">
+        <h2>Conheça o que é o Programa de Ampliação e Consolidação de Tecnologias e Inovação no Contexto Educacional (PRACTICE)</h2>
+      </div>
+      <div class="col-md-2">
+        <p><img src="/images/icons/ecology.svg" class="card-img-top rounded-circle" alt="image"></p>
+      </div>
+    </div>
+  </div>
+</section>
+
+## Visão geral
 ------
 <p class="text-justify">O cenário de isolamento social motivou a utilização de estratégias emergenciais para continuidade das aulas, especialmente no ensino superior. Muitas instituições adotaram recursos próprios da Educação a Distância, como ambientes virtuais de ensino e aprendizagem, para realização de aulas ou orientações aos estudantes. Na UFFS, os diferentes cursos de graduação e pós-graduação, assim como pró-reitorias, construíram instrumentos que mapearam as habilidades dos professores em manusear diferentes tecnologias para a construção de aulas semipresenciais, bem como as condições de acesso dos estudantes. Os resultados divulgados em diferentes espaços, como o Conselho Universitário (Consuni), demonstraram a carência de conhecimento tecnológico e pedagógico desses professores, assim como a falta de acesso a tecnologias por parte de estudantes.
 
@@ -22,9 +36,11 @@ Estruturação de ambientes que possibilitem a gravação, a transmissão, ediç
 6. Contribuir para a curricularização da extensão a partir da produção de conteúdos voltados para a Educação Básica e os mais variados dos setores produtivos e governamentais; e,
 7. Proporcionar que o presente Programa tenha alcance em todos os campi da UFFS com o mesmo nível de interação e atuação.<p>
 
-Aqui está o link para você assistir o vídeo de apresentação do programa, [link: https://www.youtube.com/watch?v=MBX_Ij4qSPc](https://www.youtube.com/watch?v=MBX_Ij4qSPc)
+Conheça mais sobre o programa no [vídeo](https://www.youtube.com/watch?v=MBX_Ij4qSPc) abaixo:
 
-
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe src="https://www.youtube.com/watch?v=MBX_Ij4qSPc" class="embed-responsive-item" allowfullscreen></iframe>
+</div><br>
 
 ## Objetivo
 ------
