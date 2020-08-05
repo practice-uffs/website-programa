@@ -33,7 +33,7 @@ permalink: /parcerias/
     <div class="row justify-content-center">
       <div class="col-12">
         <div class="tiles">
-          {% assign active_partnerships = partnerships | where: "active",true | sort:"date_start" | reverse %}
+          {% assign active_partnerships = partnerships | where: "active",true %}
           {% for post in active_partnerships %}
             <hr />
             {% include post-partnerships.html %}
