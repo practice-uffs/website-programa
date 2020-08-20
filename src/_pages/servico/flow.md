@@ -6,15 +6,21 @@ image:
 permalink: /servico/fluxo/
 ---
 
-
-<div class="row align-items-center pt-2">
-    <div class="col-md-7">
-        <h3>{{ page.title }}</h3>
+<section class="fdb-block">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-12 col-md-8 col-lg-7">
+        <h2>{{ page.title }}</h2>
+        <p class="lead">Entenda sobre a forma de trabalho na equipe do PRACTICE.</p>
+      </div>
+      <div class="col-8 col-md-4 m-auto m-md-0 ml-md-auto pt-5">
+        <p><img alt="image" class="img-fluid" src="/images/illustrations/undraw_Scrum_board_re_wk7v.svg"></p>
+      </div>
     </div>
-</div>
+  </div>
+</section>
 
 
-&nbsp;
 #### Trabalhamos com nossas metas divididas em 3 horizontes :
 * Horizonte Zero (planos a curto prazo):
   * Produção de guias e tutoriais;
