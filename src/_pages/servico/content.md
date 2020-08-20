@@ -1,7 +1,6 @@
 ---
 layout: servicos
 title: "Texto e imagem"
-source: https://undraw.co/
 image:
   feature: banner-rotulo.png
 permalink: /servico/conteudo/
@@ -93,7 +92,3 @@ permalink: /servico/conteudo/
     </div>
   </div>
 </section>
-
----
-#### Fonte
-Todas as imagens têm como fonte o site:[https://undraw.co/]({{page.source}})
