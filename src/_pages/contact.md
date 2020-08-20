@@ -11,7 +11,7 @@ permalink: /contato/
     <div class="row align-items-center pt-2">
       <div class="col-12 col-md-8 col-lg-7">
         <h2>Contato</h2>
-        <h3>Entre em contato com o programa PRACTICE.</h3>
+        <p class="lead">Entre em contato com o programa PRACTICE.</p>
       </div>
       <div class="col-md-1"></div>
       <div class="col-md-3 mt-4">
