@@ -37,13 +37,6 @@ permalink: /equipe/
           {% include person-grid.html %}
         {% endfor %}
       </div>
-      <h3>Equipe Técnica Pedagógica Campus Laranjeiras do Sul</h3>
-      <div class="card-group">
-        {% assign people = site.data.people | where:"position","coor-tec-ls" | sort:"name" %}
-        {% for person in people %}
-          {% include person-grid.html %}
-        {% endfor %}
-      </div>
     </section>
     <section class="pt-5">
       <h2 class="pb-3">Produção de conteúdo</h2>
