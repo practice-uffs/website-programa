@@ -1,7 +1,6 @@
 ---
 layout: servicos
 title: "Áudio e vídeo"
-source: https://undraw.co/
 image:
   feature: banner-rotulo.png
 permalink: /servico/midia/
@@ -207,7 +206,3 @@ permalink: /servico/midia/
     </div>
   </div>
 </section>
-
----
-#### Fonte
-Todas as imagens têm como fonte o site:[https://undraw.co/]({{page.source}})

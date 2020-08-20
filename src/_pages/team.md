@@ -6,17 +6,20 @@ image:
 permalink: /equipe/
 ---
 
-<div class="row align-items-center pt-2">
-    <div class="col-md-7">
+<section class="fdb-block">
+  <div class="container">
+    <div class="row align-items-center pt-2">
+      <div class="col-12 col-md-8 col-lg-7">
         <h2>Equipe</h2>
-        <hr class="pb-4">
         <p class="lead">O PRACTICE conta com uma equipe de estudantes e servidores que se dedicam de forma organizada e eficiente para realizar diversos tipos de atividades.</p>
-    </div>
-    <div class="col-md-1"></div>
-    <div class="col-md-3 mt-4">
+      </div>
+      <div class="col-md-1"></div>
+      <div class="col-md-3 mt-4">
         <p><img alt="image" class="img-fluid" src="/images/icons/noun_team_2717434.svg"></p>
     </div>
-</div>
+    </div>
+  </div>
+</section>
 
 <section class="fdb-block">
   <div class="container">
