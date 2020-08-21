@@ -13,15 +13,14 @@ image:
   feature: /images/posts/2020-08-20-edital-bolsistas-practice.png
 ---
 
-#### Data de inscrição: 21 a 27/08/2020
+Você, estudante da UFFS, quer ter a oportunidade de atuar e desenvolver suas habilidades em um programa inovador na nossa universidade?
+O PRACTICE procura estudantes com iniciativa e que desejam atuar em uma destas áreas: I - Design Gráfico; II - Desenvolvimento de Software; III - Produção e revisão de conteúdo textual; IV - Produção e edição de conteúdo audiovisual digital.
+**Foram disponibilizadas 3 vagas para cada um dos seguintes campi: Cerro Largo, Chapecó, Erechim, Passo Fundo e Realeza.**
 
-#### Quantidade de vagas:
-- Cerro Largo 03
-- Chapecó 03
-- Erechim 03
-- Passo Fundo 03
-- Realeza 03
+O período de **inscrição é do dia 21 a 28 de agosto**. Leia o edital e se inscreva para ser bolsista do PRACTICE!
+
+
 
 ---
 #### Fonte
-[EDITAL Nº 460/GR/UFFS/2020]({{page.source}})
+Acesse o [EDITAL Nº 460/GR/UFFS/2020]({{page.source}})
