@@ -1,9 +1,11 @@
 <div class="row post-grid-mini">
-  <div class="col-1 image">
-    <a href="{% if post.web %}{{ post.web }}{% endif %}" {% if post.web %}target="_blank"{% endif %}>
-        <img alt="image" class="img-fluid" {% if post.url_image %} src="{{ post.url_image }}" {% else %} src="{{ post.image }}" {% endif %}>
-    </a>
-  </div>
+  {% if post.image %}
+    <div class="col-1 image">
+      <a href="{% if post.web %}{{ post.web }}{% endif %}" {% if post.web %}target="_blank"{% endif %}>
+          <img alt="image" class="img-fluid" {% if post.url_image %} src="{{ post.url_image }}" {% else %} src="{{ post.image }}" {% endif %}>
+      </a>
+    </div>
+  {% endif %}
   <div class="col-11">
     <h4>
       {% if post.web %}
