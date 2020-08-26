@@ -21,7 +21,7 @@ permalink: /servico/midia/
 <section class="fdb-block">
   <div class="container">
     <div class="row align-items-center pt-2 mt-5">
-      <p>Com o intuito de informar e auxiliar nossos usuários apresentamos uma breve explicação dos produtos de vídeo que podemos oferecer:</p>
+      <p>Com o intuito de informar e auxiliar nossos usuários apresentamos uma breve explicação dos produtos de áudio que podemos oferecer:</p>
     </div>
   </div>
 
