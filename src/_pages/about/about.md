@@ -40,7 +40,7 @@ Estruturação de ambientes que possibilitem a gravação, a transmissão, ediç
 Conheça mais sobre o programa no [vídeo](https://www.youtube.com/watch?v=MBX_Ij4qSPc) abaixo:
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe src="https://www.youtube.com/watch?v=MBX_Ij4qSPc" class="embed-responsive-item" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/MBX_Ij4qSPc" class="embed-responsive-item" allowfullscreen></iframe>
 </div><br>
 
 ## Objetivo
