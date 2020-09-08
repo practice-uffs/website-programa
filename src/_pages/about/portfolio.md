@@ -3,7 +3,7 @@ layout: servicos
 title: "Portfólio"
 image:
   feature: banner-rotulo.png
-permalink: /portfolio
+permalink: /portfolio/
 ---
 
 <section class="fdb-block">
