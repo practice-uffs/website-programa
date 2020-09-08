@@ -20,24 +20,59 @@ permalink: /portfolio/
   </div>
 </section>
 
-{% assign portfolios = site.data.portfolio %}
+<section class="fdb-block">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-12">
+        <h2>Eventos virtuais</h2>
+      </div>
+    </div>
+    <div class="row align-items-center">
+      <div class="col-10 col-lg-6">
+        <p>O programa já auxiliou na execução de diversos eventos virtuais, como lives de capacitação de setores da universidade e semanas acadêmicas. Nossa equipe utiliza as melhores tecnologias e recursos para enriquecer as transmissões.</p>
+      </div>
+      <div class="col-10 col-lg-6">
+        <p><img style="border-radius: 5px;" alt="image" class="img-fluid" src="/images/portfolio/4_3.jpg"></p>
+      </div>
+    </div>
+  </div>
+</section>
+
+{% assign portfolios = site.data.portfolios %}
 
 <section>
-  <div class="container">
+  <div class="container pb-5">
     <div class="row justify-content-center">
       <div class="col-12 text-left">
-        <h3>Portfólios do programa de Inovação PRACTICE</h3>
+        <h3>Algumas das transmissões realizadas recentemente:</h3>
       </div>
     </div>
     <div class="row justify-content-center">
       <div class="col-12">
         <div class="tiles">
-          {% assign active_portfolios = portfolios | where: "active",true %}
-          {% for post in active_portfolios %}
-            <hr />
-            {% include post-partnerships.html %}
+          {% assign active_portfolios = portfolios | where: "active",true | sort:"portfolio" %}
+          {% for portfolio in active_portfolios reversed %}
+            {% include portfolio-list.html %}
           {% endfor %}
         </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="fdb-block pt-5">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-12">
+        <h2>Gravações em estúdio e vídeos</h2>
+      </div>
+    </div>
+    <div class="row align-items-center">
+      <div class="col-10 col-lg-6">
+        <p><img style="border-radius: 5px;" alt="image" class="img-fluid" src="/images/portfolio/VID_20200903_095150497_013.jpg"></p>
+      </div>
+      <div class="col-10 col-lg-6">
+        <p><img style="border-radius: 5px;" alt="image" class="img-fluid" src="/images/portfolio/IMG_4127.JPG"></p>
       </div>
     </div>
   </div>
