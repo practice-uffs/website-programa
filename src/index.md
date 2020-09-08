@@ -10,22 +10,22 @@ image:
   <div class="container">
       <div class="row text-center justify-content-center mt-5">
           <div class="col-12 col-sm-4 col-xl-3 m-md-auto">
-              <img alt="image" class="fdb-icon pb-4" width="60"
-                  src="https://cdn.jsdelivr.net/gh/froala/design-blocks@master/dist/imgs//icons/map-pin.svg">
-              <h3><strong>Consulta</strong></h3>
-              <p>Qualidade das águas subterrâneas, superficiais e de abastecimento do Estado do Rio Grande do Sul.</p>
+              <img alt="image" class="fdb-icon pb-4" width="65"
+                  src="/images/icons/brain.png">
+              <h3><strong>Tecnologia</strong></h3>
+              <p>Buscamos criar soluções tecnológicas para aprimorar o ambiente acadêmico de ensino e aprendizagem.</p>
           </div>
           <div class="col-12 col-sm-4 col-xl-3 m-auto pt-4 pt-sm-0">
               <img alt="image" class="fdb-icon pb-4" width="60"
-                  src="https://cdn.jsdelivr.net/gh/froala/design-blocks@master/dist/imgs//icons/layers.svg">
-              <h3><strong>Dados confiáveis</strong></h3>
-              <p>Consulte os dados de qualidade do corpo d'água publicados em diversos trabalhos científicos.</p>
+                  src="/images/icons/group.png">
+              <h3><strong>Comunidade</strong></h3>
+              <p>Não estamos sós, focamos na habilidade pedagógica e tecnológica tanto de servidores quanto estudantes.</p>
           </div>
           <div class="col-12 col-sm-4 col-xl-3 m-auto pt-4 pt-sm-0">
-              <img alt="image" class="fdb-icon pb-4" width="60"
-                  src="https://cdn.jsdelivr.net/gh/froala/design-blocks@master/dist/imgs//icons/cloud.svg">
-              <h3><strong>Monitoramento</strong></h3>
-              <p>Compare o valor que consta na legislação e medições de qualidade de água observadas por pesquisadores.</p>
+              <img alt="image" class="fdb-icon pb-4" width="68"
+                  src="/images/icons/fist.png">
+              <h3><strong>Independência</strong></h3>
+              <p>Nossa missão é empoderar tecnologicamente pessoas para que a tecnologia seja ajuda, não barreira.</p>
           </div>
       </div>
   </div>
@@ -34,9 +34,14 @@ image:
   <div class="container">
       <div class="row">
           <div class="col text-left">
-              <h2>O que é esse serviço?</h2>
-              <p>A <a href="https://www.uffs.edu.br">Universidade Federal da Fronteira Sul - UFFS</a>, através de seu corpo docente e de estudantes pesquisadores dos cursos de Engenharia Ambiental e Sanitária e Ciência da Computação, criou esse serviço online gratuíto para divulgação dos dados de qualidade das águas subterrâneas, superficiais e de abastecimento do Estado do Rio Grande do Sul.</p>
-              <p>Esse serviço permite que qualquer entidade, seja cidadão ou órgão público, consulte os dados de qualidade do corpo d'água de seu interesse, publicados em diversos trabalhos científicos. Além disso, também é possível verificaros parâmetros de qualidade do corpo d'água que constam na legislação federal e estadual. Assim, todos podem comparar o valor que consta na legislação e o valor que têm sido observado por pesquisadores da área.</p>
+              <h2>O que é o PRACTICE?</h2>
+              <p>O Programa de Ampliação e Consolidação de Tecnologias e Inovação no Contexto Educacional (PRACTICE) objetiva estruturar ambientes e capacitar agentes educacionais para a produção e mediação de conteúdos por meio de tecnologias. Visamos contribuir para a promoção da inovação no processo de ensino-aprendizagem da UFFS, seja em componentes curriculares e extracurriculares, projetos ou iniciativas.</p>
+              <h3>O que fazemos?</h3>
+              <p>Capacitação didática de docentes para a oferta de aulas via telepresença, de maneira síncrona e assíncrona, bem como o fomento para o desenvolvimento de tecnologias inovadoras próprias da UFFS voltadas à interação, criação, curadoria e distribuição de conteúdos de acesso público.</p>
+              <p>Também trabalhamos pelos estudantes para que tenham voz de sugestão de adequação de programas de Assistência Estudantil para oportunizar a participação de todos, sem prejuízo, nas atividades de envolvam tecnologia.</p>
+              <h3>Como fazemos e trabalhamos?</h3>
+              <p>Trabalhamos pela estruturação de ambientes que possibilitem a gravação, transmissão, edição e produção de conteúdos educacionais nas mais variadas plataformas de distribuição de conteúdo. Nossas soluções incluem, por exemplo, adaptação de algumas salas de aulas atuais da UFFS para o oferecimento de aula em tempo real por telepresença.</p>
+              <p>Todo nosso trabalho é feito de forma pública e transparente através do <a href="https://github.com/practice-uffs" target="_blank">Github</a>. Nossas soluções tecnológicas são open-souce, livres para todos usarem. Nossos materiais são gratuítos e reutilizáveis ou adaptáveis. Acreditamos que a inovação aberta, com ciência e tecnologia a favor da comunidade, fará a diferença no avanço da educação.</p>
           </div>
       </div>
   </div>
@@ -49,11 +54,8 @@ image:
       </div>
       <div class="col-12 ml-md-auto col-md-7 col-lg-6 pb-5 pb-md-0">
         <h2>Aplicativo móvel</h2>
-        <p class="lead">Confira a qualidade das águas onde você estiver utilizando seu smartphone.</p>
-        <p>Todas as informações contidas nessa página estão disponíveis para consulta através do nosso aplicativo Qualidade das Águas. Além de pesquisar pelo nome, você também pode utilizar a sua localização para obter informações sobre a qualidade da água deste local.</p>
-        <p class="mt-4">
-          <a class="btn btn-primary" href="#"><i class="fab fa-google-play"></i> Google Play</a>
-        </p>
+        <p class="lead">Todas nossas soluções são acessíveis através de nosso aplicativo para smartphones.</p>
+        <p>Queremos que a tecnologia chege até servidores e estudantes de forma fácil, sem complicações. Queremos ferramentas na palma da mão de cada um dos membros de nossa comunidade acadêmica. Trabalhamos para que nossos avanços estejam disponíveis, em primeira mão, em seu celular, para um uso fácil e imediato.</p>
       </div>
     </div>
   </div>
