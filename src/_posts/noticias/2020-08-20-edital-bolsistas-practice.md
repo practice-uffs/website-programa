@@ -1,5 +1,5 @@
 ---
-title: "Seleção de bolsistas para o Programa de Ampliação e Consolidação de Tecnologias e Inovação no Contexto Educacional."
+title: "Seleção de bolsistas para o PRACTICE."
 description: "Vagas para: Cerro Largo, Chapecó, Erechim, Passo Fundo e Realeza. Venha fazer parte do PRACTICE!"
 source: https://www.uffs.edu.br/UFFS/atos-normativos/edital/gr/2020-0460
 layout: article
@@ -14,7 +14,7 @@ image:
 ---
 
 Você, estudante da UFFS, quer ter a oportunidade de atuar e desenvolver suas habilidades em um programa inovador na nossa universidade?
-O PRACTICE procura estudantes com iniciativa e que desejam atuar em uma destas áreas: I - Design Gráfico; II - Desenvolvimento de Software; III - Produção e revisão de conteúdo textual; IV - Produção e edição de conteúdo audiovisual digital.
+O PRACTICE (Programa de Ampliação e Consolidação de Tecnologias e Inovação no Contexto Educacional) procura estudantes com iniciativa e que desejam atuar em uma destas áreas: I - Design Gráfico; II - Desenvolvimento de Software; III - Produção e revisão de conteúdo textual; IV - Produção e edição de conteúdo audiovisual digital.
 **Foram disponibilizadas 3 vagas para cada um dos seguintes campi: Cerro Largo, Chapecó, Erechim, Passo Fundo e Realeza.**
 
 O período de **inscrição é do dia 21 a 28 de agosto**. Leia o edital e se inscreva para ser bolsista do PRACTICE!
