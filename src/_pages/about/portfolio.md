@@ -69,7 +69,7 @@ permalink: /portfolio/
     </div>
     <div class="row align-items-center">
       <div class="col-10 col-lg-6">
-        <p><img style="border-radius: 5px;" alt="image" class="img-fluid" src="/images/portfolio/VID_20200903_095150497_013.jpg"></p>
+        <p><img style="border-radius: 5px;" alt="image" class="img-fluid" src="/images/portfolio/4_2.jpg"></p>
       </div>
       <div class="col-10 col-lg-6">
         <p><img style="border-radius: 5px;" alt="image" class="img-fluid" src="/images/portfolio/IMG_4127.JPG"></p>
