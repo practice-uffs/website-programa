@@ -13,7 +13,7 @@ image:
   </div>
   <div class="tiles">
     {% for post in site.categories.noticias %}
-      {% include post-grid.html %}
+      {% include post-news.html %}
     {% endfor %}
   </div>
 </article>

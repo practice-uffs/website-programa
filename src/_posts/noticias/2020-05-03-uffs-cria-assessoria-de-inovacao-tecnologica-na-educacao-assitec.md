@@ -5,7 +5,7 @@ source: https://www.uffs.edu.br/institucional/reitoria/diretoria_de_comunicacao_
 layout: article
 categories: noticias
 last_modified_at: 2020-05-03T16:06:00-00:00
-highlight: true
+highlight: false
 highlight_order: 3
 share: true
 image:

@@ -5,7 +5,7 @@ layout: article
 categories: noticias
 last_modified_at: 2020-07-28T16:40:00-00:00
 highlight: true
-highlight_order: 1
+highlight_order: 4
 share: true
 image:
   teaser: posts/2020-07-28-live-de-lancamento-do-practice.png

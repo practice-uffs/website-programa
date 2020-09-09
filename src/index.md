@@ -72,7 +72,7 @@ image:
           <div class="tiles">
             {% assign highlighted-posts = site.categories.noticias | where: "highlight","true" | sort:"highlight_order" %}
             {% for post in highlighted-posts limit: 4 %}
-              {% include post-grid.html %}
+              {% include post-news.html %}
             {% endfor %}
           </div><!-- /.tiles -->
         </div>

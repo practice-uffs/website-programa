@@ -5,7 +5,7 @@ source: https://www.anchieta.sc.gov.br/noticias/index/ver/codNoticia/625796/codM
 layout: article
 categories: noticias
 last_modified_at: 2020-07-10T16:46:00-00:00
-highlight: true
+highlight: false
 highlight_order: 3
 share: true
 image:
