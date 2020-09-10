@@ -1,20 +1,34 @@
 - resource:
+  active: false
+  file: https://cdn.uffs.cc/practice/website/resources/cartilha-de-iluminacao-angulo-e-audio.pdf
+  title: Cartilha de iluminação, ângulo e áudio
+  modified: 2020
+  image:
+
+- resource:
+  active: false
+  file: https://cdn.uffs.cc/practice/website/resources/politica-de-licenças-PRACTICE.pdf
+  title: Cartilha para licenças creative commons
+  modified: 2020
+  image:
+
+- resource:
   active: true
-  file: /resources/cartilha-para-criacao-e-conducao-de-videoconferencia.pdf
+  file: https://cdn.uffs.cc/practice/website/resources/cartilha-para-criacao-e-conducao-de-videoconferencia.pdf
   title: Cartilha para criação e condução de videoconferência
   modified: 2020
   image: /images/resources/cartilha-para-criacao-e-conducao-de-videoconferencia.png
 
 - resource:
   active: true
-  file: /resources/cartilha-de-edicao-de-imagem-ferramenta-photopea.pdf
+  file: https://cdn.uffs.cc/practice/website/resources/cartilha-de-edicao-de-imagem-photopea.pdf
   title: "Cartilha de edição de imagem: ferramenta Photopea"
   modified: 2020
   image: /images/resources/cartilha-de-edicao-de-imagem-ferramenta-photopea.png
 
 - resource:
   active: true
-  file: /resources/cartilha-de-iluminacao-angulo-e-audio.pdf
+  file: https://cdn.uffs.cc/practice/website/resources/cartilha-de-iluminacao-angulo-e-audio.pdf
   title: "Cartilha de iluminação, ângulo e áudio"
   modified: 2020
   image: /images/resources/cartilha-de-iluminacao-angulo-e-audio.png
