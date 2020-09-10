@@ -6,7 +6,6 @@ layout: article
 categories: noticias
 last_modified_at: 2020-07-10T16:46:00-00:00
 highlight: false
-highlight_order: 3
 share: true
 image:
   teaser: posts/2020-07-10-professores-de-anchieta-participaram-de-estudos-para-qualificar-a-atuacao.jpg

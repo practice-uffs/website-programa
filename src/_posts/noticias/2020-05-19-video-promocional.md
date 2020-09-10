@@ -6,7 +6,6 @@ layout: article
 categories: noticias
 last_modified_at: 2020-05-19T16:00:00-00:00
 highlight: false
-highlight_order: 1
 share: true
 image:
   teaser: posts/2020-05-03-uffs-cria-assessoria-de-inovacao-tecnologica-na-educacao-assitec.png

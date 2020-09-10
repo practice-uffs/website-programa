@@ -6,7 +6,6 @@ layout: article
 categories: noticias
 last_modified_at: 2020-05-19T19:06:00-00:00
 highlight: false
-highlight_order: 1
 share: true
 image:
   teaser: posts/2020-05-19-campus-laranjeiras-do-sul-promove-live-com-a-tematica-educacao-e-inovacao.png

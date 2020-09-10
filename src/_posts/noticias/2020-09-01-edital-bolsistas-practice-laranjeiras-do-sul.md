@@ -6,7 +6,6 @@ layout: article
 categories: noticias
 last_modified_at: 2020-09-01T17:16:30-00:00
 highlight: true
-highlight_order: 2
 share: true
 image:
   teaser: posts/2020-09-01-edital-bolsistas-practice-laranjeiras-do-sul.png
