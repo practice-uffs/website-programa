@@ -6,7 +6,6 @@ layout: article
 categories: noticias
 last_modified_at: 2020-08-21T17:10:00-00:00
 highlight: true
-highlight_order: 1
 share: true
 image:
   teaser: posts/2020-08-20-edital-bolsistas-practice.png

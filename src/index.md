@@ -70,7 +70,7 @@ image:
       <div class="row justify-content-center">
         <div class="col-12">
           <div class="tiles">
-            {% assign highlighted-posts = site.categories.noticias | where: "highlight","true" | sort:"highlight_order" %}
+            {% assign highlighted-posts = site.categories.noticias | where: "highlight","true" %}
             {% for post in highlighted-posts limit: 4 %}
               {% include post-news.html %}
             {% endfor %}
