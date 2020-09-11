@@ -1,13 +1,13 @@
 - resource:
   active: false
-  file: https://cdn.uffs.cc/practice/website/resources/cartilha-de-iluminacao-angulo-e-audio.pdf
-  title: Cartilha de iluminação, ângulo e áudio
+  file: https://cdn.uffs.cc/practice/website/resources/dicas-para-escrever-um-bom-texto.pdf
+  title: Cartilha para criação de textos
   modified: 2020
   image:
 
 - resource:
   active: false
-  file: https://cdn.uffs.cc/practice/website/resources/politica-de-licenças-PRACTICE.pdf
+  file: https://cdn.uffs.cc/practice/website/resources/politica-de-licencas-PRACTICE.pdf
   title: Cartilha para licenças creative commons
   modified: 2020
   image:
@@ -21,14 +21,14 @@
 
 - resource:
   active: true
-  file: https://cdn.uffs.cc/practice/website/resources/cartilha-de-edicao-de-imagem-photopea.pdf
+  file: https://cdn.uffs.cc/practice/website/resources/ferramenta-de-edicao-de-imagem.pdf
   title: "Cartilha de edição de imagem: ferramenta Photopea"
   modified: 2020
   image: /images/resources/cartilha-de-edicao-de-imagem-ferramenta-photopea.png
 
 - resource:
   active: true
-  file: https://cdn.uffs.cc/practice/website/resources/cartilha-de-iluminacao-angulo-e-audio.pdf
+  file: https://cdn.uffs.cc/practice/website/resources/dicas-de-iluminacao-angulo-e-audio.pdf
   title: "Cartilha de iluminação, ângulo e áudio"
   modified: 2020
   image: /images/resources/cartilha-de-iluminacao-angulo-e-audio.png

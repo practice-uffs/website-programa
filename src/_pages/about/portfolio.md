@@ -38,22 +38,25 @@ permalink: /portfolio/
   </div>
 </section>
 
-{% assign portfolios = site.data.portfolios %}
+{% assign portfolios = site.data.lives %}
 
 <section>
-  <div class="container pb-5">
-    <div class="row justify-content-center">
-      <div class="col-12 text-left">
-        <h3>Algumas das transmissões realizadas recentemente:</h3>
-      </div>
+  <div class="card breath-top">
+    <div class="card-header">
+      <h3>Algumas das transmissões realizadas recentemente:</h3>
     </div>
-    <div class="row justify-content-center">
-      <div class="col-12">
-        <div class="tiles">
-          {% assign active_portfolios = portfolios | where: "active",true | sort:"portfolio" %}
-          {% for portfolio in active_portfolios reversed %}
+    <div class="card-body">
+      <div class="row">
+        <div class="col-12 text-left">
+          {% assign active_portfolios = portfolios | where: "portfolio","true" %}
+          {% for flyer in active_portfolios reversed %}
             {% include portfolio-list.html %}
           {% endfor %}
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-12 text-right">
+          <a href="/portfolio/lives/">Ver todas as transmissões</a>
         </div>
       </div>
     </div>
