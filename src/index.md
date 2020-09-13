@@ -55,7 +55,7 @@ image:
       <div class="col-12 ml-md-auto col-md-7 col-lg-6 pb-5 pb-md-0">
         <h2>Aplicativo móvel</h2>
         <p class="lead">Todas nossas soluções são acessíveis através de nosso aplicativo para smartphones.</p>
-        <p>Queremos que a tecnologia chege até servidores e estudantes de forma fácil, sem complicações. Queremos ferramentas na palma da mão de cada um dos membros de nossa comunidade acadêmica. Trabalhamos para que nossos avanços estejam disponíveis, em primeira mão, em seu celular, para um uso fácil e imediato.</p>
+        <p>Queremos que a tecnologia chegue até servidores e estudantes de forma fácil, sem complicações. Queremos ferramentas na palma da mão de cada um dos membros de nossa comunidade acadêmica. Trabalhamos para que nossos avanços estejam disponíveis, em primeira mão, em seu celular, para um uso fácil e imediato.</p>
       </div>
     </div>
   </div>
