@@ -1,16 +1,16 @@
 - resource:
-  active: false
+  active: true
   file: https://cdn.uffs.cc/practice/website/resources/dicas-para-escrever-um-bom-texto.pdf
   title: Cartilha para criação de textos
   modified: 2020
-  image:
+  image: /images/resources/dicas-para-escrever-um-bom-texto.png
 
 - resource:
-  active: false
+  active: true
   file: https://cdn.uffs.cc/practice/website/resources/politica-de-licencas-PRACTICE.pdf
   title: Cartilha para licenças creative commons
   modified: 2020
-  image:
+  image: /images/resources/licencas-creative-commons.png
 
 - resource:
   active: true
