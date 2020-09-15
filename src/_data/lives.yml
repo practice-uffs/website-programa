@@ -1,3 +1,23 @@
+- flyer: 22
+  portfolio:
+  url_image: https://cdn.uffs.cc/practice/website/portfolios/lives/2020-09-17_SAAD.png
+  youtube: https://youtu.be/o12VAyTz1WU
+
+- flyer: 21
+  portfolio:
+  url_image: https://cdn.uffs.cc/practice/website/portfolios/lives/2020-09-16_SAAD.png
+  youtube: https://youtu.be/I0Ul4bSnKo4
+
+- flyer: 20
+  portfolio:
+  url_image: https://cdn.uffs.cc/practice/website/portfolios/lives/2020-09-15_SAAD.png
+  youtube: https://youtu.be/C42toWsOqwk
+
+- flyer: 19
+  portfolio:
+  url_image: https://cdn.uffs.cc/practice/website/portfolios/lives/2020-09-14_SAAD.png
+  youtube: https://youtu.be/wvT75-LMqHw
+
 - flyer: 18
   portfolio: true
   url_image: https://cdn.uffs.cc/practice/website/portfolios/lives/2020-09-09_NAP-CH.png
