@@ -14,7 +14,7 @@ permalink: /servico/estudio/
         <p class="lead">Você precisa produzir vídeos com uma estrutura peculiar ou com recursos muito específicos? O serviço de estúdo do programa pode te ajudar.</p>
       </div>
       <div class="col-8 col-md-4 m-auto m-md-0 ml-md-auto pt-5">
-        <p><img alt="image" class="img-fluid" src="/images/illustrations/undraw_video_files_fu10.svg"></p>
+        <lottie-player alt="image" class="fdb-icon pb-4" src="https://assets7.lottiefiles.com/packages/lf20_LT471e.json"  background="transparent"  speed="1"  style="width: 400px; height: 400px;" loop autoplay></lottie-player>
       </div>
     </div>
   </div>

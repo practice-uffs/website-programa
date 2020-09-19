@@ -13,10 +13,9 @@ permalink: /equipe/
         <h2>Equipe</h2>
         <p class="lead">O PRACTICE conta com uma equipe de estudantes e servidores que se dedicam de forma organizada e eficiente para realizar diversos tipos de atividades.</p>
       </div>
-      <div class="col-md-1"></div>
-      <div class="col-md-3 mt-4">
-        <p><img alt="image" class="img-fluid" src="/images/icons/noun_team_2717434.svg"></p>
-    </div>
+      <div class="col-md-3 mt-6">
+          <lottie-player alt="image" class="fdb-icon pb-4" src="https://assets10.lottiefiles.com/packages/lf20_CbwvP6/data.json"  background="transparent"  speed="1"  style="width: 400px; height: 400px;" loop autoplay></lottie-player>
+      </div>
     </div>
   </div>
 </section>

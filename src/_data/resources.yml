@@ -1,5 +1,12 @@
 - resource:
   active: true
+  file: https://cdn.uffs.cc/practice/website/resources/dicas-de-producao-de-videoaula.pdf
+  title: Cartilha para criação de textos
+  modified: 2020
+  image: /images/resources/dicas-de-producao-de-videoaula.png
+
+- resource:
+  active: true
   file: https://cdn.uffs.cc/practice/website/resources/dicas-para-escrever-um-bom-texto.pdf
   title: Cartilha para criação de textos
   modified: 2020
@@ -14,7 +21,7 @@
 
 - resource:
   active: true
-  file: https://cdn.uffs.cc/practice/website/resources/cartilha-para-criacao-e-conducao-de-videoconferencia.pdf
+  file: https://cdn.uffs.cc/practice/website/resources/criação-e-condução-de-videoconferência .pptx.pdf
   title: Cartilha para criação e condução de videoconferência
   modified: 2020
   image: /images/resources/cartilha-para-criacao-e-conducao-de-videoconferencia.png
