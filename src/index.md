@@ -10,20 +10,23 @@ image:
   <div class="container">
       <div class="row text-center justify-content-center mt-5">
           <div class="col-12 col-sm-4 col-xl-3 m-md-auto">
-              <img alt="image" class="fdb-icon pb-4" width="65"
-                  src="/images/icons/brain.png">
+              <div class="col-10 col-sm-6 m-md-auto">
+                <lottie-player alt="image" class="fdb-icon pb-4" src="https://assets4.lottiefiles.com/packages/lf20_QTzCex.json"  background="transparent"  speed="1"  style="width: 100px; height: 100px;" loop autoplay></lottie-player>
+              </div>
               <h3><strong>Tecnologia</strong></h3>
               <p>Buscamos criar soluções tecnológicas para aprimorar o ambiente acadêmico de ensino e aprendizagem.</p>
           </div>
           <div class="col-12 col-sm-4 col-xl-3 m-auto pt-4 pt-sm-0">
-              <img alt="image" class="fdb-icon pb-4" width="60"
-                  src="/images/icons/group.png">
+              <div class="col-10 col-sm-6 m-md-auto">
+                <lottie-player alt="image" class="fdb-icon pb-4" src="https://assets8.lottiefiles.com/packages/lf20_UQy5L5.json"  background="transparent"  speed="1"  style="width: 100px; height: 100px;" loop autoplay></lottie-player>
+              </div>
               <h3><strong>Comunidade</strong></h3>
               <p>Não estamos sós, focamos na habilidade pedagógica e tecnológica tanto de servidores quanto estudantes.</p>
           </div>
           <div class="col-12 col-sm-4 col-xl-3 m-auto pt-4 pt-sm-0">
-              <img alt="image" class="fdb-icon pb-4" width="68"
-                  src="/images/icons/fist.png">
+              <div class="col-10 col-sm-6 m-md-auto">
+                <lottie-player alt="image" class="fdb-icon pb-4" src="https://assets9.lottiefiles.com/packages/lf20_yG9n84.json"  background="transparent"  speed="1"  style="width: 100px; height: 100px;" loop autoplay></lottie-player>
+              </div>
               <h3><strong>Independência</strong></h3>
               <p>Nossa missão é empoderar tecnologicamente pessoas para que a tecnologia seja ajuda, não barreira.</p>
           </div>
