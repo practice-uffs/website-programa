@@ -1,13 +1,4 @@
-# Coordenação
-- person:
-  name: Elisângela Ribas
-  email: Elisangela.santos@uffs.edu.br
-  position: coor-tec
-  uffs: Pedagoga
-  formation: Doutora em Educação, em Ciências e Matemática
-  avatar: /images/equipe/elisangela-ribas.jpg
-  github: https://github.com/elisribas
-
+# Coordenação- person:
 - person:
   name: Fernando Bevilacqua
   email: fernando.bevilacqua@uffs.edu.br
@@ -46,12 +37,44 @@
   github: https://github.com/alessandrapedrotti
 
 - person:
+  name: Ana Carolina Morigi da Cruz Silveira
+  email: anacarolinamorigi@gmail.com
+  position: con-design
+  formation: Acadêmica de Medicina
+  avatar: /images/equipe/ana-carolina-morigi.jpeg
+  github: https://github.com/anacarolinamorigi
+
+- person:
+  name: Amanda Segatto Bisognin
+  email: amandasgttb@gmail.com
+  position: con-design
+  formation: Acadêmica de Medicina
+  avatar: /images/equipe/amanda-segatto-bisognin.jpeg
+  github: https://github.com/amandasegattob
+
+- person:
   name: Andrew M. Silva
   email: andrewsaxx@gmail.com
   position: dev
   formation: Acadêmico de Ciência da Computação
   avatar: /images/equipe/andrew-silva.jpg
   github: https://github.com/andrewmsilva
+
+- person:
+  name: Brenda Ellen de Sousa Reis
+  email: brenda.reis@estudante.uffs.edu.br
+  position: con-material
+  formation: Acadêmica de Engenharia Ambiental e Sanitária
+  avatar: /images/equipe/brenda-ellen-de-sousa-reis.jpg
+  github: https://github.com/brendaellen
+
+- person:
+  name: Claudineia Vieira Raimundi
+  email: claudineia.v.raimundi@gmail.com
+  position: con-design
+  formation: Acadêmica de Engenharia Ambiental e Sanitária
+  avatar: /images/equipe/claudineia-vieira-raimundi.jpeg
+  github: https://github.com/Claudineia-VR
 
 - person:
   name: Cleisson Vieira Raimundi
@@ -64,10 +87,18 @@
 - person:
   name: Estela Maris Vilas Boas
   email: estelavilasboas01@gmail.com
-  position: dev
+  position: con-design
   formation: Acadêmica de Ciência da Computação
   avatar: /images/equipe/estela-vilas-boas.jpg
   github: https://github.com/estelavilasboas
+
+- person:
+  name: Gessica Tagliapietra Zanon
+  email: gessicataglipietra@gmail.com
+  position: con-material
+  formation: Acadêmica de Física
+  avatar: /images/equipe/gessica-tagliapietra-zanon.jpg
+  github: https://github.com/GessicaZanon
 
 - person:
   name: Isabeli Reik
@@ -78,12 +109,36 @@
   github: https://github.com/isabelirk
 
 - person:
+  name: Julia Gaio
+  email: juliagaiojg@gmail.com
+  position: con-midia
+  formation: Acadêmica de Medicina
+  avatar: /images/equipe/julia-gaio.png
+  github: https://github.com/juliagaio
+
+- person:
   name: Lucas Ferreira
   email: lucas.colegioagricola@gmail.com
   position: con-material
   formation: Acadêmico de Agronomia
   avatar: /images/equipe/lucas-ferreira.jpg
   github: https://github.com/lucasgalize
+
+- person:
+  name: Luiza Dall Bosco Tonial
+  email: luu.tonial@gmail.com
+  position: con-design
+  formation: Acadêmica de Arquitetura e Urbanismo
+  avatar: /images/equipe/luiza-dall-bosco-tonial.jpeg
+  github: https://github.com/luizatonial
+
+- person:
+  name: Luiz Eduardo Dameda
+  email: luiz.edu.dameda@gmail.com
+  position: con-design
+  formation: Acadêmico de Medicina
+  avatar: /images/equipe/luiz-eduardo-dameda.jpeg
+  github: https://github.com/luizdameda
 
 - person:
   name: Maria Gelain
@@ -100,6 +155,54 @@
   formation: Acadêmico de Ciência da Computação
   avatar: /images/equipe/matheus-negrao.jpg
   github: https://github.com/MaNegrao
+
+- person:
+  name: Milena Sávio Pastorini Paz
+  email: milena.pastorini2016@gmail.com
+  position: con-design
+  formation: Acadêmica de Ciências Biológicas
+  avatar: /images/equipe/milena-savio-pastorini-paz.png
+  github: https://github.com/MilenaPaz2020
+
+- person:
+  name: Morgana Maciél Oliveira
+  email: mormaciel.mo@gmail.com
+  position: con-design
+  formation: Acadêmica de Química
+  avatar: /images/equipe/morgana-maciel-oliveira.jpg
+  github: https://github.com/morgana-mo
+
+- person:
+  name: Raphael Borges Dos Santos Filho
+  email: oborgesrapha@gmail.com
+  position: dev
+  formation: Acadêmico de Ciência da Computação
+  avatar: /images/equipe/raphael-borges.jpg
+  github: https://github.com/oraphaborges
+
+- person:
+  name: Ricardo Patrik Manfro
+  email: ricardopynthayaty@gmail.com
+  position: con-design
+  formation: Acadêmico de Engenharia Ambiental e Sanitária
+  avatar: /images/equipe/ricardo-patrik-manfro.jpeg
+  github: https://github.com/ricardopatrik
+
+- person:
+  name: Robison José Santos da Silva
+  email: robisonjose99@gmail.com
+  position: con-midia
+  formation: Acadêmico de Física
+  avatar: /images/equipe/robison-jose-santos-silva.jpg
+  github: https://github.com/robisonjose
+
+- person:
+  name: Thalía Lopes Friedrich
+  email: thalia.friedrich27@gmail.com
+  position: con-material
+  formation: Acadêmica de Engenharia Ambiental e Sanitária
+  avatar: /images/equipe/thalia-lopes-friedrich.jpg
+  github: https://github.com/thaliafriedrich
 
 - person:
   name: Vinícius dos Reis
