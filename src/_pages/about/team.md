@@ -69,6 +69,16 @@ permalink: /equipe/
       </div>
     </section>
     <section class="pt-5">
+      <h2 class="pb-3">Design Gráfico</h2>
+      <hr class="pb-4">
+      <div class="card-group">
+        {% assign people = site.data.people | where:"position","con-design" | sort:"name" %}
+        {% for person in people %}
+          {% include person-grid.html %}
+        {% endfor %}
+      </div>
+    </section>
+    <section class="pt-5">
       <h2 class="pb-3">Auxílio organizacional</h2>
       <hr class="pb-4">
       <div class="card-group">
