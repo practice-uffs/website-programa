@@ -1,5 +1,16 @@
-# Coordenação- person:
-- person:
+# Coordenação
+- person: false
+  name: Elisângela Ribas
+  email: elisangela.santos@uffs.edu.br
+  position: coor-tec
+  uffs: Pedagoga
+  formation: Doutora em Educação, em Ciências e Matemática
+  avatar: /images/equipe/elisangela-ribas.jpg
+  github: https://github.com/elisribas
+  bond: Coordenador
+  actingTime: Do início do programa até setembro de 2020
+
+- person: true
   name: Fernando Bevilacqua
   email: fernando.bevilacqua@uffs.edu.br
   position: coor-geral
@@ -7,8 +18,11 @@
   formation: Doutor em Tecnologia da Informação
   avatar: /images/equipe/fernando-bevilacqua.png
   github: https://github.com/Dovyski
+  bond: Coordenador
+  actingTime: Do início do programa até hoje
 
-- person:
+
+- person: true
   name: Luciano Lores Caimi
   email: lcaimi@uffs.edu.br
   position: coor-tec
@@ -16,8 +30,10 @@
   formation: Doutor em Ciência da Computação
   avatar: /images/equipe/luciano-caimi.jpg
   github: https://github.com/lcaimi
+  bond: Coordenador
+  actingTime: Do início do programa até hoje
 
-- person:
+- person: true
   name: Maurício Fernando Bozatski
   email: mauricio@uffs.edu.br
   position: coor-geral
@@ -25,197 +41,288 @@
   formation: Doutor em Filosofia
   avatar: /images/equipe/mauricio-bozatski.jpg
   github: https://github.com/phdmauricio
+  bond: Coordenador
+  actingTime: Do início do programa até hoje
 
 # Demais membros
 
-- person:
+- person: true
   name: Alessandra Pedrotti
   email: alessandrapedrotti24@gmail.com
   position: con-material
   formation: Acadêmica de Letras – Português e Espanhol
   avatar: /images/equipe/alessandra-pedrotti.jpg
   github: https://github.com/alessandrapedrotti
+  bond: Bolsista
+  actingTime: Do início do programa até hoje
 
-- person:
+- person: true
   name: Ana Carolina Morigi da Cruz Silveira
   email: anacarolinamorigi@gmail.com
   position: con-design
   formation: Acadêmica de Medicina
   avatar: /images/equipe/ana-carolina-morigi.jpeg
   github: https://github.com/anacarolinamorigi
+  bond: Bolsista
+  actingTime: Outubro de 2020 até hoje
 
-- person:
+- person: true
   name: Amanda Segatto Bisognin
   email: amandasgttb@gmail.com
   position: con-design
   formation: Acadêmica de Medicina
   avatar: /images/equipe/amanda-segatto-bisognin.jpeg
   github: https://github.com/amandasegattob
+  bond: Bolsista
+  actingTime: Outubro de 2020 até hoje
 
-- person:
+- person: true
   name: Andrew M. Silva
   email: andrewsaxx@gmail.com
   position: dev
   formation: Acadêmico de Ciência da Computação
   avatar: /images/equipe/andrew-silva.jpg
   github: https://github.com/andrewmsilva
+  bond: Bolsista
+  actingTime: Do início do programa até hoje
 
-- person:
+- person: true
   name: Brenda Ellen de Sousa Reis
   email: brenda.reis@estudante.uffs.edu.br
   position: con-material
   formation: Acadêmica de Engenharia Ambiental e Sanitária
   avatar: /images/equipe/brenda-ellen-de-sousa-reis.jpg
   github: https://github.com/brendaellen
+  bond: Bolsista
+  actingTime: Outubro de 2020 até hoje
 
-- person:
+- person: true
   name: Claudineia Vieira Raimundi
   email: claudineia.v.raimundi@gmail.com
   position: con-design
   formation: Acadêmica de Engenharia Ambiental e Sanitária
   avatar: /images/equipe/claudineia-vieira-raimundi.jpeg
   github: https://github.com/Claudineia-VR
+  bond: Bolsista
+  actingTime: Outubro de 2020 até hoje
 
-- person:
+- person: true
   name: Cleisson Vieira Raimundi
   email: cleisson.raimundi@estudante.uffs.edu.br
   position: dev
   formation: Acadêmico de Ciência da Computação
   avatar: /images/equipe/cleisson-raimundi.png
   github: https://github.com/CleissonVieira
+  bond: Bolsista
+  actingTime: Do início do programa até hoje
 
-- person:
+- person: true
   name: Estela Maris Vilas Boas
   email: estelavilasboas01@gmail.com
   position: con-design
   formation: Acadêmica de Ciência da Computação
   avatar: /images/equipe/estela-vilas-boas.jpg
   github: https://github.com/estelavilasboas
+  bond: Bolsista
+  actingTime: Do início do programa até hoje
 
-- person:
+- person: true
   name: Gessica Tagliapietra Zanon
   email: gessicataglipietra@gmail.com
   position: con-material
   formation: Acadêmica de Física
   avatar: /images/equipe/gessica-tagliapietra-zanon.jpg
   github: https://github.com/GessicaZanon
+  bond: Bolsista
+  actingTime: Outubro de 2020 até hoje
 
-- person:
+- person: true
   name: Isabeli Reik
   email: isabelireik2@gmail.com
   position: con-material
   formation: Acadêmica de Ciência da Computação
   avatar: /images/equipe/isabeli-reik.jpg
   github: https://github.com/isabelirk
+  bond: Bolsista
+  actingTime: Do início do programa até hoje
 
-- person:
+# - person: true
+#   name: Jean Carlo Hilger
+#   email: hilgerjeancarlo@gmail.com
+#   position: dev
+#   formation: Acadêmico de Ciência da Computação
+#   avatar: /images/equipe/
+#   github: https://github.com/JeanCHilger
+  # bond: Voluntário
+  # actingTime: Do início do programa até hoje
+
+- person: true
+  name: Junior Vitor Ramisch
+  email: junior.ramisch@estudante.uffs.edu.br
+  position: dev
+  formation: Acadêmico de Ciência da Computação
+  avatar: /images/equipe/junior-vitor-ramisch.jpg
+  github: https://github.com/arufonsekun
+  bond: Voluntário
+  actingTime: Do início do programa até hoje
+
+
+- person: true
   name: Julia Gaio
   email: juliagaiojg@gmail.com
   position: con-midia
   formation: Acadêmica de Medicina
   avatar: /images/equipe/julia-gaio.png
   github: https://github.com/juliagaio
+  bond: Bolsista
+  actingTime: Outubro de 2020 até hoje
 
-- person:
-  name: Lucas Ferreira
-  email: lucas.colegioagricola@gmail.com
-  position: con-material
-  formation: Acadêmico de Agronomia
-  avatar: /images/equipe/lucas-ferreira.jpg
-  github: https://github.com/lucasgalize
-
-- person:
+- person: true
   name: Luiza Dall Bosco Tonial
   email: luu.tonial@gmail.com
   position: con-design
   formation: Acadêmica de Arquitetura e Urbanismo
   avatar: /images/equipe/luiza-dall-bosco-tonial.jpeg
   github: https://github.com/luizatonial
+  bond: Bolsista
+  actingTime: Outubro de 2020 até hoje
 
-- person:
+- person: false
+  name: Lucas Ferreira
+  email: lucas.colegioagricola@gmail.com
+  position: con-material
+  formation: Acadêmico de Agronomia
+  avatar: /images/equipe/lucas-ferreira.jpg
+  github: https://github.com/lucasgalize
+  bond: Bolsista
+  actingTime: Do início do programa até setembro de 2020
+
+- person: true
   name: Luiz Eduardo Dameda
   email: luiz.edu.dameda@gmail.com
   position: con-design
   formation: Acadêmico de Medicina
   avatar: /images/equipe/luiz-eduardo-dameda.jpeg
   github: https://github.com/luizdameda
+  bond: Bolsista
+  actingTime: Outubro de 2020 até hoje
 
-- person:
+- person: true
   name: Maria Gelain
   email: mariaegelain9@gmail.com
   position: con-material
   formation: Acadêmica de Geografia
   avatar: /images/equipe/maria-gelain.jpg
   github: https://github.com/mariagelain
+  bond: Bolsista
+  actingTime: Do início do programa até hoje
 
-- person:
+- person: true
   name: Matheus Dias Negrão
   email: matheus.dnegrao@gmail.com
   position: con-midia
   formation: Acadêmico de Ciência da Computação
   avatar: /images/equipe/matheus-negrao.jpg
   github: https://github.com/MaNegrao
+  bond: Bolsista
+  actingTime: Do início do programa até hoje
 
-- person:
+- person: true
   name: Milena Sávio Pastorini Paz
   email: milena.pastorini2016@gmail.com
   position: con-design
   formation: Acadêmica de Ciências Biológicas
   avatar: /images/equipe/milena-savio-pastorini-paz.png
   github: https://github.com/MilenaPaz2020
+  bond: Bolsista
+  actingTime: Outubro de 2020 até hoje
 
-- person:
+- person: true
   name: Morgana Maciél Oliveira
   email: mormaciel.mo@gmail.com
   position: con-design
   formation: Acadêmica de Química
   avatar: /images/equipe/morgana-maciel-oliveira.jpg
   github: https://github.com/morgana-mo
+  bond: Bolsista
+  actingTime: Outubro de 2020 até hoje
 
-- person:
+# - person: true
+#   name: Rafael da Costa Guilman
+#   email: rafaguilman@gmail.com
+#   position: con-midia
+#   formation:
+#   avatar: /images/equipe/
+#   github: https://github.com/rafaguilman
+#   bond: Bolsista
+#   actingTime: Outubro de 2020 até hoje
+
+- person: true
   name: Raphael Borges Dos Santos Filho
   email: oborgesrapha@gmail.com
   position: dev
   formation: Acadêmico de Ciência da Computação
   avatar: /images/equipe/raphael-borges.jpg
   github: https://github.com/oraphaborges
+  bond: Bolsista
+  actingTime: Outubro de 2020 até hoje
 
-- person:
+- person: true
   name: Ricardo Patrik Manfro
   email: ricardopynthayaty@gmail.com
   position: con-design
   formation: Acadêmico de Engenharia Ambiental e Sanitária
   avatar: /images/equipe/ricardo-patrik-manfro.jpeg
   github: https://github.com/ricardopatrik
+  bond: Bolsista
+  actingTime: Outubro de 2020 até hoje
 
-- person:
+- person: true
   name: Robison José Santos da Silva
   email: robisonjose99@gmail.com
   position: con-midia
   formation: Acadêmico de Física
   avatar: /images/equipe/robison-jose-santos-silva.jpg
   github: https://github.com/robisonjose
+  bond: Bolsista
+  actingTime: Outubro de 2020 até hoje
 
-- person:
+- person: true
+  name: Taynara Chayane Christmann
+  email: taynarachayanec@gmail.com
+  position: con-design
+  formation: Acadêmica de Arquitetura e Urbanismo
+  avatar: /images/equipe/taynara-chayane-christman.jpeg
+  github: https://github.com/TaynaraCh
+  bond: Bolsista
+  actingTime: Outubro de 2020 até hoje
+
+- person: true
   name: Thalía Lopes Friedrich
   email: thalia.friedrich27@gmail.com
   position: con-material
   formation: Acadêmica de Engenharia Ambiental e Sanitária
   avatar: /images/equipe/thalia-lopes-friedrich.jpg
   github: https://github.com/thaliafriedrich
+  bond: Bolsista
+  actingTime: Outubro de 2020 até hoje
 
-- person:
+- person: true
   name: Vinícius dos Reis
   email: viniciusdosreis312@gmail.com
   position: con-midia
   formation: Acadêmico de Ciência da Computação
   avatar: /images/equipe/vinicius-reis.jpg
   github: https://github.com/vini2reis
+  bond: Bolsista
+  actingTime: Do início do programa até hoje
 
-- person:
+- person: true
   name: Vinícius França Alves
   email: viniciusfrancap@hotmail.com
   position: ger-aux
   formation: Acadêmico de Ciências Econômicas
   avatar: /images/equipe/vinicius-alves.jpeg
   github: https://github.com/VIF-Franca
+  bond: Bolsista
+  actingTime: Do início do programa até hoje
