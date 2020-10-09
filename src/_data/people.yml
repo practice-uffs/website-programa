@@ -77,7 +77,7 @@
   actingTime: Outubro de 2020 até hoje
 
 - person: true
-  name: Andrew M. Silva
+  name: Andrew Malta Silva
   email: andrewsaxx@gmail.com
   position: dev
   formation: Acadêmico de Ciência da Computação
@@ -165,17 +165,6 @@
   github: https://github.com/arufonsekun
   bond: Voluntário
   actingTime: Do início do programa até hoje
-
-
-- person: true
-  name: Julia Gaio
-  email: juliagaiojg@gmail.com
-  position: con-midia
-  formation: Acadêmica de Medicina
-  avatar: /images/equipe/julia-gaio.png
-  github: https://github.com/juliagaio
-  bond: Bolsista
-  actingTime: Outubro de 2020 até hoje
 
 - person: true
   name: Luiza Dall Bosco Tonial
