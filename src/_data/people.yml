@@ -146,15 +146,15 @@
   bond: Bolsista
   actingTime: Do início do programa até hoje
 
-# - person: true
-#   name: Jean Carlo Hilger
-#   email: hilgerjeancarlo@gmail.com
-#   position: dev
-#   formation: Acadêmico de Ciência da Computação
-#   avatar: /images/equipe/
-#   github: https://github.com/JeanCHilger
-  # bond: Voluntário
-  # actingTime: Do início do programa até hoje
+- person: true
+  name: Jean Carlo Hilger
+  email: hilgerjeancarlo@gmail.com
+  position: dev
+  formation: Acadêmico de Ciência da Computação
+  avatar: /images/equipe/jean-carlos-hilger.jpeg
+  github: https://github.com/JeanCHilger
+  bond: Voluntário
+  actingTime: Do início do programa até hoje
 
 - person: true
   name: Junior Vitor Ramisch
@@ -236,15 +236,15 @@
   bond: Bolsista
   actingTime: Outubro de 2020 até hoje
 
-# - person: true
-#   name: Rafael da Costa Guilman
-#   email: rafaguilman@gmail.com
-#   position: con-midia
-#   formation:
-#   avatar: /images/equipe/
-#   github: https://github.com/rafaguilman
-#   bond: Bolsista
-#   actingTime: Outubro de 2020 até hoje
+- person: true
+  name: Rafael da Costa Guilman
+  email: rafaguilman@gmail.com
+  position: con-midia
+  formation: Acadêmico em Agronomia
+  avatar: /images/equipe/rafael-da-costa-guilman.jpg
+  github: https://github.com/rafaguilman
+  bond: Bolsista
+  actingTime: Outubro de 2020 até hoje
 
 - person: true
   name: Raphael Borges Dos Santos Filho
