@@ -1,5 +1,38 @@
-<div class="card col-md-3 p-0 m-3" style="float: left;">
-  <a href="{{ resource.file }}" target="_blank">
-    <img class="card-img-top" src="{{ resource.image }}" width="10">
-  </a>
-</div>
+
+{% if resource.resource == "left" %}
+  <div class="col-8 col-md-6 m-auto m-md-0 ml-md-auto pt-5">
+    <a href="{{ resource.file }}" target="_blank">
+      <img style="width: 350px;" class="card-img-top" src="{{ resource.image }}">
+    </a>
+  </div>
+  <div class="col-12 col-md-4 col-lg-6">
+    <h2 class="text" style="color: #00384d;">{{ resource.title }}</h2>
+    <p class="lead text-justify">{{ resource.description }}</p>
+
+    <form method="get" action="{{ resource.file }}" download>
+      <button type="submit" class="btn btn-primary"><i class="fa fa-download"></i> Download</button>
+    </form>
+
+  </div>
+{% else %}
+  <div class="col-12 col-md-5 col-lg-6">
+    <h2 class="text" style="color: #00384d;">{{ resource.title }}</h2>
+    <p class="lead text-justify">{{ resource.description }}</p>
+
+    <form method="get" action="{{ resource.file }}">
+      <button type="submit" class="btn btn-primary"><i class="fa fa-download"></i> Download</button>
+    </form>
+
+  </div>
+  <div class="col-8 col-md-5 m-auto m-md-5 ml-md-auto pt-2">
+    <a href="{{ resource.file }}" target="_blank">
+      <img style="width: 350px;" class="card-img-top" src="{{ resource.image }}">
+    </a>
+  </div>
+{% endif %}
+
+
+
+
+
+

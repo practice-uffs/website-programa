@@ -21,13 +21,14 @@ permalink: /recursos/
   </div>
 </section>
 
-<section>
-  <div class="container">
-    <div class="col-md-12">
-      {% assign resources = site.data.resources | where: "active", true %}
-      {% for resource in resources %}
+<section class="fdb-block">
+  {% assign resources = site.data.resources | where: "active", true %}
+  {% for resource in resources %}
+    <div class="container">
+      <div class="row align-items-center pt-2">
         {% include resource-list.html %}
-      {% endfor %}
+      </div>
     </div>
-  </div>
+  {% endfor %}
 </section>
+
