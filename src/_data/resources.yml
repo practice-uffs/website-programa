@@ -1,41 +1,70 @@
-- resource:
+- resource: right
   active: true
   file: https://cdn.uffs.cc/practice/website/resources/dicas-de-producao-de-videoaula.pdf
-  title: Cartilha para criação de textos
+  title: "Dicas de produção de videoaula"
+  description: "O objetivo dessa cartilha é instruir sobre alguns pontos-chave para
+  uma boa videoaula. O objetivo não é apresentar um manual de didática,
+  muito menos ensinar a um professor como fazer seu trabalho, mas
+  apresentar dicas que podem tornar mais fácil a criação e condução de
+  uma aula a distância."
   modified: 2020
   image: /images/resources/dicas-de-producao-de-videoaula.png
 
-- resource:
+- resource: left
   active: true
   file: https://cdn.uffs.cc/practice/website/resources/dicas-para-escrever-um-bom-texto.pdf
-  title: Cartilha para criação de textos
+  title: "Dicas para escrever um bom texto"
+  description: "O objetivo dessa cartilha é instruir a escrever textos. 
+  Um bom texto é resultado da combinação do trabalho de escrita e
+  do trabalho de revisão, um texto não fica pronto na primeira tentativa. Se
+  seu texto precisa de revisão e ajustes, não significa que você fez um
+  trabalho ruim, significa simplesmente que existem pontos que podem
+  ser melhorados."
   modified: 2020
   image: /images/resources/dicas-para-escrever-um-bom-texto.png
 
-- resource:
+- resource: right
   active: true
   file: https://cdn.uffs.cc/practice/website/resources/politica-de-licencas-PRACTICE.pdf
-  title: Cartilha para licenças creative commons
+  title: "Licenças creative commons"
+  description: "As licenças Creative Commons são uma forma de proteção dos
+  conteúdos elaborados pelos criadores de conteúdo. Definem os limites
+  de uso do material disponibilizado. Qualquer produto que use de
+  propriedade intelectual está protegido pelos direitos autorais que
+  permitem o uso e distribuição deste produto. As licenças Creative
+  Commons apresentam diferentes formas de autorização de utilização
+  de conteúdos."
   modified: 2020
   image: /images/resources/licencas-creative-commons.png
 
-- resource:
+- resource: left
   active: true
-  file: https://cdn.uffs.cc/practice/website/resources/criação-e-condução-de-videoconferência .pptx.pdf
-  title: Cartilha para criação e condução de videoconferência
+  file: https://cdn.uffs.cc/practice/website/resources/criacao-e-conducao-de-videoconferencia.pptx.pdf
+  title: "Criação e condução de videoconferências e lives"
+  description: "Aqui você irá encontrar as principais dúvidas e soluções para
+  organização de uma reunião ou videoconferência. Ao longo da cartilha
+  será possível obter o conhecimento básico necessário para realização de
+  uma reunião organizada."
   modified: 2020
   image: /images/resources/cartilha-para-criacao-e-conducao-de-videoconferencia.png
 
-- resource:
+- resource: right
   active: true
   file: https://cdn.uffs.cc/practice/website/resources/ferramenta-de-edicao-de-imagem.pdf
-  title: "Cartilha de edição de imagem: ferramenta Photopea"
+  title: "Edição de imagem: ferramenta Photopea"
+  description: "O Photopea é um serviço grátis online que tem ferramentas
+  básicas e avançadas para edição de imagens. Com interface idêntica ao
+  Adobe Photoshop, o site pode ser uma excelente alternativa para usar
+  recursos profissionais de forma gratuita."
   modified: 2020
   image: /images/resources/cartilha-de-edicao-de-imagem-ferramenta-photopea.png
 
-- resource:
+- resource: left
   active: true
   file: https://cdn.uffs.cc/practice/website/resources/dicas-de-iluminacao-angulo-e-audio.pdf
-  title: "Cartilha de iluminação, ângulo e áudio"
+  title: "Dicas de luminação, ângulo e áudio"
+  description: "Nesse material, trataremos de algumas dicas básicas que podem
+  ser úteis para melhorar os recursos visuais e sonoros durante a sua
+  videoconferência, gravação de vídeo, lives, reuniões online, entre outros."
   modified: 2020
   image: /images/resources/cartilha-de-iluminacao-angulo-e-audio.png
