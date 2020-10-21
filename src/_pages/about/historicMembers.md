@@ -3,7 +3,7 @@ layout: hero
 title: "Histórico de Membros"
 image:
   feature: banner-rotulo.png
-permalink: /equipe/historic/
+permalink: /equipe/historico/
 ---
 
 <section class="fdb-block">

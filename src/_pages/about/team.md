@@ -11,7 +11,7 @@ permalink: /equipe/
     <div class="row align-items-center pt-2">
       <div class="col-12 col-md-8 col-lg-7">
         <h2>Equipe</h2>
-        <p class="lead">O PRACTICE conta com uma equipe de estudantes e servidores que se dedicam de forma organizada e eficiente para realizar diversos tipos de atividades. <a href="/equipe/historic/">Histórico de membros PRACTICE.</a></p>
+        <p class="lead">O PRACTICE conta com uma equipe de estudantes e servidores que se dedicam de forma organizada e eficiente para realizar diversos tipos de atividades. <a href="/equipe/historico/">Histórico de membros PRACTICE.</a></p>
       </div>
       <div class="col-md-3 mt-6">
           <lottie-player alt="image" class="fdb-icon pb-4" src="https://assets10.lottiefiles.com/packages/lf20_CbwvP6/data.json"  background="transparent"  speed="1"  style="width: 400px; height: 400px;" loop autoplay></lottie-player>
