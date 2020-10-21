@@ -15,7 +15,7 @@ permalink: /prcoin/
       </div>
       <div class="col-md-1"></div>
       <div class="col-md-3 mt-4">
-        <p><img alt="image" class="card-img-top rounded-circle" src="/images/icons/ecology.svg"></p>
+        <lottie-player alt="image" class="fdb-icon pb-4" src="https://assets5.lottiefiles.com/packages/lf20_k86wxpgr.json"  background="transparent"  speed="1"  style="width: 280px; height: 280px;" loop autoplay></lottie-player>
       </div>
     </div>
   </div>
