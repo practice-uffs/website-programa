@@ -21,6 +21,9 @@
 - title: Serviços
   excerpt: "Serviços PRACTICE"
   dropdown:
+    - title: Prazos de solicitação
+      url: /servico/prazos-de-solicitacao
+    - title: ---
     - title: Fluxo de trabalho
       url: /servico/fluxo
     - title: ---

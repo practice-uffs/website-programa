@@ -1,0 +1,128 @@
+- service:
+  product: "ÁUDIO"
+  id: 1
+  description: "Edição simples de áudio, contendo: cortes e inserções de vinhetas. No máximo 2 faixas."
+  evaluation_deadline: "3 dias úteis"
+  production_deadline: "2 à 4 dias úteis"
+
+- service:
+  product: "ÁUDIO"
+  id: 2
+  description: "Edição média de áudio, contendo: cortes, inserções de vinhetas e trilhas. No máximo 4 faixas."
+  evaluation_deadline: "3 dias úteis"
+  production_deadline: "3 à 6 dias úteis"
+
+- service:
+  product: "ÁUDIO"
+  id: 3
+  description: "Edição sofisticada de áudio, contendo: cortes, inserções de trechos externos, trilhas, efeitos sonoros. Cinco ou mais faixas."
+  evaluation_deadline: "3 dias úteis"
+  production_deadline: "4 à 8 dias úteis"
+
+- service:
+  product: "TRANSMISSÃO AO VIVO"
+  id: 1
+  description: "Live simples, com apenas uma webconferência no webex e utilização de slides. Inserção de capa de divulgação e legendas com nomes. Sem janela de interpretação em LIBRAS."
+  evaluation_deadline: "3 à 4 dias úteis"
+  production_deadline: "-"
+
+- service:
+  product: "TRANSMISSÃO AO VIVO"
+  id: 2
+  description: "Live moderada, com webconferência via webex e utilização de slides. Inserção de capa de divulgação e legenda com nomes. Com janela de interpretação em LIBRAS sem utiliação de chromakey."
+  evaluation_deadline: "4 à 6 dias úteis"
+  production_deadline: "-"
+
+- service:
+  product: "TRANSMISSÃO AO VIVO"
+  id: 3
+  description: "Live complexa, com webconferência via webex e utilização de slides. Inserção de capa de divulgação, legendar com nomes, vídeos, imagens e efeitos de transição. Com janela de interpretação em LIBRAS com a utilização de chromakey."
+  evaluation_deadline: "5 à 8 dias úteis"
+  production_deadline: "-"
+
+- service:
+  product: "VÍDEO"
+  id: 1
+  description: "Edição simples de vídeo, contendo: cortes, inserções de textos curtos e vinhetas. Apenas 1 quadro."
+  evaluation_deadline: "5 dias úteis"
+  production_deadline: "3 à 5 dias úteis"
+
+- service:
+  product: "VÍDEO"
+  id: 2
+  description: "Edição simples de vídeo, contendo: cortes, inserções de textos, imagens, narrações e vinhetas. Até 2 quadros de vídeo."
+  evaluation_deadline: "5 dias úteis"
+  production_deadline: "4 à 7 dias úteis"
+
+- service:
+  product: "VÍDEO"
+  id: 3
+  description: "Edição média de vídeo, contendo: cortes, transições, inserções de texto, imagens, narrações, vinhetas e até 2 inserções pontuais de materiais/outros vídeos. Até 2 quadros de vídeo."
+  evaluation_deadline: "5 dias úteis"
+  production_deadline: "5 à 9 dias úteis"
+
+- service:
+  product: "VÍDEO"
+  id: 4
+  description: "Edição média de vídeo, contendo: cortes, transições, inserções de texto, imagens, narrações, vinhetas e até 5 inserções de materiais e pequenas animações. Até 3 quadros de vídeo."
+  evaluation_deadline: "5 dias úteis"
+  production_deadline: "6 à 11 dias úteis"
+
+- service:
+  product: "VÍDEO"
+  id: 5
+  description: "Edição sofisticada de vídeo, contendo: cortes, transições, inserções de texto, imagens, narrações, vinhetas, animações e composição de vídeos. Dois ou mais quadros."
+  evaluation_deadline: "5 dias úteis"
+  production_deadline: "7 à 13 dias úteis"
+
+- service:
+  product: "TEXTO"
+  id: 1
+  description: "Cartaz: tem por objetivo divulgar algo ou alguém, escrito de forma resumida e direta. Devem ser apresentadas em um cartaz apenas as informações fundamentais do que se pretende divulgar (nome, apresentador e data, se for um evento, por exemplo). Utiliza de linguagem simples e direta e recursos visuais (design e imagens) para chamar atenção do leitor. Até 1 página e 2 imagens (ou gráficos ou figuras) por página."
+  evaluation_deadline: "5 dias úteis"
+  production_deadline: "3 à 5 dias úteis"
+
+- service:
+  product: "TEXTO"
+  id: 2
+  description: "Panfleto: é o meio de divulgação de algo. O texto é sucinto e direto e tem por objetivo apresentar o básico sobre o tema para o leitor. Até 2 páginas e 3 imagens (ougráficos ou figuras) por página. Simples: só diagramação do texto. Intermediário: elemento extra."
+  evaluation_deadline: "5 dias úteis"
+  production_deadline: "Simples: 3 à 5 dias úteis. Intermediário: 5 à 7 dias úteis"
+
+- service:
+  product: "TEXTO"
+  id: 3
+  description: "Manual: apresenta instruções para realização de algo (tarefa, montagem de produto, estabelecimento de rotina, etc). O texto tem uma ordem de passos que deve ser seguido para que se obtenha sucesso na atividade que o texto orienta. Simples: Até 15 páginas. Intermediário: Até 20 páginas. Complexo: Até 30 páginas. Todos com até 3 imagens (ou gráficos, ou figuras) por página."
+  evaluation_deadline: "5 dias úteis"
+  production_deadline: "Simples: 3 à 5 dias úteis. Intermediário: 5 à 7 dias úteis. Complexo: até 15 dias úteis."
+
+- service:
+  product: "TEXTO"
+  id: 4
+  description: "Manual: apresenta instruções para realização de algo (tarefa, montagem de produto, estabelecimento de rotina, etc). O texto tem uma ordem de passos que deve ser seguido para que se obtenha sucesso na atividade que o texto orienta. Simples: Até 15 páginas. Intermediário: Até 20 páginas. Complexo: Até 30 páginas. Todos com até 3 imagens (ou gráficos, ou figuras) por página."
+  evaluation_deadline: "5 dias úteis"
+  production_deadline: "Simples: 3 à 5 dias úteis. Intermediário: 5 à 7 dias úteis. Complexo: até 15 dias úteis"
+
+- service:
+  product: "IMAGEM"
+  id: 1
+  description: "Identidade Visual Simples: contém símbolo, logotipo e paleta de cores"
+  evaluation_deadline: "5 dias úteis"
+  production_deadline: "15 dias úteis"
+
+- service:
+  product: "IMAGEM"
+  id: 2
+  description: "Identidade Visual Complexa: contém símbolo, logotipo, paleta de cores, marca d’água e padronagem"
+  evaluation_deadline: "5 dias úteis"
+  production_deadline: "15 dias úteis"
+
+- service:
+  product: "DESENVOLVIMENTO"
+  id: 1
+  description: "Criação de aplicativos para dispositivos móveis (app)"
+  evaluation_deadline: "entrar em contato e explanar sobre sua ideia de produto"
+  production_deadline: "3 à 6 meses"
+
+
+  
