@@ -35,6 +35,9 @@ Nesse contexto, o fomento de iniciativas que oportunizem maior envolvimento da c
     <div class="row text-left mt-5">
       <div class="col-12 col-sm-6 col-lg-3">
         <div class="row">
+          <div class="col-3">
+            <img alt="image" class="img-fluid" src="/images/icons/layers.svg">
+          </div>
           <div class="col-9">
             <h3><strong>Participação de todos</strong></h3>
             <p>Capacitação dos estudantes e adequação de programas de assistência estudantil para que oportunizar a participação de todos, sem prejuízo, nas atividades telepresenciais;</p>
@@ -43,6 +46,9 @@ Nesse contexto, o fomento de iniciativas que oportunizem maior envolvimento da c
       </div>
       <div class="col-12 col-sm-6 col-lg-3 pt-3 pt-sm-0">
         <div class="row">
+          <div class="col-3">
+            <img alt="image" class="img-fluid" src="/images/icons/layout.svg">
+          </div>
           <div class="col-9">
             <h3><strong>Expansão do Programa</strong></h3>
             <p>Proporcionar que o presente Programa tenha alcance em todos os campi da UFFS com o mesmo nível de interação e atuação.</p>
@@ -51,6 +57,9 @@ Nesse contexto, o fomento de iniciativas que oportunizem maior envolvimento da c
       </div>
       <div class="col-12 col-sm-6 col-lg-3 pt-3 pt-lg-0">
         <div class="row">
+          <div class="col-3">
+            <img alt="image" class="img-fluid" src="/images/icons/life-buoy.svg">
+          </div>
           <div class="col-9">
             <h3><strong>Aula em tempo real</strong></h3>
             <p>Adaptação de algumas salas de aulas atuais para o oferecimento de aula em tempo real por telepresença;</p>
@@ -59,6 +68,9 @@ Nesse contexto, o fomento de iniciativas que oportunizem maior envolvimento da c
       </div>
       <div class="col-12 col-sm-6 col-lg-3 pt-3 pt-lg-0">
         <div class="row">
+          <div class="col-3">
+            <img alt="image" class="img-fluid" src="/images/icons/map-pin.svg">
+          </div>
           <div class="col-9">
             <h3><strong>UFFSTV</strong></h3><br>
             <p>Criação da UFFSTV em plataforma exclusivamente digital;</p>
@@ -69,6 +81,9 @@ Nesse contexto, o fomento de iniciativas que oportunizem maior envolvimento da c
     <div class="row text-left pt-3 pt-lg-5">
       <div class="col-12 col-sm-6 col-lg-3">
         <div class="row">
+          <div class="col-3">
+            <img alt="image" class="img-fluid" src="/images/icons/monitor.svg">
+          </div>
           <div class="col-9">
             <h3><strong>Capacitação didática de docentes</strong></h3>
             <p>Capacitação didática de docentes para a oferta de aulas via telepresença, de maneira síncrona e assíncrona, bem como o fomento para o desenvolvimento de tecnologias inovadoras próprias da UFFS voltadas a interação, criação, curadoria e distribuição de conteúdos de acesso público;</p>
@@ -77,6 +92,9 @@ Nesse contexto, o fomento de iniciativas que oportunizem maior envolvimento da c
       </div>
       <div class="col-12 col-sm-6 col-lg-3 pt-3 pt-sm-0">
         <div class="row">
+          <div class="col-3">
+            <img alt="image" class="img-fluid" src="/images/icons/package.svg">
+          </div>
           <div class="col-9">
             <h3><strong>Estruturação de ambientes nas plataformas</strong></h3>
             <p>Estruturação de ambientes que possibilitem a gravação, a transmissão, edição e produção de conteúdos educacionais nas mais variadas plataformas de distribuição de conteúdo;</p>
@@ -85,6 +103,9 @@ Nesse contexto, o fomento de iniciativas que oportunizem maior envolvimento da c
       </div>
       <div class="col-12 col-sm-6 col-lg-3 pt-3 pt-lg-0">
         <div class="row">
+          <div class="col-3">
+            <img alt="image" class="img-fluid" src="/images/icons/cloud.svg">
+          </div>
           <div class="col-9">
             <h3><strong>Curricularização da extensão</strong></h3><br>
             <p>Contribuir para a curricularização da extensão a partir da produção de conteúdos voltados para a Educação Básica e os mais variados dos setores produtivos e governamentais; e,</p>
