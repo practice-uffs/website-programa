@@ -1,5 +1,28 @@
 - resource: right
   active: true
+  file: https://cdn.uffs.cc/practice/website/resources/dicas-para-interpretes.pdf
+  title: "Orientações para participação de intérpretes em lives"
+  description: "A interpretação em LIBRAS é uma parte fundamental das nossas
+  transmissões, pois ela garante o acesso à informação para os servidores
+  e alunos da UFFS que precisarem dela. No decorrer deste material,
+  elencamos alguns pontos importantes para o aproveitamento e melhor
+  desempenho do evento em forma online."
+  modified: 2020
+  image: /images/resources/dicas-para-interpretes.png
+
+- resource: left
+  active: true
+  file: https://cdn.uffs.cc/practice/website/resources/dicas-para-uma-boa-apresentacao-de-slides.pdf
+  title: "Dicas para uma boa apresentação de slides"
+  description: "Esta cartilha foi elaborada com o intuito de instruir sobre alguns
+  pontos-chave para uma boa apresentação de slides, o objetivo deste material não
+  é apresentar um manual de didática, mas sim, trazer algumas dicas que podem
+  auxiliar na tarefa de criação de apresentações."
+  modified: 2020
+  image: /images/resources/dicas-para-uma-boa-apresentacao-de-slides.png
+
+- resource: right
+  active: true
   file: https://cdn.uffs.cc/practice/website/resources/dicas-de-producao-de-videoaula.pdf
   title: "Dicas de produção de videoaula"
   description: "O objetivo dessa cartilha é instruir sobre alguns pontos-chave para
@@ -14,7 +37,7 @@
   active: true
   file: https://cdn.uffs.cc/practice/website/resources/dicas-para-escrever-um-bom-texto.pdf
   title: "Dicas para escrever um bom texto"
-  description: "O objetivo dessa cartilha é instruir a escrever textos. 
+  description: "O objetivo dessa cartilha é instruir a escrever textos.
   Um bom texto é resultado da combinação do trabalho de escrita e
   do trabalho de revisão, um texto não fica pronto na primeira tentativa. Se
   seu texto precisa de revisão e ajustes, não significa que você fez um
