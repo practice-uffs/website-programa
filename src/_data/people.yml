@@ -69,7 +69,7 @@
 - person: true
   name: Amanda Segatto Bisognin
   email: amandasgttb@gmail.com
-  position: con-design
+  position: con-midia-AVA
   formation: Acadêmica de Medicina
   avatar: /images/equipe/amanda-segatto-bisognin.jpeg
   github: https://github.com/amandasegattob
@@ -99,7 +99,7 @@
 - person: true
   name: Claudineia Vieira Raimundi
   email: claudineia.v.raimundi@gmail.com
-  position: con-design
+  position: ger-aux
   formation: Acadêmica de Engenharia Ambiental e Sanitária
   avatar: /images/equipe/claudineia-vieira-raimundi.jpeg
   github: https://github.com/Claudineia-VR
@@ -169,7 +169,7 @@
 - person: true
   name: Luiza Dall Bosco Tonial
   email: luu.tonial@gmail.com
-  position: con-design
+  position: con-midia-live
   formation: Acadêmica de Arquitetura e Urbanismo
   avatar: /images/equipe/luiza-dall-bosco-tonial.jpeg
   github: https://github.com/luizatonial
@@ -189,7 +189,7 @@
 - person: true
   name: Luiz Eduardo Dameda
   email: luiz.edu.dameda@gmail.com
-  position: con-design
+  position: con-midia-AVA
   formation: Acadêmico de Medicina
   avatar: /images/equipe/luiz-eduardo-dameda.jpeg
   github: https://github.com/luizdameda
@@ -209,7 +209,7 @@
 - person: true
   name: Matheus Dias Negrão
   email: matheus.dnegrao@gmail.com
-  position: con-midia
+  position: con-midia-live
   formation: Acadêmico de Ciência da Computação
   avatar: /images/equipe/matheus-negrao.jpg
   github: https://github.com/MaNegrao
@@ -219,7 +219,7 @@
 - person: true
   name: Milena Sávio Pastorini Paz
   email: milena.pastorini2016@gmail.com
-  position: con-design
+  position: con-midia-live
   formation: Acadêmica de Ciências Biológicas
   avatar: /images/equipe/milena-savio-pastorini-paz.png
   github: https://github.com/MilenaPaz2020
@@ -237,9 +237,19 @@
   actingTime: Outubro de 2020 até hoje
 
 - person: true
+  name: Pedro Augusto Maximowski
+  email: pedromaximowski123@gmail.com
+  position: con-midia-live
+  formation: Acadêmico de Engenharia de Aquicultura
+  avatar: /images/equipe/pedro-augusto-maximowski.png
+  github: https://github.com/pedroamaximowski
+  bond: Bolsista
+  actingTime: Novembro de 2020 até hoje
+
+- person: true
   name: Rafael da Costa Guilman
   email: rafaguilman@gmail.com
-  position: con-midia
+  position: con-midia-live
   formation: Acadêmico em Agronomia
   avatar: /images/equipe/rafael-da-costa-guilman.jpg
   github: https://github.com/rafaguilman
@@ -269,7 +279,7 @@
 - person: true
   name: Robison José Santos da Silva
   email: robisonjose99@gmail.com
-  position: con-midia
+  position: con-midia-AVA
   formation: Acadêmico de Física
   avatar: /images/equipe/robison-jose-santos-silva.jpg
   github: https://github.com/robisonjose
@@ -299,7 +309,7 @@
 - person: true
   name: Vinícius dos Reis
   email: viniciusdosreis312@gmail.com
-  position: con-midia
+  position: con-midia-AVA
   formation: Acadêmico de Ciência da Computação
   avatar: /images/equipe/vinicius-reis.jpg
   github: https://github.com/vini2reis

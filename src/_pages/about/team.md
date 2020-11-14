@@ -55,9 +55,17 @@ permalink: /equipe/
           {% include person-grid.html %}
         {% endfor %}
       </div>
-      <h3>Imagem, vídeo e som</h3>
+      <h3>Transmissões ao vivo</h3>
       <div class="card-group">
-        {% assign active = site.data.people | where:"position","con-midia" %}
+        {% assign active = site.data.people | where:"position","con-midia-live" %}
+        {% assign people = active | where:"person","true" | sort:"name" %}
+        {% for person in people %}
+          {% include person-grid.html %}
+        {% endfor %}
+      </div>
+      <h3>Áudio, vídeo e animações</h3>
+      <div class="card-group">
+        {% assign active = site.data.people | where:"position","con-midia-AVA" %}
         {% assign people = active | where:"person","true" | sort:"name" %}
         {% for person in people %}
           {% include person-grid.html %}
@@ -87,7 +95,7 @@ permalink: /equipe/
       </div>
     </section>
     <section class="pt-5">
-      <h2 class="pb-3">Auxílio organizacional</h2>
+      <h2 class="pb-3">Auxílio Gerencial</h2>
       <hr class="pb-4">
       <div class="card-group">
         {% assign active = site.data.people | where:"position","ger-aux" %}
