@@ -10,7 +10,9 @@
 				<br />
 				<h4><strong>Coordenação Geral</strong></h4>
 
-			{% assign people = site.data.people | where:"position","coor-geral" | sort:"name" %}
+			{% assign people_coor_geral = site.data.people | where:"position","coor-geral" | sort:"name" %}
+			{% assign people = people_coor_geral | where:"person","true" %}
+
         {% for person in people %}
 					<p style="color: #727373;">
 						<i class="fa fa-user"></i> <strong>{{ person.name }}</strong> <br />
@@ -22,8 +24,10 @@
 					<br />
 				<h4><strong>Coordenação Técnica-pedagógica</strong></h4>
 
-				{% assign people = site.data.people | where:"position","coor-tec" | sort:"name" %}
-        {% for person in people %}
+				{% assign people_coor_tec = site.data.people | where:"position","coor-tec" | sort:"name" %}
+				{% assign people = people_coor_tec | where:"person","true" %}
+
+				{% for person in people %}
 					<p  style="color: #727373;">
 						<i class="fa fa-user"></i> <strong>{{ person.name }}</strong> <br />
 						<small>
