@@ -63,8 +63,4 @@ permalink: /servico/estudio/
     <h3 class="pb-2">Agenda do estúdio campus Laranjeiras do Sul</h3>
     <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%230a76c3&amp;ctz=America%2FSao_Paulo&amp;showTitle=0&amp;src=Z3RvY21zZHJtM3V0ZzU5b2c5MGhkYWo1cGtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%239E69AF" style="border-width:0" width="1000" height="600" frameborder="0" scrolling="no"></iframe>
   </div>
-  <div class="container pt-5">
-    <h3 class="pb-2">Agenda das Lives</h3>
-    <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%230a76c3&amp;ctz=America%2FSao_Paulo&amp;showTitle=0&amp;src=dm9lNGVta241NjRzdHE0NWlsdmxkYTBtdjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23F6BF26" style="border-width:0" width="1000" height="600" frameborder="0" scrolling="no"></iframe>
-  </div>
 </section>
