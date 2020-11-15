@@ -3,7 +3,7 @@ layout: servicos
 title: "Transmissões ao Vivo"
 image:
   feature: banner-rotulo.png
-permalink: /servico/evento-virtual/
+permalink: /servico/transmissao-ao-vivo/
 ---
 
 <section class="fdb-block">
