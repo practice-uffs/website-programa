@@ -1,3 +1,14 @@
+- resource: left
+  active: true
+  file: https://cdn.uffs.cc/practice/website/resources/dicas-para-encontrar-boas-referencias-bibliograficas.pdf
+  title: "Dicas para encontrar boas referências bibliográficas"
+  description: "O PRACTICE elaborou essa cartilha com o objetivo de
+  elencar algumas dicas e exemplificar procedimentos simples, visando facilitar
+  a consulta por trabalhos científicos que têm potencial de contribuir para a
+  construção do seu texto acadêmico/científico."
+  modified: 2020
+  image: /images/resources/dicas-para-encontrar-boas-referencias-bibliograficas.png
+
 - resource: right
   active: true
   file: https://cdn.uffs.cc/practice/website/resources/dicas-para-interpretes.pdf
