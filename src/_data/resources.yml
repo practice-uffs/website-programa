@@ -1,3 +1,14 @@
+- resource: right
+  active: true
+  file: https://cdn.uffs.cc/practice/website/resources/dicas-para-um-melhor-aproveitamento-das-aulas-em-formato-remoto.pdf
+  title: "Dicas para um melhor aproveitamento das aulas em formato remoto"
+  description: "Participar das aulas em formato remoto, pode parecer um grande desafio
+  para quem nunca vivenciou essa experiência. Sendo assim, elencamos nesta cartilha
+  algumas dicas que podem te auxiliar, tanto no processo de adaptação ao novo formato
+  de ensino, quanto no planejamento e organização dos seus estudos."
+  modified: 2020
+  image: /images/resources/dicas-para-um-melhor-aproveitamento-das-aulas-em-formato-remoto.png
+
 - resource: left
   active: true
   file: https://cdn.uffs.cc/practice/website/resources/dicas-para-encontrar-boas-referencias-bibliograficas.pdf
