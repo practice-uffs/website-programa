@@ -11,7 +11,7 @@ permalink: /servico/midia/
     <div class="row align-items-center pt-2">
       <div class="col-12 col-md-8 col-lg-7">
         <h2>Áudio</h2>
-        <p class="lead">Para abranger o maior número de formatos que podem ser utilizados, separamos uma breve explicação dos produtos de áudio que podemos oferecer. A nossa equipe de media disponibiliza nossos formatos tanto para edição como para produção em nosso estúdio, atendendo um dos seguintes modelos.</p>
+        <p class="lead">Para abranger o maior número de formatos que podem ser utilizados, separamos uma breve explicação dos produtos de áudio que podemos oferecer. A nossa equipe de mídia disponibiliza nossos formatos tanto para edição como para produção em nosso estúdio, atendendo um dos seguintes modelos.</p>
       </div>
     </div>
   </div>
