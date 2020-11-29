@@ -138,7 +138,7 @@ permalink: /servico/conteudo/
   <div class="container">
     <div class="row align-items-center pt-2">
       <div class="col-8 col-md-6 m-auto m-md-0 ml-md-auto pt-5">
-        <p><img style="width: 300px;" src="{{ site.url }}/images/content/paleta_cores.png" alt="logo"></p>
+        <p><img style="width: 400px;" src="{{ site.url }}/images/content/paleta_cores.png" alt="logo"></p>
       </div>
       <div class="col-12 col-md-4 col-lg-6">
         <h2 class="text-center" style="color: #00384d;">Paleta de cores</h2>
