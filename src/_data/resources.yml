@@ -1,3 +1,13 @@
+- resource: left
+  active: true
+  file: https://cdn.uffs.cc/practice/website/resources/orientacoes-de-uso-da-plataforma-moodle.pptx.pdf
+  title: "Orientações de uso da Plataforma Moodle"
+  description: "Essa cartilha tem como objetivo auxiliar os acadêmicos da UFFS,
+  apresentando orientações de acesso e uso da plataforma Moodle, sistema que é
+  utilizado pela instituição para comunicação entre professores e alunos."
+  modified: 2021
+  image: /images/resources/orientacoes-de-uso-da-plataforma-moodle.png
+
 - resource: right
   active: true
   file: https://cdn.uffs.cc/practice/website/resources/dicas-para-um-melhor-aproveitamento-das-aulas-em-formato-remoto.pdf
