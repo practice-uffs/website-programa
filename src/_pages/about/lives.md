@@ -1,6 +1,6 @@
 ---
 layout: servicos
-title: "Lives"
+title: "Transmissões ao vivo"
 image:
   feature: banner-rotulo.png
 permalink: /portfolio/lives/
@@ -8,13 +8,13 @@ permalink: /portfolio/lives/
 
 <section class="fdb-block">
   <div class="container">
-    <div class="row align-items-center pt-2">
-      <div class="col-12 col-md-8 col-lg-7">
-        <h2>{{ page.title }}</h2>
-        <p class="lead">Conheça todas as lives realizadas pelo PRACTICE.</p>
+    <h1 class="text-center"><b>{{ page.title }}</b></h1>
+    <div class="row align-items-center pt-0">
+      <div class="col-8 col-md-6 m-auto m-md-0 ml-md-auto pt-3">
+        <img style="width: 400px; height: 280px; border-radius: 5px;" class="card-img-top" src="/images/illustrations/undraw_online_media_62jb.png">
       </div>
-      <div class="col-8 col-md-4 m-auto m-md-0 ml-md-auto pt-5">
-        <p><img alt="image" class="img-fluid" src="/images/illustrations/undraw_Portfolio_update_re_jqnp.svg"></p>
+      <div class="col-12 col-md-4 col-lg-6 pt-4">
+        <p class="lead text-justify">O PRACTICE conta com um amplo portfólio de atividades realizadas, dentre elas se destacam as transmissões ao vivo auxiliadas e os diversos vídeos editados. A equipe do programa trabalha com comprometimento e seriedade, visando garantir o nível de excelência exigido. Alguns dos materiais produzidos podem ser visualizados abaixo:</p>
       </div>
     </div>
   </div>
