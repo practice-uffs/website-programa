@@ -1,3 +1,103 @@
+- flyer: 55
+  portfolio:
+  url_image: https://cdn.uffs.cc/practice/website/portfolios/lives/2020-12-22_AGRO_ERSH.JPG
+  youtube: https://facebook.com/uffsaovivo/videos/143466823982907/
+
+- flyer: 54
+  portfolio:
+  url_image: https://cdn.uffs.cc/practice/website/portfolios/lives/2020-12-14_PIBID_RP.JPG
+  youtube: https://youtu.be/zLT9UG_GSZI
+
+- flyer: 53
+  portfolio:
+  url_image: https://cdn.uffs.cc/practice/website/portfolios/lives/2020-12-14_PROAE_CH.JPG
+  youtube: https://youtu.be/GjbcDI9s7vA
+
+- flyer: 52
+  portfolio:
+  url_image: https://cdn.uffs.cc/practice/website/portfolios/lives/2020-12-09_DPG_PRG_CH.JPG
+  youtube: https://youtu.be/odL-thg7bZw
+
+- flyer: 51
+  portfolio:
+  url_image: https://cdn.uffs.cc/practice/website/portfolios/lives/2020-12-09_PROAE_CH.JPG
+  youtube: https://youtu.be/dGxuVXLfm8
+
+- flyer: 50
+  portfolio:
+  url_image: https://cdn.uffs.cc/practice/website/portfolios/lives/2020-12-08_PPGEL_CH.JPG
+  youtube: https://youtu.be/c7DDnxWaBlk
+
+- flyer: 49
+  portfolio:
+  url_image: https://cdn.uffs.cc/practice/website/portfolios/lives/2020-12-07_PPGEL_CH.JPG
+  youtube: https://youtu.be/666k7fUhSVI
+
+- flyer: 48
+  portfolio:
+  url_image: https://cdn.uffs.cc/practice/website/portfolios/lives/2020-12-07_PEDG-ERSH.JPG
+  youtube: https://youtu.be/8LyeRxu8qBw
+
+- flyer: 47
+  portfolio:
+  url_image: https://cdn.uffs.cc/practice/website/portfolios/lives/2020-12-04_edit_UFFS.JPG
+  youtube: https://youtu.be/85cnqj88lI0
+
+- flyer: 46
+  portfolio:
+  url_image: https://cdn.uffs.cc/practice/website/portfolios/lives/2020-12-03_PROAE_CH.JPG
+  youtube: https://youtu.be/CFC6uDYzPx4
+
+- flyer: 45
+  portfolio:
+  url_image: https://cdn.uffs.cc/practice/website/portfolios/lives/2020-12-02_PROAE_CH.JPG
+  youtube: https://youtu.be/PMLSl1hCoHs
+
+- flyer: 44
+  portfolio:
+  url_image: https://cdn.uffs.cc/practice/website/portfolios/lives/2020-12-01_PPGEL_CH.JPG
+  youtube: https://youtu.be/2fS2fTEzoYE
+
+- flyer: 43
+  portfolio:
+  url_image: https://cdn.uffs.cc/practice/website/portfolios/lives/2020-11-30_DPG_UFFS.JPG
+  youtube: https://youtu.be/A1paML2tXi0
+
+- flyer: 42
+  portfolio:
+  url_image: https://cdn.uffs.cc/practice/website/portfolios/lives/2020-11-30_RB_PIBID.JPG
+  youtube: https://youtu.be/LrZJQ0InGaY
+
+- flyer: 41
+  portfolio:
+  url_image: https://cdn.uffs.cc/practice/website/portfolios/lives/2020-11-26_PPGEL_UB.JPG
+  youtube: https://youtu.be/__3NPAXmJwI
+
+- flyer: 40
+  portfolio:
+  url_image: https://cdn.uffs.cc/practice/website/portfolios/lives/2020-11-25_PROAE_CH.JPG
+  youtube: https://youtu.be/-F1qAqA64Wo
+
+- flyer: 39
+  portfolio:
+  url_image: https://cdn.uffs.cc/practice/website/portfolios/lives/2020-11-19_PROAE_CH.JPG
+  youtube: https://youtu.be/vbOXz_JrCo4
+
+- flyer: 38
+  portfolio:
+  url_image: https://cdn.uffs.cc/practice/website/portfolios/lives/2020-11-18_PROAE_CH.JPG
+  youtube: https://youtu.be/1ubmIfJdwps
+
+- flyer: 37
+  portfolio:
+  url_image: https://cdn.uffs.cc/practice/website/portfolios/lives/2020-11-13_SIASS_CH.JPG
+  youtube: https://youtu.be/4924kagCeTI
+
+- flyer: 36
+  portfolio:
+  url_image: https://cdn.uffs.cc/practice/website/portfolios/lives/2020-11-09_PROAE_CH.JPG
+  youtube: https://youtu.be/Oa2Nnmwy2zO
+
 - flyer: 35
   portfolio:
   url_image: https://cdn.uffs.cc/practice/website/portfolios/lives/2020-11-04_PRO-R-CH.JPG
@@ -89,14 +189,17 @@
   youtube: https://youtu.be/QiSJAwcoDx4
 
 - flyer: 17
+  portfolio:
   url_image: https://cdn.uffs.cc/practice/website/portfolios/lives/2020-09-08_SA-Pedagogia-CH.png
   youtube: https://youtu.be/VftFk3PHRD8
 
 - flyer: 16
+  portfolio:
   url_image: https://cdn.uffs.cc/practice/website/portfolios/lives/2020-09-04_SA-Pedagogia-CH.png
   youtube: https://youtu.be/0DtLP6hQuQ4
 
 - flyer: 15
+  portfolio:
   url_image: https://cdn.uffs.cc/practice/website/portfolios/lives/2020-09-03_SA-Pedagogia-CH.png
   youtube: https://youtu.be/Edz1JFSV-nQ
 
@@ -105,18 +208,22 @@
   youtube: https://youtu.be/KydCtlO6IpU
 
 - flyer: 13
+  portfolio:
   url_image: https://cdn.uffs.cc/practice/website/portfolios/lives/2020-08-26_NAP-CH.png
   youtube: https://youtu.be/z4DtG-PvcM0
 
 - flyer: 12
+  portfolio:
   url_image: https://cdn.uffs.cc/practice/website/portfolios/lives/2020-08-21_NAP-LS.png
   youtube: https://youtu.be/BMs9IEa3b54
 
 - flyer: 11
+  portfolio:
   url_image: https://cdn.uffs.cc/practice/website/portfolios/lives/2020-08-20_NAP-LS.png
   youtube: https://youtu.be/FZjbQ1eFmxA
 
 - flyer: 10
+  portfolio:
   url_image: https://cdn.uffs.cc/practice/website/portfolios/lives/2020-08-18_NAP-LS.png
   youtube: https://youtu.be/miPJ_cFzg2I
 
@@ -126,14 +233,17 @@
   youtube: https://youtu.be/82CgeXsu4FE
 
 - flyer: 8
+  portfolio:
   url_image: https://cdn.uffs.cc/practice/website/portfolios/lives/2020-08-07_NAP-LS.png
   youtube: https://youtu.be/cvHEtuMbebo
 
 - flyer: 7
+  portfolio:
   url_image: https://cdn.uffs.cc/practice/website/portfolios/lives/2020-08-06_NAP-LS.png
   youtube: https://youtu.be/fvxV0-kJ300
 
 - flyer: 6
+  portfolio:
   url_image: https://cdn.uffs.cc/practice/website/portfolios/lives/2020-08-05_NAP-LS.png
   youtube: https://youtu.be/o2yXowjtzPw
 
@@ -143,10 +253,12 @@
   youtube: https://youtu.be/ST1lirQw3Nc
 
 - flyer: 4
+  portfolio:
   url_image: https://cdn.uffs.cc/practice/website/portfolios/lives/2020-07-27_PRACTICE.png
   youtube: https://www.youtube.com/watch?v=JQMc37pS3cM&t=20s
 
 - flyer: 3
+  portfolio:
   url_image: https://cdn.uffs.cc/practice/website/portfolios/lives/2020-06-30_Ancheita-SC.png
   youtube: https://youtu.be/EnuxBQZoJbc
 
@@ -156,5 +268,6 @@
   youtube: https://youtu.be/f3NY06KpAWo
 
 - flyer: 1
+  portfolio:
   url_image: https://cdn.uffs.cc/practice/website/portfolios/lives/2020-06-23_Direcao-LS.png
   youtube: https://youtu.be/JpcaYe_R52Q
