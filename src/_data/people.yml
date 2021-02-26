@@ -246,7 +246,7 @@
   bond: Bolsista
   actingTime: Novembro de 2020 até hoje
 
-- person: true
+- person: false
   name: Rafael da Costa Guilman
   email: rafaguilman@gmail.com
   position: con-midia-live
@@ -266,7 +266,7 @@
   bond: Bolsista
   actingTime: Outubro de 2020 até hoje
 
-- person: true
+- person: false
   name: Ricardo Patrik Manfro
   email: ricardopynthayaty@gmail.com
   position: con-design
