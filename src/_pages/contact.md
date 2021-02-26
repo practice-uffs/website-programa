@@ -59,8 +59,13 @@ permalink: /contato/
           </a>
         </div>
         <div class="lead mb-2">
-          <a href="https://www.youtube.com/channel/UCu3jAl8MTMPkaxb3u0_xESw?view_as=subscriber" class="mx-2" target="_blank">
+          <a href="https://www.youtube.com/channel/UCJZQqcpp1Zzd3eFZhpdzq9Q" class="mx-2" target="_blank">
             <i class="fa fa-youtube" style="color: #191919;"> <span style="font-family: 'Roboto', sans-serif;">PRACTICE UFFS</span></i>
+          </a>
+        </div>
+        <div class="lead mb-2">
+          <a href="https://www.youtube.com/channel/UCu3jAl8MTMPkaxb3u0_xESw?view_as=subscriber" class="mx-2" target="_blank">
+            <i class="fa fa-youtube" style="color: #191919;"> <span style="font-family: 'Roboto', sans-serif;">PRACTICE UFFS LIVES</span></i>
           </a>
         </div>
       </div>
