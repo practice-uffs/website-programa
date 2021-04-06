@@ -1,5 +1,14 @@
-<header class="">
-  <nav class="navbar navbar-expand-md navbar-light bg-transparent fixed-top scrolling-navbar">
+<header class="fixed-top">
+
+  <div class="alert p-0 mb-0" style="background-color: rgba(250, 131, 52, 1.0); color: white; border-radius: 0;">
+    <span>
+      Gostaria de solicitar algum serviço do PRACTICE?
+      Conheça o nosso
+      <a href="https://mural.practice.uffs.cc/" class="font-weight-bold" target="_blank" style="color: #264653;">mural de solicitações</a>.
+    </span>
+  </div>
+
+  <nav class="navbar navbar-expand-md navbar-light bg-transparent scrolling-navbar pt-0">
     <div class="container">
       <a class="navbar-brand" href="{{ site.url }}/">
         <img style="width: 180px;" src="{{ site.url }}/images/logo.png" alt="logo">
@@ -9,19 +18,10 @@
         <span class="navbar-toggler-icon"></span>
       </button>
 
-      <div class="alert m-1 ml-3 p-1" style="width: 380px; height: 55px; background-color: rgba(250, 131, 52, 1.0); color: white;">
-        <span class="ml-2">
-          Gostaria de solicitar algum serviço do PRACTICE? 
-        </span>
-        <span class="ml-2">
-          Conheça o nosso 
-          <a href="#" class="font-weight-bold" style="color: #264653;">mural de solicitações</a>.
-        </span>
-      </div>
-
       <div class="collapse navbar-collapse" id="navbarNav11">
         {% include navigation.html %}
       </div>
     </div>
   </nav>
+
 </header>
