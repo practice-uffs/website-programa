@@ -10,6 +10,54 @@ permalink: /servico/estudio/
   <div class="container">
     <div class="row align-items-center pt-2">
       <div class="col-12 col-md-8 col-lg-7">
+        <h2>Atenção serviço temporariamente indisponível</h2>
+        <p class="lead">Devido a situação da pandemia nossos serviços de gravação em estúdio estão indisponíveis.
+        Veja no quadro ao lado o Nível de Segurança Operacional (NSO) dos campus da UFFS.</p>
+      </div>
+      <div class="col-8 col-md-4 m-auto m-md-0 ml-md-auto pt-5">
+        <table class="table">
+          <thead>
+            <tr>
+              <th scope="col">Campus</th>
+              <th scope="col">NSO</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Cerro Largo</td>
+              <td>4</td>
+            </tr>
+            <tr>
+              <td>Chapecó</td>
+              <td>5</td>
+            </tr>
+            <tr>
+              <td>Erechim</td>
+              <td>5</td>
+            </tr>
+            <tr>
+              <td>Laranjeiras do Sul</td>
+              <td>5</td>
+            </tr>
+            <tr>
+              <td>Passo Fundo</td>
+              <td>5</td>
+            </tr>
+            <tr>
+              <td>Realeza</td>
+              <td>5</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="fdb-block">
+  <div class="container">
+    <div class="row align-items-center pt-2">
+      <div class="col-12 col-md-8 col-lg-7">
         <h2>{{ page.title }}</h2>
         <p class="lead">Você precisa produzir vídeos com uma estrutura peculiar ou com recursos muito específicos? O serviço de estúdo do programa pode te ajudar.</p>
       </div>
