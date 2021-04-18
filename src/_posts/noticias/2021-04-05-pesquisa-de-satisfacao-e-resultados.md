@@ -4,7 +4,7 @@ description: "...100% dos solicitantes que responderam a pesquisa recomendariam 
 source:
 layout: article
 categories: noticias
-last_modified_at: 2021-04-06T17:00:00-00:00
+last_modified_at: 2021-04-18T17:00:00-00:00
 highlight: false
 share: true
 image:
@@ -12,7 +12,17 @@ image:
   feature: /images/posts/2020-05-03-uffs-cria-assessoria-de-inovacao-tecnologica-na-educacao-assitec.png
 ---
 
-A também se manifestaram surpreendidos com o prazo de execução, avaliando-o como “muito rápido”, superando, assim, as suas expectativas. No entanto, verificou-se que a grande maioria desconhece os prazos de produção antes de formalizar a sua solicitação ao PRACTICE. Estas e outras informações podem ser encontradas em [https://practice.uffs.cc/](https://practice.uffs.cc/).
+O programa possui 9 meses de existência, e a UFFS já colhe bons frutos com os serviços prestados; entre eles, destacam-se as transmissões ao vivo, edições audiovisuais e a elaboração de identidades visuais.
+
+O PRACTICE, Programa de Ampliação e Consolidação de Tecnologias e Inovação no Contexto Educacional, foi fundado em junho de 2020 a partir da rápida necessidade de adaptação do mundo acadêmico para o meio digital. O principal motivo desencadeador foi a pandemia mundial do Covid-19, que ocasionou, de forma provisória, o método de ensino remoto em várias universidades brasileiras, incluindo a UFFS.
+
+O programa tem como objetivo central auxiliar professores e alunos nessa adaptação, estruturando ambientes e capacitando agentes educacionais para a produção e intermediação de conteúdos por meio da tecnologia, promovendo a inovação no processo de ensino-aprendizagem na universidade. O público externo também pode se beneficiar com os materiais produzidos pelo programa, acessando-os no site ou nos canais de conteúdo e de lives do PRACTICE no YouTube.
+
+Uma pesquisa de satisfação foi realizada pelo programa no dia 19 de fevereiro de 2021, na qual foi enviado por e-mail um formulário com 39 perguntas para todos os solicitantes que já tiveram as suas demandas atendidas ou que ainda estavam em atendimento pelo programa.
+
+Em menos de 1 ano de existência, o PRACTICE afirmou já haver uma considerável procura pelos seus serviços por diversos setores da UFFS, em sua maioria composta por servidores Técnico-Administrativos em Educação e docentes. A pesquisa de satisfação realizada pelo programa mostrou que após a finalização dos serviços demandados, a maioria dos solicitantes acaba retornando com novas necessidades.
+
+Com relação aos prazos estabelecidos para a realização das demandas, foi informado que metade dos solicitantes consideraram o tempo adequado. Muitos também se manifestaram surpreendidos com o prazo de execução, avaliando-o como “muito rápido”, superando, assim, as suas expectativas. No entanto, verificou-se que a grande maioria desconhece os prazos de produção antes de formalizar a sua solicitação ao PRACTICE. Estas e outras informações podem ser encontradas em [https://practice.uffs.cc/](https://practice.uffs.cc/).
 
 A pesquisa também apontou que os serviços mais solicitados até o momento foram: a edição de vídeos (56 de demandas externas e 24 de demandas internas), 23 apoios técnicos em transmissões de evento ao vivo (live), 7 banners, 7 templates, 5 identidades visuais e 4 artes de divulgação de eventos. Apesar dos desafios encontrados para a coordenação e organização da equipe de forma remota, os resultados foram positivos, conforme o indicado na pesquisa.
 
@@ -25,3 +35,4 @@ Na pesquisa também foram coletados depoimentos com elogios, críticas e sugest�
 Por fim, foi indicado na pesquisa que a grande maioria dos solicitantes considera o programa extremamente importante, e 100% dos solicitantes que responderam a pesquisa recomendariam o PRACTICE para toda a comunidade acadêmica da universidade. A equipe reforça que todo feedback possui grande importância para o programa, e que todos os integrantes estão comprometidos com a satisfação dos solicitantes, sempre buscando um serviço de qualidade disponível à toda a comunidade acadêmica da UFFS.
 
 ---
+<img src="/images/posts/creditos-pesquisa-practice.png" alt="Equipe responsável" width=400>
