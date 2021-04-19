@@ -57,13 +57,23 @@
   actingTime: Do início do programa até hoje
 
 - person: true
+  name: Alisson Luan de Lima Peloso
+  email: alisson.luan2000@gmail.com
+  position: dev
+  formation: Acadêmico de Ciência da Computação
+  avatar: /images/equipe/alisson-luan-de-lima-peloso.jpg
+  github: https://github.com/alissonpeloso
+  bond: Bolsista
+  actingTime: Abril de 2021 até hoje
+
+- person: true
   name: Ana Carolina Morigi da Cruz Silveira
   email: anacarolinamorigi@gmail.com
   position: ger-aux
   formation: Acadêmica de Medicina
   avatar: /images/equipe/ana-carolina-morigi.jpeg
   github: https://github.com/anacarolinamorigi
-  bond: Bolsista
+  bond: Voluntário
   actingTime: Outubro de 2020 até hoje
 
 - person: true
@@ -135,6 +145,16 @@
   github: https://github.com/GessicaZanon
   bond: Bolsista
   actingTime: Outubro de 2020 até hoje
+
+- person: true
+  name: Guilherme Rafael Graeff
+  email: guilherme.rafael.graeff@gmail.com
+  position: dev
+  formation: Acadêmico de Ciência da Computação
+  avatar: /images/equipe/guilherme-rafael-graeff.jpg
+  github: https://github.com/GuilhermeGraeff
+  bond: Bolsista
+  actingTime: Abril de 2021 até hoje
 
 - person: true
   name: Isabeli Reik
@@ -285,6 +305,16 @@
   github: https://github.com/robisonjose
   bond: Bolsista
   actingTime: Outubro de 2020 até hoje
+
+- person: true
+  name: Stefani Caroline Frare Meneghetti
+  email: meneghettistefani@gmail.com
+  position: dev
+  formation: Acadêmica de Ciência da Computação
+  avatar: /images/equipe/stefani-caroline-frare-meneghetti.jpg
+  github: https://github.com/stefanimeneghetti
+  bond: Bolsista
+  actingTime: Abril de 2021 até hoje
 
 - person: true
   name: Taynara Chayane Christmann
