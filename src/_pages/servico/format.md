@@ -33,7 +33,7 @@ permalink: /servico/formatos/
 | Capa para live/evento            | PDF                                              |
 | Banner de cursos/setores da UFFS | PDF                                              |
 
-
+---
 <div class="alert alert-warning mt-5" role="alert">
   Reiteramos que os bolsistas do PRACTICE são veementemente proibidos de realizar serviços que necessitem de softwares pagos.
 </div>

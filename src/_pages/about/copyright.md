@@ -1,6 +1,6 @@
 ---
 layout: servicos
-title: "Coin"
+title: "Direitos Autorais"
 image:
   feature: banner-rotulo.png
 permalink: /direitos-autorais/
@@ -76,6 +76,8 @@ Informamos que, ao solicitar nossos serviços (revisão e diagramação de texto
   </div>
 </section>
 
+
+---
 
 Site: [https://practice.uffs.cc/](https://practice.uffs.cc/).
 
