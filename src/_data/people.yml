@@ -46,7 +46,7 @@
 
 # Demais membros
 
-- person: true
+- person: false
   name: Alessandra Pedrotti
   email: alessandrapedrotti24@gmail.com
   position: ger-aux
@@ -54,7 +54,7 @@
   avatar: /images/equipe/alessandra-pedrotti.jpg
   github: https://github.com/alessandrapedrotti
   bond: Bolsista
-  actingTime: Do início do programa até hoje
+  actingTime: Do início do programa até abril de 2021
 
 - person: true
   name: Alisson Luan de Lima Peloso
@@ -64,7 +64,7 @@
   avatar: /images/equipe/alisson-luan-de-lima-peloso.jpg
   github: https://github.com/alissonpeloso
   bond: Bolsista
-  actingTime: Abril de 2021 até hoje
+  actingTime: Março de 2021 até hoje
 
 - person: true
   name: Ana Carolina Morigi da Cruz Silveira
@@ -73,7 +73,7 @@
   formation: Acadêmica de Medicina
   avatar: /images/equipe/ana-carolina-morigi.jpeg
   github: https://github.com/anacarolinamorigi
-  bond: Voluntário
+  bond: Bolsista
   actingTime: Outubro de 2020 até hoje
 
 - person: true
@@ -154,13 +154,13 @@
   avatar: /images/equipe/guilherme-rafael-graeff.jpg
   github: https://github.com/GuilhermeGraeff
   bond: Bolsista
-  actingTime: Abril de 2021 até hoje
+  actingTime: Março de 2021 até hoje
 
 - person: true
   name: Isabeli Reik
   email: isabelireik2@gmail.com
   position: con-material
-  formation: Acadêmica de Ciência da Computação
+  formation: Acadêmica de Geografia
   avatar: /images/equipe/isabeli-reik.jpg
   github: https://github.com/isabelirk
   bond: Bolsista
@@ -227,6 +227,16 @@
   actingTime: Do início do programa até hoje
 
 - person: true
+  name: Maria Luiza Reviliau
+  email: marialuizareviliau6240@gmail.com
+  position: con-design
+  formation: Acadêmico de Ciências Biológicas
+  avatar: /images/equipe/maria-luiza-reviliau.jpg
+  github: https://github.com/MariaLuizaReviliau
+  bond: Bolsista
+  actingTime: Abril de 2021 até hoje
+
+- person: true
   name: Matheus Dias Negrão
   email: matheus.dnegrao@gmail.com
   position: con-midia-live
@@ -235,6 +245,16 @@
   github: https://github.com/MaNegrao
   bond: Bolsista
   actingTime: Do início do programa até hoje
+
+- person: true
+  name: Michele Nieradka
+  email: michele.nieradka@estudante.uffs.edu.br
+  position: con-design
+  formation: Acadêmico de Pedagogia
+  avatar: /images/equipe/michele-nieradka.jpg
+  github: https://github.com/minieradka
+  bond: Bolsista
+  actingTime: Abril de 2021 até hoje
 
 - person: true
   name: Milena Sávio Pastorini Paz
@@ -314,7 +334,7 @@
   avatar: /images/equipe/stefani-caroline-frare-meneghetti.jpg
   github: https://github.com/stefanimeneghetti
   bond: Bolsista
-  actingTime: Abril de 2021 até hoje
+  actingTime: Março de 2021 até hoje
 
 - person: true
   name: Taynara Chayane Christmann
@@ -330,7 +350,7 @@
   name: Thalía Lopes Friedrich
   email: thalia.friedrich27@gmail.com
   position: con-material
-  formation: Acadêmica de Engenharia Ambiental e Sanitária
+  formation: Mestranda em Ambiente e Tecnologias Sustentáveis
   avatar: /images/equipe/thalia-lopes-friedrich.jpg
   github: https://github.com/thaliafriedrich
   bond: Bolsista
@@ -346,7 +366,7 @@
   bond: Bolsista
   actingTime: Do início do programa até hoje
 
-- person: true
+- person: false
   name: Vinícius França Alves
   email: viniciusfrancap@hotmail.com
   position: ger-aux
@@ -354,4 +374,4 @@
   avatar: /images/equipe/vinicius-alves.jpeg
   github: https://github.com/VIF-Franca
   bond: Bolsista
-  actingTime: Do início do programa até hoje
+  actingTime: Do início do programa até abril de 2021
