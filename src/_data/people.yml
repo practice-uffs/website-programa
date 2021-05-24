@@ -137,6 +137,16 @@
   actingTime: Do início do programa até hoje
 
 - person: true
+  name: Eweline Elen Trojan
+  email: wewetrojan@gmail.com
+  position: con-material
+  formation: Acadêmica de Filosofia
+  avatar: /images/equipe/eweline-elen-trojan.jpg
+  github: https://github.com/Eweline
+  bond: Bolsista
+  actingTime: Março de 2020 até hoje
+
+- person: true
   name: Gessica Tagliapietra Zanon
   email: gessicataglipietra@gmail.com
   position: con-material
