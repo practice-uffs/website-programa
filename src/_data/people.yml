@@ -356,7 +356,7 @@
   bond: Bolsista
   actingTime: Outubro de 2020 até hoje
 
-- person: true
+- person: false
   name: Thalía Lopes Friedrich
   email: thalia.friedrich27@gmail.com
   position: con-material
@@ -364,7 +364,7 @@
   avatar: /images/equipe/thalia-lopes-friedrich.jpg
   github: https://github.com/thaliafriedrich
   bond: Bolsista
-  actingTime: Outubro de 2020 até hoje
+  actingTime: Outubro de 2020 até maio de 2021
 
 - person: true
   name: Vinícius dos Reis
