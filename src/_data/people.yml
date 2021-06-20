@@ -46,6 +46,16 @@
 
 # Demais membros
 
+- person: true
+  name: Adriano Diego Zortea
+  email: zorteaadriano@gmail.com
+  position: dev
+  formation: Acadêmico de Ciência da Computação
+  avatar: /images/equipe/adriano-zortea.png
+  github: https://github.com/zorteaadriano
+  bond: Bolsista
+  actingTime: Junho de 2021 até hoje
+
 - person: false
   name: Alessandra Pedrotti
   email: alessandrapedrotti24@gmail.com
@@ -105,6 +115,16 @@
   github: https://github.com/brendaellen
   bond: Bolsista
   actingTime: Outubro de 2020 até hoje
+
+- person: true
+  name: Caroline Balestrini
+  email: carolbalestrini34@gmail.com
+  position: con-midia-AVA
+  formation: Acadêmica de Enfermagem
+  avatar: /images/equipe/carol-balestrini.png
+  github: https://github.com/Carolbalestrini
+  bond: Bolsista
+  actingTime: Junho de 2021 até hoje
 
 - person: true
   name: Claudineia Vieira Raimundi
