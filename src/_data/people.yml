@@ -146,7 +146,7 @@
   bond: Bolsista
   actingTime: Do início do programa até hoje
 
-- person: true
+- person: false
   name: Estela Maris Vilas Boas
   email: estelavilasboas01@gmail.com
   position: con-design
@@ -154,7 +154,7 @@
   avatar: /images/equipe/estela-vilas-boas.jpg
   github: https://github.com/estelavilasboas
   bond: Bolsista
-  actingTime: Do início do programa até hoje
+  actingTime: Do início do programa até junho de 2021
 
 - person: true
   name: Eweline Elen Trojan
