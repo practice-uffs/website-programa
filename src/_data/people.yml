@@ -187,6 +187,16 @@
   actingTime: Março de 2021 até hoje
 
 - person: true
+  name: Guilherme Smorcionski Nerling
+  email: guilherme.devon@gmail.com
+  position: dev
+  formation: Acadêmico de Ciência da Computação
+  avatar: /images/equipe/guilherme-smorcinski-nerling.jpeg
+  github: https://github.com/SWE3T
+  bond: Bolsista
+  actingTime: Julho de 2021 até hoje
+
+- person: true
   name: Isabeli Reik
   email: isabelireik2@gmail.com
   position: con-material
@@ -235,6 +245,16 @@
   github: https://github.com/lucasgalize
   bond: Bolsista
   actingTime: Do início do programa até setembro de 2020
+
+- person: true
+  name: Lucas Frarão
+  email: lucasfraraor@gmail.com
+  position: con-midia-AVA
+  formation: Acadêmico de Ciências Biológicas
+  avatar: /images/equipe/lucas-frarao.jpg
+  github: https://github.com/lucasfrarao
+  bond: Bolsista
+  actingTime: Julho de 2021 até hoje
 
 - person: true
   name: Luiz Eduardo Dameda
