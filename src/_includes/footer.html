@@ -22,19 +22,6 @@
 					</p>
 				{% endfor %}
 					<br />
-				<h4><strong>Coordenação Técnica-pedagógica</strong></h4>
-
-				{% assign people_coor_tec = site.data.people | where:"position","coor-tec" | sort:"name" %}
-				{% assign people = people_coor_tec | where:"person","true" %}
-
-				{% for person in people %}
-					<p  style="color: #727373;">
-						<i class="fa fa-user"></i> <strong>{{ person.name }}</strong> <br />
-						<small>
-							<i class="fa fa-envelope"></i>{{ person.email }}<br />
-						</small>
-					</p>
-				{% endfor %}
 			</div>
 
 			<div class="col-md-1"></div>

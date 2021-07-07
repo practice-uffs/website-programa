@@ -25,7 +25,7 @@
 - person: true
   name: Luciano Lores Caimi
   email: lcaimi@uffs.edu.br
-  position: coor-tec
+  position: coor-geral
   uffs: Professor de Ciência da Computação
   formation: Doutor em Ciência da Computação
   avatar: /images/equipe/luciano-caimi.jpg
@@ -406,7 +406,7 @@
   bond: Bolsista
   actingTime: Outubro de 2020 até maio de 2021
 
-- person: true
+- person: false
   name: Vinícius dos Reis
   email: viniciusdosreis312@gmail.com
   position: con-midia-AVA
@@ -414,7 +414,7 @@
   avatar: /images/equipe/vinicius-reis.jpg
   github: https://github.com/vini2reis
   bond: Bolsista
-  actingTime: Do início do programa até hoje
+  actingTime: Do início do programa até junho de 2021
 
 - person: false
   name: Vinícius França Alves

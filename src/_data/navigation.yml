@@ -24,6 +24,9 @@
 - title: Serviços
   excerpt: "Serviços PRACTICE"
   dropdown:
+    - title: Solicitação de serviços
+      url: https://mural.practice.uffs.cc/
+    - title: ---
     - title: Prazos de solicitação
       url: /servico/prazos-de-solicitacao
     - title: ---

@@ -81,6 +81,8 @@ Informamos que, ao solicitar nossos serviços (revisão e diagramação de texto
 
 Site: [https://practice.uffs.cc/](https://practice.uffs.cc/).
 
-Youtube: [https://www.youtube.com/channel/UCu3jAl8MTMPkaxb3u0_xESw](https://www.youtube.com/channel/UCu3jAl8MTMPkaxb3u0_xESw).
-
 Instagram: [https://www.instagram.com/practiceuffs/](https://www.instagram.com/practiceuffs/).
+
+Youtube Lives: [https://www.youtube.com/channel/UCu3jAl8MTMPkaxb3u0_xESw](https://www.youtube.com/channel/UCu3jAl8MTMPkaxb3u0_xESw)
+
+Youtube Videos: [https://www.youtube.com/channel/UCJZQqcpp1Zzd3eFZhpdzq9Q](https://www.youtube.com/channel/UCJZQqcpp1Zzd3eFZhpdzq9Q)

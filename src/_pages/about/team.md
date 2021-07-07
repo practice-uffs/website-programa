@@ -27,17 +27,8 @@ permalink: /equipe/
     <section class="pt-1">
       <h2 class="pb-3">Coordenação</h2>
       <hr class="pb-4">
-      <h3>Coordenação Geral</h3>
       <div class="card-group">
         {% assign active = site.data.people | where:"position","coor-geral" %}
-        {% assign people = active | where:"person","true" | sort:"name" %}
-        {% for person in people %}
-          {% include person-grid.html %}
-        {% endfor %}
-      </div>
-      <h3>Coordenação Técnica-pedagógica</h3>
-      <div class="card-group">
-        {% assign active = site.data.people | where:"position","coor-tec" %}
         {% assign people = active | where:"person","true" | sort:"name" %}
         {% for person in people %}
           {% include person-grid.html %}

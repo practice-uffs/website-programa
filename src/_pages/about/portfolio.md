@@ -75,7 +75,7 @@ permalink: /portfolio/
     <div class="container">
       <div class="row align-items-center pt-5">
         <div class="col-12 col-md-5 col-lg-6">
-          <h2 class="text" style="color: #00384d;">Gravações em estúdio</h2>
+          <h2 class="text" style="color: #00384d;">Gravações em estúdio (temporariamente suspenso devido ao NSO dos campi)</h2>
           <p class="lead text-justify">O PRACTICE oferece também os serviços de produção e edição de vídeos. Nossa equipe está preparada para transformar uma proposta de vídeo em realidade, como vídeos de divulgação e até aulas. Os vídeos produzidos pelo programa são acessíveis e podem contar com todos mecanismos necessários para que todos os públicos possam assisti-los.</p>
         </div>
         <div class="col-8 col-md-5 m-auto m-md-5 ml-md-auto pt-5">
