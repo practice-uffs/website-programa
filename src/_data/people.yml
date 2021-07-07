@@ -406,7 +406,7 @@
   bond: Bolsista
   actingTime: Outubro de 2020 até maio de 2021
 
-- person: true
+- person: false
   name: Vinícius dos Reis
   email: viniciusdosreis312@gmail.com
   position: con-midia-AVA
@@ -414,7 +414,7 @@
   avatar: /images/equipe/vinicius-reis.jpg
   github: https://github.com/vini2reis
   bond: Bolsista
-  actingTime: Do início do programa até hoje
+  actingTime: Do início do programa até junho de 2021
 
 - person: false
   name: Vinícius França Alves
