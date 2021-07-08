@@ -26,7 +26,7 @@ permalink: /contato/
     <div class="row align-items-center">
       <div class="col-12">
         <h2>Canal oficial de comunicação</h2>
-        <p class="lead">A forma oficial de contatar o programa PRACTICE é através do e-mail practice@uffs.edu.br</p>
+        <p class="lead">A forma oficial de contatar o programa PRACTICE é através do <a href="https://mural.practice.uffs.cc/" target="_blank">Mural</a>.</p>
       </div>
     </div>
   </div>
