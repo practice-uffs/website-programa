@@ -108,14 +108,49 @@
   id: 1
   description: "Identidade Visual Simples: contém símbolo, logotipo e paleta de cores"
   evaluation_deadline: "5 dias úteis"
-  production_deadline: "15 dias úteis"
+  production_deadline: "22 dias úteis"
 
 - service:
   product: "IMAGEM"
   id: 2
   description: "Identidade Visual Complexa: contém símbolo, logotipo, paleta de cores, marca d’água e padronagem"
   evaluation_deadline: "5 dias úteis"
+  production_deadline: "22 dias úteis"
+
+- service:
+  product: "IMAGEM"
+  id: 3
+  description: "Banner: criação de banner no tamanho 120x90 cm, conteúdo deve ser enviado pelo solicitante"
+  evaluation_deadline: "5 dias úteis"
   production_deadline: "15 dias úteis"
+
+- service:
+  product: "IMAGEM"
+  id: 4
+  description: "Cartaz: trata-se de uma arte para divulgar algum evento, data comemorativa, repassar informações e afins, o conteúdo deve ser enviado pelo solicitante. Neste fluxo, o solicitante poderá pedir por ajustes uma única vez."
+  evaluation_deadline: "3 dias úteis"
+  production_deadline: "7 dias úteis"
+
+- service:
+  product: "IMAGEM"
+  id: 5
+  description: "Layout para posts em redes sociais: criação de layouts nos formatos que condizem com as respectivas redes sociais solicitadas, as informações devem ser adicionadas pelo próprio solicitante. Neste fluxo, o solicitante só poderá pedir por ajustes uma única vez."
+  evaluation_deadline: "3 dias úteis"
+  production_deadline: "7 dias úteis"
+
+- service:
+  product: "IMAGEM"
+  id: 6
+  description: "Post para redes sociais: criação e diagramação de informações para post de redes sociais. O solicitante deve enviar o texto e/ou imagens que devem estar presentes."
+  evaluation_deadline: "3 dias úteis"
+  production_deadline: "10 dias úteis"
+
+- service:
+  product: "IMAGEM"
+  id: 7
+  description: "Capas de Lives: A partir de um layout já criado, são adicionadas as informações sobre a live e se necessário, cores e fundo trocados do modelo pré existente. Neste fluxo, o solicitante só poderá pedir por ajustes uma única vez."
+  evaluation_deadline: "3 dias úteis"
+  production_deadline: "3 dias úteis"
 
 - service:
   product: "DESENVOLVIMENTO"
