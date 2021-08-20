@@ -79,7 +79,7 @@
 - person: true
   name: Ana Carolina Morigi da Cruz Silveira
   email: anacarolinamorigi@gmail.com
-  position: ger-aux
+  position: con-design
   formation: Acadêmica de Medicina
   avatar: /images/equipe/ana-carolina-morigi.jpeg
   github: https://github.com/anacarolinamorigi
@@ -116,7 +116,7 @@
   bond: Bolsista
   actingTime: Outubro de 2020 até hoje
 
-- person: true
+- person: false
   name: Caroline Balestrini
   email: carolbalestrini34@gmail.com
   position: con-midia-AVA
@@ -124,7 +124,7 @@
   avatar: /images/equipe/carol-balestrini.png
   github: https://github.com/Carolbalestrini
   bond: Bolsista
-  actingTime: Junho de 2021 até hoje
+  actingTime: Junho de 2021 até Agosto de 2021
 
 - person: true
   name: Claudineia Vieira Raimundi
