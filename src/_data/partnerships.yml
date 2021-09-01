@@ -26,18 +26,18 @@
 - project:
   type: partnerships
   active: true
-  title: Diretoria de Políticas de Graduação (DPGRAD)
+  title: Setor de Assuntos Estudantis (SAE)
   web: 
-  description: A Diretoria de Políticas de Graduação (DPGRAD) atua na criação e acompanhamento de projetos, programas e políticas voltadas para o pilar do Ensino dentro da UFFS. Visa a promoção da qualide de ensino da graduação, incentivo à permanência e formação contínua dos sujeitos da comunidade acadêmica.
-  image: 
+  description: O Setor de Assuntos Estudantis da UFFS, campus Chapecó, atua visando contribuir com a ampliação das condições de permanência e êxito dos estudantes, atentando às demandas educacionais de modo a identificar, encaminhar e acompanhar situações relacionadas às questões sociais, psicológicas e pedagógicas que interferem no processo de ensino e aprendizagem.
+  image: /images/partnerships/sae.png
 
 - project:
   type: partnerships
   active: true
-  title: Setor de Assuntos Estudantis (SAE)
+  title: Diretoria de Políticas de Graduação (DPGRAD)
   web: 
-  description: O Setor de Assuntos Estudantis da UFFS, campus Chapecó, atua visando contribuir com a ampliação das condições de permanência e êxito dos estudantes, atentando às demandas educacionais de modo a identificar, encaminhar e acompanhar situações relacionadas às questões sociais, psicológicas e pedagógicas que interferem no processo de ensino e aprendizagem.
-  image:
+  description: A Diretoria de Políticas de Graduação (DPGRAD) atua na criação e acompanhamento de projetos, programas e políticas voltadas para o pilar do Ensino dentro da UFFS. Visa a promoção da qualide de ensino da graduação, incentivo à permanência e formação contínua dos sujeitos da comunidade acadêmica.
+  image: /images/partnerships/uffs.png
 
 - project:
   type: partnerships
@@ -45,7 +45,7 @@
   title: Diretoria de Comunicação Social (DCS)
   web: 
   description: A Diretoria de Comunicação Social atua na divulgação da Universidade Federal da Fronteira Sul (UFFS) como um bem público que todos têm o direito de acessar, realizando desde a produção do material publicitário até na cobertura jornalística. 
-  image:
+  image: /images/partnerships/uffs.png
 
 - project:
   type: partnerships
@@ -53,4 +53,4 @@
   title: Núcleo de Apoio Pedagógico (NAP)
   web: 
   description: O Núcleo de Apoio Pedagógico da UFFS, campus Chapecó integra a Coordenação Acadêmica do Campus e vincula-se à Diretoria de Organização Pedagógica da Pró-Reitoria de Graduação da UFFS. Tem por finalidade ser um espaço institucional de apoio didático, pedagógico e de articulação para a formação docente no Campus.
-  image:
+  image: /images/partnerships/uffs.png
