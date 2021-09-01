@@ -9,7 +9,7 @@ highlight: true
 share: true
 image:
   teaser: posts/2020-08-20-edital-bolsistas-practice.png
-  feature: /images/posts/2020-08-20-edital-bolsistas-practice.png
+  feature: /images/posts/2021-09-01-edital-bolsista-practice.png
 ---
 
 Você, estudante da UFFS, quer ter a oportunidade de desenvolver suas habilidades em um programa inovador na nossa universidade? O PRACTICE (Programa de Ampliação e Consolidação de Tecnologias e Inovação no Contexto Educacional) está procurando estudantes com iniciativa e que desejam atuar em uma das seguintes áreas: 
