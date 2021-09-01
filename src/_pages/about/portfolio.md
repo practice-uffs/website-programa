@@ -86,6 +86,20 @@ permalink: /portfolio/
         </div>
       </div>
     </div>
+    <div class="container">
+      <div class="row align-items-center pt-2">
+        <div class="col-8 col-md-6 m-auto m-md-0 ml-md-auto pt-5">
+          <a href="https://fb.watch/7qtgl3bcTv/" target="_blank"> 
+            <img style="width: 480px; height: 250px; border-radius: 5px;" class="card-img-top" src="/images/portfolio/colação_de_grau.png">
+            <p style="font-size: 15px;">Clique e assista a essa transmissão.</p>
+          </a>
+        </div>
+        <div class="col-12 col-md-4 col-lg-6">
+          <h2 class="text" style="color: #00384d;">Colação de Grau Remota</h2>
+          <p class="lead text-justify">O PRACTICE atuou no apoio técnico e produção de um dos eventos mais esperados por quem ingressa na graduação - a colação de grau! No contexto pandêmico, onde se fez (e ainda faz) necessário o distânciamento social, um evento como esse precisa ser reinvetado e adaptado, e o PRACTICE está à diposição para colaborar nesse novo cenário.</p>
+        </div>
+      </div>
+    </div>
 </section>
 
 <section class="fdb-block pt-5">
