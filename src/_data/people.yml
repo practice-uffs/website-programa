@@ -1,5 +1,6 @@
 # Coordenação
 - person: false
+  actingTime: Junho de 2020 até setembro de 2020
   name: Elisângela Ribas
   email: elisangela.santos@uffs.edu.br
   position: coor-tec
@@ -8,9 +9,9 @@
   avatar: /images/equipe/elisangela-ribas.jpg
   github: https://github.com/elisribas
   bond: Coordenador
-  actingTime: Do início do programa até setembro de 2020
 
 - person: true
+  actingTime: Junho de 2020 até hoje
   name: Fernando Bevilacqua
   email: fernando.bevilacqua@uffs.edu.br
   position: coor-geral
@@ -19,10 +20,9 @@
   avatar: /images/equipe/fernando-bevilacqua.png
   github: https://github.com/Dovyski
   bond: Coordenador
-  actingTime: Do início do programa até hoje
-
 
 - person: true
+  actingTime: Junho de 2020 até hoje
   name: Luciano Lores Caimi
   email: lcaimi@uffs.edu.br
   position: coor-geral
@@ -31,9 +31,9 @@
   avatar: /images/equipe/luciano-caimi.jpg
   github: https://github.com/lcaimi
   bond: Coordenador
-  actingTime: Do início do programa até hoje
 
 - person: true
+  actingTime: Junho de 2020 até hoje
   name: Maurício Fernando Bozatski
   email: mauricio@uffs.edu.br
   position: coor-geral
@@ -42,11 +42,11 @@
   avatar: /images/equipe/mauricio-bozatski.jpg
   github: https://github.com/phdmauricio
   bond: Coordenador
-  actingTime: Do início do programa até hoje
 
 # Demais membros
 
 - person: true
+  actingTime: Junho de 2021 até hoje
   name: Adriano Diego Zortea
   email: zorteaadriano@gmail.com
   position: dev
@@ -54,9 +54,9 @@
   avatar: /images/equipe/adriano-zortea.png
   github: https://github.com/zorteaadriano
   bond: Bolsista
-  actingTime: Junho de 2021 até hoje
 
 - person: false
+  actingTime: Junho de 2020 até abril de 2021
   name: Alessandra Pedrotti
   email: alessandrapedrotti24@gmail.com
   position: ger-aux
@@ -64,9 +64,9 @@
   avatar: /images/equipe/alessandra-pedrotti.jpg
   github: https://github.com/alessandrapedrotti
   bond: Bolsista
-  actingTime: Do início do programa até abril de 2021
 
 - person: true
+  actingTime: Março de 2021 até hoje
   name: Alisson Luan de Lima Peloso
   email: alisson.luan2000@gmail.com
   position: dev
@@ -74,9 +74,9 @@
   avatar: /images/equipe/alisson-luan-de-lima-peloso.jpg
   github: https://github.com/alissonpeloso
   bond: Bolsista
-  actingTime: Março de 2021 até hoje
 
-- person: false
+- person: true
+  actingTime: Outubro de 2020 até hoje
   name: Ana Carolina Morigi da Cruz Silveira
   email: anacarolinamorigi@gmail.com
   position: con-design
@@ -84,9 +84,9 @@
   avatar: /images/equipe/ana-carolina-morigi.jpeg
   github: https://github.com/anacarolinamorigi
   bond: Bolsista
-  actingTime: Outubro de 2020 até Setembro de 2021
 
 - person: true
+  actingTime: Outubro de 2020 até hoje
   name: Amanda Segatto Bisognin
   email: amandasgttb@gmail.com
   position: con-midia-AVA
@@ -94,9 +94,9 @@
   avatar: /images/equipe/amanda-segatto-bisognin.jpeg
   github: https://github.com/amandasegattob
   bond: Bolsista
-  actingTime: Outubro de 2020 até hoje
 
 - person: true
+  actingTime: Junho de 2020 até maio de 2021
   name: Andrew Malta Silva
   email: andrewsaxx@gmail.com
   position: dev
@@ -104,9 +104,9 @@
   avatar: /images/equipe/andrew-silva.jpg
   github: https://github.com/andrewmsilva
   bond: Bolsista
-  actingTime: Do início do programa até maio de 2021
 
 - person: true
+  actingTime: Outubro de 2020 até hoje
   name: Brenda Ellen de Sousa Reis
   email: brenda.reis@estudante.uffs.edu.br
   position: con-material
@@ -114,9 +114,9 @@
   avatar: /images/equipe/brenda-ellen-de-sousa-reis.jpg
   github: https://github.com/brendaellen
   bond: Bolsista
-  actingTime: Outubro de 2020 até hoje
 
 - person: false
+  actingTime: Junho de 2021 até Agosto de 2021
   name: Caroline Balestrini
   email: carolbalestrini34@gmail.com
   position: con-midia-AVA
@@ -124,9 +124,9 @@
   avatar: /images/equipe/carol-balestrini.png
   github: https://github.com/Carolbalestrini
   bond: Bolsista
-  actingTime: Junho de 2021 até Agosto de 2021
 
 - person: true
+  actingTime: Outubro de 2020 até hoje
   name: Claudineia Vieira Raimundi
   email: claudineia.v.raimundi@gmail.com
   position: ger-aux
@@ -134,9 +134,9 @@
   avatar: /images/equipe/claudineia-vieira-raimundi.jpeg
   github: https://github.com/Claudineia-VR
   bond: Bolsista
-  actingTime: Outubro de 2020 até hoje
 
 - person: true
+  actingTime: Junho de 2020 até hoje
   name: Cleisson Vieira Raimundi
   email: cleisson.raimundi@estudante.uffs.edu.br
   position: dev
@@ -144,9 +144,9 @@
   avatar: /images/equipe/cleisson-raimundi.png
   github: https://github.com/CleissonVieira
   bond: Bolsista
-  actingTime: Do início do programa até hoje
 
 - person: false
+  actingTime: Junho de 2020 até junho de 2021
   name: Estela Maris Vilas Boas
   email: estelavilasboas01@gmail.com
   position: con-design
@@ -154,9 +154,9 @@
   avatar: /images/equipe/estela-vilas-boas.jpg
   github: https://github.com/estelavilasboas
   bond: Bolsista
-  actingTime: Do início do programa até junho de 2021
 
 - person: true
+  actingTime: Março de 2020 até hoje
   name: Eweline Elen Trojan
   email: wewetrojan@gmail.com
   position: con-material
@@ -164,9 +164,9 @@
   avatar: /images/equipe/eweline-elen-trojan.jpg
   github: https://github.com/Eweline
   bond: Bolsista
-  actingTime: Março de 2020 até hoje
 
 - person: true
+  actingTime: Outubro de 2020 até hoje
   name: Gessica Tagliapietra Zanon
   email: gessicataglipietra@gmail.com
   position: con-material
@@ -174,9 +174,9 @@
   avatar: /images/equipe/gessica-tagliapietra-zanon.jpg
   github: https://github.com/GessicaZanon
   bond: Bolsista
-  actingTime: Outubro de 2020 até hoje
 
 - person: true
+  actingTime: Março de 2021 até hoje
   name: Guilherme Rafael Graeff
   email: guilherme.rafael.graeff@gmail.com
   position: dev
@@ -184,9 +184,9 @@
   avatar: /images/equipe/guilherme-rafael-graeff.jpg
   github: https://github.com/GuilhermeGraeff
   bond: Bolsista
-  actingTime: Março de 2021 até hoje
 
 - person: true
+  actingTime: Julho de 2021 até hoje
   name: Guilherme Smorcionski Nerling
   email: guilherme.devon@gmail.com
   position: dev
@@ -194,9 +194,9 @@
   avatar: /images/equipe/guilherme-smorcinski-nerling.jpeg
   github: https://github.com/SWE3T
   bond: Bolsista
-  actingTime: Julho de 2021 até hoje
 
 - person: true
+  actingTime: Junho de 2020 até hoje
   name: Isabeli Reik
   email: isabelireik2@gmail.com
   position: con-material
@@ -204,9 +204,9 @@
   avatar: /images/equipe/isabeli-reik.jpg
   github: https://github.com/isabelirk
   bond: Bolsista
-  actingTime: Do início do programa até hoje
 
 - person: true
+  actingTime: Junho de 2020 até hoje
   name: Jean Carlo Hilger
   email: hilgerjeancarlo@gmail.com
   position: dev
@@ -214,9 +214,9 @@
   avatar: /images/equipe/jean-carlos-hilger.jpeg
   github: https://github.com/JeanCHilger
   bond: Voluntário
-  actingTime: Do início do programa até hoje
 
 - person: true
+  actingTime: Junho de 2020 até hoje
   name: Junior Vitor Ramisch
   email: junior.ramisch@estudante.uffs.edu.br
   position: dev
@@ -224,9 +224,9 @@
   avatar: /images/equipe/junior-vitor-ramisch.jpg
   github: https://github.com/arufonsekun
   bond: Voluntário
-  actingTime: Do início do programa até hoje
 
 - person: true
+  actingTime: Outubro de 2020 até hoje
   name: Luiza Dall Bosco Tonial
   email: luu.tonial@gmail.com
   position: con-midia-live
@@ -234,9 +234,9 @@
   avatar: /images/equipe/luiza-dall-bosco-tonial.jpeg
   github: https://github.com/luizatonial
   bond: Bolsista
-  actingTime: Outubro de 2020 até hoje
-
+x
 - person: false
+  actingTime: Junho de 2020 até setembro de 2020
   name: Lucas Ferreira
   email: lucas.colegioagricola@gmail.com
   position: con-material
@@ -244,9 +244,9 @@
   avatar: /images/equipe/lucas-ferreira.jpg
   github: https://github.com/lucasgalize
   bond: Bolsista
-  actingTime: Do início do programa até setembro de 2020
 
 - person: true
+  actingTime: Julho de 2021 até hoje
   name: Lucas Frarão
   email: lucasfraraor@gmail.com
   position: con-design
@@ -254,9 +254,9 @@
   avatar: /images/equipe/lucas-frarao.jpg
   github: https://github.com/lucasfrarao
   bond: Bolsista
-  actingTime: Julho de 2021 até hoje
 
 - person: true
+  actingTime: Outubro de 2020 até hoje
   name: Luiz Eduardo Dameda
   email: luiz.edu.dameda@gmail.com
   position: con-midia-AVA
@@ -264,9 +264,9 @@
   avatar: /images/equipe/luiz-eduardo-dameda.jpeg
   github: https://github.com/luizdameda
   bond: Bolsista
-  actingTime: Outubro de 2020 até hoje
 
 - person: true
+  actingTime: Junho de 2020 até hoje
   name: Maria Gelain
   email: mariaegelain9@gmail.com
   position: con-material
@@ -274,9 +274,9 @@
   avatar: /images/equipe/maria-gelain.jpg
   github: https://github.com/mariagelain
   bond: Bolsista
-  actingTime: Do início do programa até hoje
 
 - person: true
+  actingTime: Abril de 2021 até hoje
   name: Maria Luiza Reviliau
   email: marialuizareviliau6240@gmail.com
   position: con-design
@@ -284,9 +284,9 @@
   avatar: /images/equipe/maria-luiza-reviliau.jpg
   github: https://github.com/MariaLuizaReviliau
   bond: Bolsista
-  actingTime: Abril de 2021 até hoje
 
 - person: true
+  actingTime: Junho de 2020 até hoje
   name: Matheus Dias Negrão
   email: matheus.dnegrao@gmail.com
   position: con-midia-live
@@ -294,9 +294,9 @@
   avatar: /images/equipe/matheus-negrao.jpg
   github: https://github.com/MaNegrao
   bond: Bolsista
-  actingTime: Do início do programa até hoje
 
 - person: true
+  actingTime: Abril de 2021 até hoje
   name: Michele Nieradka
   email: michele.nieradka@estudante.uffs.edu.br
   position: con-design
@@ -304,9 +304,9 @@
   avatar: /images/equipe/michele-nieradka.jpg
   github: https://github.com/minieradka
   bond: Bolsista
-  actingTime: Abril de 2021 até hoje
 
 - person: true
+  actingTime: Outubro de 2020 até hoje
   name: Milena Sávio Pastorini Paz
   email: milena.pastorini2016@gmail.com
   position: con-midia-live
@@ -314,9 +314,9 @@
   avatar: /images/equipe/milena-savio-pastorini-paz.png
   github: https://github.com/MilenaPaz2020
   bond: Bolsista
-  actingTime: Outubro de 2020 até hoje
 
 - person: true
+  actingTime: Outubro de 2020 até hoje
   name: Morgana Maciél Oliveira
   email: mormaciel.mo@gmail.com
   position: ger-aux
@@ -324,9 +324,9 @@
   avatar: /images/equipe/morgana-maciel-oliveira.jpg
   github: https://github.com/morgana-mo
   bond: Bolsista
-  actingTime: Outubro de 2020 até hoje
 
 - person: true
+  actingTime: Novembro de 2020 até hoje
   name: Pedro Augusto Maximowski
   email: pedromaximowski123@gmail.com
   position: con-midia-live
@@ -334,9 +334,9 @@
   avatar: /images/equipe/pedro-augusto-maximowski.png
   github: https://github.com/pedroamaximowski
   bond: Bolsista
-  actingTime: Novembro de 2020 até hoje
 
 - person: false
+  actingTime: Outubro de 2020 até janeiro de 2021
   name: Rafael da Costa Guilman
   email: rafaguilman@gmail.com
   position: con-midia-live
@@ -344,9 +344,9 @@
   avatar: /images/equipe/rafael-da-costa-guilman.jpg
   github: https://github.com/rafaguilman
   bond: Bolsista
-  actingTime: Outubro de 2020 até fevereiro de 2021
 
 - person: true
+  actingTime: Outubro de 2020 até maio de 2021
   name: Raphael Borges Dos Santos Filho
   email: oborgesrapha@gmail.com
   position: dev
@@ -354,9 +354,9 @@
   avatar: /images/equipe/raphael-borges.jpg
   github: https://github.com/oraphaborges
   bond: Bolsista
-  actingTime: Outubro de 2020 até maio de 2021
 
 - person: false
+  actingTime: Outubro de 2020 até fevereiro de 2021
   name: Ricardo Patrik Manfro
   email: ricardopynthayaty@gmail.com
   position: con-design
@@ -364,9 +364,9 @@
   avatar: /images/equipe/ricardo-patrik-manfro.jpeg
   github: https://github.com/ricardopatrik
   bond: Bolsista
-  actingTime: Outubro de 2020 até fevereiro de 2021
 
 - person: true
+  actingTime: Outubro de 2020 até hoje
   name: Robison José Santos da Silva
   email: robisonjose99@gmail.com
   position: con-midia-AVA
@@ -374,9 +374,9 @@
   avatar: /images/equipe/robison-jose-santos-silva.jpg
   github: https://github.com/robisonjose
   bond: Bolsista
-  actingTime: Outubro de 2020 até hoje
 
 - person: true
+  actingTime: Março de 2021 até hoje
   name: Stefani Caroline Frare Meneghetti
   email: meneghettistefani@gmail.com
   position: dev
@@ -384,9 +384,9 @@
   avatar: /images/equipe/stefani-caroline-frare-meneghetti.jpg
   github: https://github.com/stefanimeneghetti
   bond: Bolsista
-  actingTime: Março de 2021 até hoje
 
 - person: true
+  actingTime: Outubro de 2020 até hoje
   name: Taynara Chayane Christmann
   email: taynarachayanec@gmail.com
   position: con-design
@@ -394,9 +394,9 @@
   avatar: /images/equipe/taynara-chayane-christman.jpeg
   github: https://github.com/TaynaraCh
   bond: Bolsista
-  actingTime: Outubro de 2020 até hoje
 
 - person: false
+  actingTime: Outubro de 2020 até maio de 2021
   name: Thalía Lopes Friedrich
   email: thalia.friedrich27@gmail.com
   position: con-material
@@ -404,9 +404,9 @@
   avatar: /images/equipe/thalia-lopes-friedrich.jpg
   github: https://github.com/thaliafriedrich
   bond: Bolsista
-  actingTime: Outubro de 2020 até maio de 2021
 
 - person: false
+  actingTime: Junho de 2020 até junho de 2021
   name: Vinícius dos Reis
   email: viniciusdosreis312@gmail.com
   position: con-midia-AVA
@@ -414,9 +414,9 @@
   avatar: /images/equipe/vinicius-reis.jpg
   github: https://github.com/vini2reis
   bond: Bolsista
-  actingTime: Do início do programa até junho de 2021
 
 - person: false
+  actingTime: Junho de 2020 até abril de 2021
   name: Vinícius França Alves
   email: viniciusfrancap@hotmail.com
   position: ger-aux
@@ -424,4 +424,3 @@
   avatar: /images/equipe/vinicius-alves.jpeg
   github: https://github.com/VIF-Franca
   bond: Bolsista
-  actingTime: Do início do programa até abril de 2021
