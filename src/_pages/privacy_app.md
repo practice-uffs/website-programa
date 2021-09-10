@@ -2,7 +2,7 @@
 layout: hero
 title: "Termo de Política e Privacidade"
 date: 2021-09-09T11:00:00-00:00
-permalink: /termo-politica-privacidade/
+permalink: /privacidade/app/
 ---
 <section class="fdb-block"></section>
 
