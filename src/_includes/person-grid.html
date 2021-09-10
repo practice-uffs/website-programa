@@ -6,8 +6,10 @@
         <div class="col-7">
             <h4><strong>{{ person.name }}</strong></h4>
             <small>{{ person.formation }}.</small><br>
+            <small>{{ person.bond }}</small>
             {% if person.uffs %}<small>{{ person.uffs }}.</small><br>{% endif %}
             <a href="{{ person.github }}" class="text-dark" target="_blank"><i class="fa fa-github"></i></a>
+            
         </div>
     </div>
 

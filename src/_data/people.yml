@@ -75,7 +75,7 @@
   github: https://github.com/alissonpeloso
   bond: Bolsista
 
-- person: true
+- person: false
   actingTime: Outubro de 2020 até agosto de 2021
   name: Ana Carolina Morigi da Cruz Silveira
   email: anacarolinamorigi@gmail.com
@@ -95,7 +95,7 @@
   github: https://github.com/amandasegattob
   bond: Bolsista
 
-- person: true
+- person: false
   actingTime: Junho de 2020 até maio de 2021
   name: Andrew Malta Silva
   email: andrewsaxx@gmail.com
@@ -215,6 +215,16 @@
   github: https://github.com/JeanCHilger
   bond: Voluntário
 
+- person: false
+  actingTime: Outubro de 2020 até outubro de 2020
+  name: Julia Gaio
+  email: 
+  position: con-midia-AVA
+  formation: 
+  avatar: 
+  github: 
+  bond: Bolsista
+
 - person: true
   actingTime: Junho de 2020 até hoje
   name: Junior Vitor Ramisch
@@ -293,7 +303,7 @@
   formation: Acadêmico de Ciência da Computação
   avatar: /images/equipe/matheus-negrao.jpg
   github: https://github.com/MaNegrao
-  bond: Bolsista
+  bond: Voluntário
 
 - person: true
   actingTime: Abril de 2021 até hoje
@@ -345,7 +355,7 @@
   github: https://github.com/rafaguilman
   bond: Bolsista
 
-- person: true
+- person: false
   actingTime: Outubro de 2020 até maio de 2021
   name: Raphael Borges Dos Santos Filho
   email: oborgesrapha@gmail.com
@@ -356,7 +366,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Outubro de 2020 até fevereiro de 2021
+  actingTime: Outubro de 2020 até janeiro de 2021
   name: Ricardo Patrik Manfro
   email: ricardopynthayaty@gmail.com
   position: con-design
