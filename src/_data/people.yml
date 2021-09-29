@@ -205,8 +205,8 @@
   github: https://github.com/isabelirk
   bond: Bolsista
 
-- person: true
-  actingTime: Junho de 2020 até hoje
+- person: false
+  actingTime: Junho de 2020 até setembro de 2021
   name: Jean Carlo Hilger
   email: hilgerjeancarlo@gmail.com
   position: dev
@@ -225,8 +225,8 @@
   github: 
   bond: Bolsista
 
-- person: true
-  actingTime: Junho de 2020 até hoje
+- person: false
+  actingTime: Junho de 2020 até setembro de 2021
   name: Junior Vitor Ramisch
   email: junior.ramisch@estudante.uffs.edu.br
   position: dev
@@ -269,7 +269,7 @@
   actingTime: Outubro de 2020 até hoje
   name: Luiz Eduardo Dameda
   email: luiz.edu.dameda@gmail.com
-  position: con-midia-AVA
+  position: con-design
   formation: Acadêmico de Medicina
   avatar: /images/equipe/luiz-eduardo-dameda.jpeg
   github: https://github.com/luizdameda
@@ -335,8 +335,8 @@
   github: https://github.com/morgana-mo
   bond: Bolsista
 
-- person: true
-  actingTime: Novembro de 2020 até hoje
+- person: false
+  actingTime: Novembro de 2020 até setembro de 2021
   name: Pedro Augusto Maximowski
   email: pedromaximowski123@gmail.com
   position: con-midia-live
