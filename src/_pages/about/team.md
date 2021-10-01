@@ -40,7 +40,7 @@ permalink: /equipe/
       <hr class="pb-4">
       <h3>Texto e imagem</h3>
       <div class="card-group">
-        {% assign active = site.data.people | where:"position","con-material" %}
+        {% assign active = site.data.people | where:"position","con-conteudo" %}
         {% assign people = active | where:"person","true" | sort:"name" %}
         {% for person in people %}
           {% include person-grid.html %}

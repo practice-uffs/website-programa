@@ -39,7 +39,7 @@ permalink: /servico/fluxo/
 * Gerência de produção (@ger)
 * Auxílio operacional (@ger-auxilio)
 * Produção de conteúdo (@con), dividido em 3 grupos:
-  * Texto e imagem (@con-material)
+  * Texto e imagem (@con-conteudo)
   * Vídeo e áudio (@con-midia)
   * Web e digital (@con-digital)
 * Produção de software (@dev), dividido em 3 grupos:

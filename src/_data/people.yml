@@ -109,7 +109,7 @@
   actingTime: Outubro de 2020 até hoje
   name: Brenda Ellen de Sousa Reis
   email: brenda.reis@estudante.uffs.edu.br
-  position: con-material
+  position: con-conteudo
   formation: Acadêmica de Engenharia Ambiental e Sanitária
   avatar: /images/equipe/brenda-ellen-de-sousa-reis.jpg
   github: https://github.com/brendaellen
@@ -159,7 +159,7 @@
   actingTime: Março de 2020 até hoje
   name: Eweline Elen Trojan
   email: wewetrojan@gmail.com
-  position: con-material
+  position: con-conteudo
   formation: Acadêmica de Filosofia
   avatar: /images/equipe/eweline-elen-trojan.jpg
   github: https://github.com/Eweline
@@ -169,7 +169,7 @@
   actingTime: Outubro de 2020 até hoje
   name: Gessica Tagliapietra Zanon
   email: gessicataglipietra@gmail.com
-  position: con-material
+  position: con-conteudo
   formation: Acadêmica de Física
   avatar: /images/equipe/gessica-tagliapietra-zanon.jpg
   github: https://github.com/GessicaZanon
@@ -195,11 +195,11 @@
   github: https://github.com/SWE3T
   bond: Bolsista
 
-- person: true
-  actingTime: Junho de 2020 até hoje
+- person: false
+  actingTime: Junho de 2020 até setembro de 2021
   name: Isabeli Reik
   email: isabelireik2@gmail.com
-  position: con-material
+  position: con-conteudo
   formation: Acadêmica de Geografia
   avatar: /images/equipe/isabeli-reik.jpg
   github: https://github.com/isabelirk
@@ -249,14 +249,14 @@
   actingTime: Junho de 2020 até setembro de 2020
   name: Lucas Ferreira
   email: lucas.colegioagricola@gmail.com
-  position: con-material
+  position: con-conteudo
   formation: Acadêmico de Agronomia
   avatar: /images/equipe/lucas-ferreira.jpg
   github: https://github.com/lucasgalize
   bond: Bolsista
 
-- person: true
-  actingTime: Julho de 2021 até hoje
+- person: false
+  actingTime: Julho de 2021 até setembro de 2021
   name: Lucas Frarão
   email: lucasfraraor@gmail.com
   position: con-design
@@ -279,7 +279,7 @@
   actingTime: Junho de 2020 até hoje
   name: Maria Gelain
   email: mariaegelain9@gmail.com
-  position: con-material
+  position: con-conteudo
   formation: Acadêmica de Geografia
   avatar: /images/equipe/maria-gelain.jpg
   github: https://github.com/mariagelain
@@ -289,7 +289,7 @@
   actingTime: Abril de 2021 até hoje
   name: Maria Luiza Reviliau
   email: marialuizareviliau6240@gmail.com
-  position: con-design
+  position: con-midia-live
   formation: Acadêmica de Ciências Biológicas
   avatar: /images/equipe/maria-luiza-reviliau.jpg
   github: https://github.com/MariaLuizaReviliau
@@ -300,7 +300,7 @@
   name: Matheus Dias Negrão
   email: matheus.dnegrao@gmail.com
   position: con-midia-live
-  formation: Acadêmico de Ciência da Computação
+  formation: Bacharel em Ciência da Computação
   avatar: /images/equipe/matheus-negrao.jpg
   github: https://github.com/MaNegrao
   bond: Voluntário
@@ -409,7 +409,7 @@
   actingTime: Outubro de 2020 até maio de 2021
   name: Thalía Lopes Friedrich
   email: thalia.friedrich27@gmail.com
-  position: con-material
+  position: con-conteudo
   formation: Mestranda em Ambiente e Tecnologias Sustentáveis
   avatar: /images/equipe/thalia-lopes-friedrich.jpg
   github: https://github.com/thaliafriedrich
