@@ -4874,6 +4874,7 @@ pre.highlight {
 #page-wrapper {
   height: 100%;
   width: 100%;
+  padding-top: 80px;
   -webkit-overflow-scrolling: touch;
   z-index: 2;
   -webkit-transform: translate(0, 0);
