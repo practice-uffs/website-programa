@@ -415,6 +415,16 @@
   github: https://github.com/thaliafriedrich
   bond: Bolsista
 
+- person: true
+  actingTime: Outubro de 2021 até hoje
+  name: Vanderléia Pedrotti
+  email: vandy.pedrotti@gmail.com
+  position: con-conteudo
+  formation: Acadêmica de Filosofia
+  avatar: /images/equipe/vanderleia_pedrotti.png
+  github: https://github.com/Vandipedrotti
+  bond: Bolsista
+
 - person: false
   actingTime: Junho de 2020 até junho de 2021
   name: Vinícius dos Reis
