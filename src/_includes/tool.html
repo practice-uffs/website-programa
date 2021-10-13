@@ -1,0 +1,25 @@
+<div id="{{ tool.id }}" class="tab-pane fade" role="tabpanel">
+    <section class="fdb-block">
+      <div class="container">
+        <div class="row align-items-center pt-2">
+          <div class="col-7 col-md-8 col-lg-7">
+            <h2>{{ tool.title }}</h2>
+            <a href="{{ tool.url }}" target="_blank"><span class="badge badge-primary">Acessar {{ tool.title }}</span></a>
+            <h4>{{ tool.subtitle }}</h4>
+            <p class="lead">{{ tool.description }}</p>
+          </div>
+          <div class="col-md-1"></div>
+          <div class="col-md-3 mt-4">
+            <lottie-player alt="image" class="fdb-icon pb-4" src="{{ tool.lottie }}"  background="transparent"  speed="1"  style="width: 280px; height: 280px;" loop autoplay></lottie-player>
+          </div>
+        </div>
+      </div>
+    </section>
+</div>
+
+<style>
+    .button-tool {
+        color: #18191a;
+        box-shadow: rgba(32, 25, 68, 0.5) 0 0px 0px;
+    }
+</style>

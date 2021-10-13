@@ -1,0 +1,37 @@
+- tool: 
+  id: mural
+  active: true 
+  title: Mural
+  subtitle: Uma ponte entre você e a construção de uma universidade melhor.
+  description: "Essa é a plataforma oficial do programa, onde a comunidade acadêmica pode 
+  solicitar e acompanhar serviços. Além disso, você pode dar sugestões de melhorias e ideias, 
+  fazendo parte do crescimento do programa e inovação da UFFS."
+  url: https://practice.uffs.edu.br/mural/
+  lottie: https://assets4.lottiefiles.com/packages/lf20_ObEdDk.json
+
+- tool: 
+  id: aplicativo
+  active: true 
+  title: Aplicativo
+  subtitle: Descubra um ambiente interativo e dinâmico para elevar sua vida acadêmica a um novo patamar.
+  description: "Como objetivo principal, o PRACTICE busca estruturar ambientes, capacitar 
+  agentes educacionais e produzir e mediar na produção de conteúdos que possibitem a produção 
+  de conteúdos de ensino e tecnologias baseadas em metodologias ativas para promover a inovação 
+  do processo de aprendizagem de estudantes em componentes curriculares e extracurriculares da 
+  UFFS. Esse aplicativo é um dos facilitadores que está sendo criado para ajudar a suprir este 
+  objetivo."
+  url: https://play.google.com/store/apps/details?id=cc.uffs.practice
+  lottie: "https://assets7.lottiefiles.com/packages/lf20_ps4jrgjr.json"
+
+- tool: 
+  id: forms
+  active: true 
+  title: Forms
+  subtitle: Perguntas e respostas. Prático e muito, muito fácil.
+  description: "Criar questionários não precisa ser complicado. Já imaginou escrever em texto 
+  corrido e ter um formulário pronto para uso (com o que o digital tem a oferecer)? Basta 
+  compartilhar um link e receber respostas (com acompanhamento em tempo real). Chega de sofrer, 
+  crie formulários, enquetes e afins usando o Practice Forms."
+  url: https://practice.uffs.edu.br/forms/
+  lottie: "https://assets2.lottiefiles.com/private_files/lf30_txmmovoe.json"
+

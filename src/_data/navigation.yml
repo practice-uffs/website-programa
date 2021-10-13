@@ -21,11 +21,27 @@
     - title: Direitos Autorais
       url: /direitos-autorais
 
+- title: Ferramentas
+  excerpt: "Ferramentas PRACTICE"
+  image:
+  dropdown:
+    - title: Ferramentas
+      url: /ferramentas
+    - title: ---
+    - title: Mural
+      url: https://practice.uffs.edu.br/mural/
+    - title: ---
+    - title: Aplicativo
+      url: https://play.google.com/store/apps/details?id=cc.uffs.practice
+    - title: ---
+    - title: Forms
+      url: https://practice.uffs.edu.br/forms/
+
 - title: Serviços
   excerpt: "Serviços PRACTICE"
   dropdown:
     - title: Solicitação de serviços
-      url: https://mural.practice.uffs.cc/
+      url: https://practice.uffs.edu.br/mural/
     - title: ---
     - title: Prazos de solicitação
       url: /servico/prazos-de-solicitacao
