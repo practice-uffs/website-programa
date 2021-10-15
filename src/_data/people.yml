@@ -86,6 +86,16 @@
   bond: Bolsista
 
 - person: true
+  actingTime: Outubro de 2021 até hoje
+  name: Ana Caroline Geremia
+  email: geremiaanacaroline@gmail.com
+  position: con-midia-AVA
+  formation: Acadêmica de Letras
+  avatar: /images/equipe/ana-carolina-geremia.jpg
+  github: https://github.com/Annacarolis
+  bond: Bolsista
+
+- person: true
   actingTime: Outubro de 2020 até hoje
   name: Amanda Segatto Bisognin
   email: amandasgttb@gmail.com
@@ -196,14 +206,14 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Junho de 2020 até setembro de 2021
+  actingTime: Junho de 2020 até hoje
   name: Isabeli Reik
   email: isabelireik2@gmail.com
   position: con-conteudo
   formation: Acadêmica de Geografia
   avatar: /images/equipe/isabeli-reik.jpg
   github: https://github.com/isabelirk
-  bond: Bolsista
+  bond: Voluntária
 
 - person: false
   actingTime: Junho de 2020 até setembro de 2021
@@ -214,6 +224,16 @@
   avatar: /images/equipe/jean-carlos-hilger.jpeg
   github: https://github.com/JeanCHilger
   bond: Voluntário
+
+- person: true
+  actingTime: Outubro de 2021 até hoje
+  name: Júlia Gaboardi Bodanese
+  email: juliagaboardi96@gmail.com
+  position: con-conteudo
+  formation: Acadêmica de Letras
+  avatar: /images/equipe/julia-gaboardi-bodanese.jpg
+  github: https://github.com/JuliaGaboardiB
+  bond: Bolsista
 
 - person: false
   actingTime: Outubro de 2020 até outubro de 2020
@@ -234,6 +254,26 @@
   avatar: /images/equipe/junior-vitor-ramisch.jpg
   github: https://github.com/arufonsekun
   bond: Voluntário
+
+- person: true
+  actingTime: Outubro de 2021 até hoje
+  name: Kamila da Rosa
+  email: kamiladarosa7@gmail.com
+  position: con-design
+  formation: Acadêmica de Física
+  avatar: /images/equipe/kamila-da-rosa.jpeg
+  github: https://github.com/kamila-rosa
+  bond: Bolsista
+
+- person: true
+  actingTime: Outubro de 2021 até hoje
+  name: Leonardo Egidio Santin Dall’agnol
+  email: leonardo.sdallagnol@gmail.com
+  position: con-midia-AVA
+  formation: Acadêmio de Arquitetura e Urbanismo
+  avatar: /images/equipe/leonardo-egidio-santin-dall’agnol.jpg
+  github: https://github.com/S4ntin
+  bond: Bolsista
 
 - person: true
   actingTime: Outubro de 2020 até hoje
