@@ -10,7 +10,7 @@ permalink: /sobre/
   <div class="container">
     <div class="row align-items-center pt-2">
       <div class="col-7 col-md-8 col-lg-7">
-        <h2>Sobre</h2>
+        <h1>Sobre</h1>
         <p class="lead">Conheça o que é o Programa de Ampliação e Consolidação de Tecnologias e Inovação no Contexto Educacional (PRACTICE).</p>
       </div>
       <div class="col-md-1"></div>
@@ -21,165 +21,64 @@ permalink: /sobre/
   </div>
 </section>
 
-## Visão geral
-------
-<p class="text-justify">O cenário de isolamento social motivou a utilização de estratégias emergenciais para continuidade das aulas, especialmente no ensino superior. Muitas instituições adotaram recursos próprios da Educação a Distância, como ambientes virtuais de ensino e aprendizagem, para realização de aulas ou orientações aos estudantes. Na UFFS, os diferentes cursos de graduação e pós-graduação, assim como pró-reitorias, construíram instrumentos que mapearam as habilidades dos professores em manusear diferentes tecnologias para a construção de aulas semipresenciais, bem como as condições de acesso dos estudantes.</p>
+<p class="text-justify">
+O PRACTICE é um programa de ensino, pesquisa, extensão e inovação da <a href="https://www.uffs.edu.br">Universidade Federal da Fronteira Sul (UFFS)</a>. Ele é composto por bolsistas e professores que atuam com o objetivo de empoderar tecnologicamente a comunidade acadêmica. O PRACTICE visa estruturar ambientes, capacitar agentes educacionais, produzir e mediar a produção de conteúdos educacionais. A meta é promover e democratizar a inovação, do cotidiano até o processo de aprendizagem, de estudantes e servidores da UFFS.
 
-<p class="text-justify">Os resultados divulgados em diferentes espaços, como o Conselho Universitário (Consuni), demonstraram a carência de conhecimento tecnológico e pedagógico desses professores, assim como a falta de acesso a tecnologias por parte de estudantes.
-Nesse contexto, o fomento de iniciativas que oportunizem maior envolvimento da comunidade interna em projetos e ações que busquem ampliar a habilidade pedagógica e tecnológica, tanto de servidores quanto de estudantes, poderá ser uma prioridade institucional.</p>
-
-<p class="text-justify">Por esse motivo, este Programa visa atuar em 7 eixos distintos com o intuito de aprimorar e fortalecer o cenário tecnlógico voltado à educação na UFFS.</p>
+<p class="text-justify">O programa atua em todos os seis campi da UFFS (seu seus três estados da federação). Como um todo institucional, o programa atende e fomenta iniciativas que oportunizem maior envolvimento da comunidade interna em projetos e ações que busquem ampliar a inovação, a habilidade pedagógica e tecnológica. Por esse motivo, o programa atua em seis eixos com o intuito de aprimorar e fortalecer o cenário tecnlógico voltado à educação na UFFS.</p>
 
 <section class="fdb-block">
   <div class="container">
     <div class="row text-left mt-5">
-      <div class="col-12 col-sm-6 col-lg-3">
-        <div class="row">
-          <div class="col-3">
-            <img alt="image" class="img-fluid" src="/images/icons/layers.svg">
-          </div>
-          <div class="col-9">
-            <h3><strong>Participação de todos</strong></h3>
-            <p>Capacitação dos estudantes e adequação de programas de assistência estudantil para que oportunizar a participação de todos, sem prejuízo, nas atividades telepresenciais;</p>
-          </div>
-        </div>
+      <div class="col-4 col-sm-6 col-lg-4 text-center">
+        <svg xmlns="http://www.w3.org/2000/svg" class="w-16 h-16 m-auto text-blue-300" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 11.5V14m0-2.5v-6a1.5 1.5 0 113 0m-3 6a1.5 1.5 0 00-3 0v2a7.5 7.5 0 0015 0v-5a1.5 1.5 0 00-3 0m-6-3V11m0-5.5v-1a1.5 1.5 0 013 0v1m0 0V11m0-5.5a1.5 1.5 0 013 0v3m0 0V11" />
+        </svg>
+        <p class="mt-2 font-medium">Participação</p>
+        <p class="text-sm">Capacitação de pessoas e adequação de programas, iniciativas e projetos para oportunizar a participação de toda comunidade, sem prejuízo, na evolução da UFFS.</p>
       </div>
-      <div class="col-12 col-sm-6 col-lg-3 pt-3 pt-sm-0">
-        <div class="row">
-          <div class="col-3">
-            <img alt="image" class="img-fluid" src="/images/icons/layout.svg">
-          </div>
-          <div class="col-9">
-            <h3><strong>Expansão do Programa</strong></h3>
-            <p>Proporcionar que o presente Programa tenha alcance em todos os campi da UFFS com o mesmo nível de interação e atuação.</p>
-          </div>
-        </div>
+      <div class="col-4 col-sm-6 col-lg-4 text-center">
+        <svg xmlns="http://www.w3.org/2000/svg" class="w-16 h-16 m-auto text-blue-300" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 11V7a4 4 0 118 0m-4 8v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2z" />
+        </svg>
+        <p class="mt-2 font-medium">Fácil acesso</p>
+        <p class="text-sm">Fazer com que o programa e suas produções tenham alcance em todos os campi da UFFS com o mesmo nível de interação e atuação, de forma fácil, rápida, gratuita e de qualidade.</p>
       </div>
-      <div class="col-12 col-sm-6 col-lg-3 pt-3 pt-lg-0">
-        <div class="row">
-          <div class="col-3">
-            <img alt="image" class="img-fluid" src="/images/icons/life-buoy.svg">
-          </div>
-          <div class="col-9">
-            <h3><strong>Aula em tempo real</strong></h3>
-            <p>Adaptação de algumas salas de aulas atuais para o oferecimento de aula em tempo real por telepresença;</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-12 col-sm-6 col-lg-3 pt-3 pt-lg-0">
-        <div class="row">
-          <div class="col-3">
-            <img alt="image" class="img-fluid" src="/images/icons/map-pin.svg">
-          </div>
-          <div class="col-9">
-            <h3><strong>UFFSTV</strong></h3><br>
-            <p>Criação da UFFSTV em plataforma exclusivamente digital;</p>
-          </div>
-        </div>
+      <div class="col-4 col-sm-6 col-lg-4 text-center">
+        <svg xmlns="http://www.w3.org/2000/svg" class="w-16 h-16 m-auto text-blue-300" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+        </svg>
+        <p class="mt-2 font-medium">Expansão</p>
+        <p class="text-sm">Ousar com ideas e projetos tecnologicos para projetar a UFFS como referência nacional em utilização de soluções que facilitem a vida acadêmica de sua comunidade.</p>
       </div>
     </div>
     <div class="row text-left pt-3 pt-lg-5">
-      <div class="col-12 col-sm-6 col-lg-3">
-        <div class="row">
-          <div class="col-3">
-            <img alt="image" class="img-fluid" src="/images/icons/monitor.svg">
-          </div>
-          <div class="col-9">
-            <h3><strong>Capacitação didática de docentes</strong></h3>
-            <p>Capacitação didática de docentes para a oferta de aulas via telepresença, de maneira síncrona e assíncrona, bem como o fomento para o desenvolvimento de tecnologias inovadoras próprias da UFFS voltadas a interação, criação, curadoria e distribuição de conteúdos de acesso público;</p>
-          </div>
+        <div class="col-4 col-sm-6 col-lg-4 text-center">
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-16 h-16 m-auto text-blue-300" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z" />
+            </svg>
+            <p class="mt-2 font-medium">Tecnologias próprias</p>
+            <p class="text-sm">Fomento para o desenvolvimento de tecnologias inovadoras próprias da UFFS voltadas a interação, criação, curadoria e distribuição de conteúdos de acesso público.</p>
         </div>
-      </div>
-      <div class="col-12 col-sm-6 col-lg-3 pt-3 pt-sm-0">
-        <div class="row">
-          <div class="col-3">
-            <img alt="image" class="img-fluid" src="/images/icons/package.svg">
-          </div>
-          <div class="col-9">
-            <h3><strong>Estruturação de ambientes nas plataformas</strong></h3>
-            <p>Estruturação de ambientes que possibilitem a gravação, a transmissão, edição e produção de conteúdos educacionais nas mais variadas plataformas de distribuição de conteúdo;</p>
-          </div>
+        <div class="col-4 col-sm-6 col-lg-4 text-center">
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-16 h-16 m-auto text-blue-300" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 14v3m4-3v3m4-3v3M3 21h18M3 10h18M3 7l9-4 9 4M4 10h16v11H4V10z" />
+            </svg>
+            <p class="mt-2 font-medium">Estruturação</p>
+            <p class="text-sm">Estruturação de ambientes que possibilitem a transmissão de conhecimento, com gravação, edição e criação de conteúdos educacionais nas mais variadas plataformas.</p>
         </div>
-      </div>
-      <div class="col-12 col-sm-6 col-lg-3 pt-3 pt-lg-0">
-        <div class="row">
-          <div class="col-3">
-            <img alt="image" class="img-fluid" src="/images/icons/cloud.svg">
-          </div>
-          <div class="col-9">
-            <h3><strong>Curricularização da extensão</strong></h3><br>
-            <p>Contribuir para a curricularização da extensão a partir da produção de conteúdos voltados para a Educação Básica e os mais variados dos setores produtivos e governamentais; e,</p>
-          </div>
+        <div class="col-4 col-sm-6 col-lg-4 text-center">
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-16 h-16 m-auto text-blue-300" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z" />
+            </svg>
+            <p class="mt-2 font-medium">Extensão</p>
+            <p class="text-sm">Contribuir para a curricularização da extensão no contexto da UFFS e onde esta está inserida, integrando Educação Básica, setores produtivos e governamentais.</p>
         </div>
-      </div>
     </div>
   </div>
 </section>
 
-Conheça mais sobre o programa no [vídeo](https://www.youtube.com/watch?v=MBX_Ij4qSPc) abaixo:
+Conheça mais sobre o programa no <a href="https://www.youtube.com/watch?v=MBX_Ij4qSPc">vídeo</a> abaixo:
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe src="https://www.youtube.com/embed/MBX_Ij4qSPc" class="embed-responsive-item" allowfullscreen></iframe>
-</div><br>
-
-## Objetivo
-------
-<p class="text-justify">Baseado em metodologias ativas de ensino, o PRACTICE tem por objetivo estruturar ambientes, capacitar agentes educacionais, produzir e mediar a produção de conteúdos educacionais que promovam a inovação do processo de aprendizagem de estudantes em componentes curriculares e extracurriculares da UFFS.</p>
-
-
-## Objetivos específicos
-
-<section class="fdb-block">
-  <div class="row text-left mt-0">
-    <div class="col-12 col-sm-6 col-lg-4">
-      <div class="row">
-        <div class="col-12">
-          <h3><strong>Mapeamento de tecnologias</strong></h3>
-          <p>Mapear tecnologias já existentes que poderão ser utilizadas nos processos de ensino e aprendizagem de componentes curriculares da UFFS;</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-12 col-sm-6 col-lg-4 pt-3 pt-sm-0">
-      <div class="row">
-        <div class="col-12">
-          <h3><strong>Dicas de layout</strong></h3>
-          <p>Propor o layout e as características técnicas e instrumentais de ambientes de gravação e produção de conteúdos e aulas semipresenciais;</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-12 col-sm-6 col-lg-4 pt-3 pt-lg-0">
-      <div class="row">
-        <div class="col-12">
-          <h3><strong>Conteúdos digitais</strong></h3>
-          <p>Criar e desenvolver conteúdos digitais, bem como auxiliar na produção deste material por demanda direta dos docentes e TAES (Técnico Administrativo em Educação).</p>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="row text-left mt-5">
-    <div class="col-12 col-sm-6 col-lg-4">
-      <div class="row">
-        <div class="col-12">
-          <h3><strong>Participação ativa</strong></h3>
-          <p>Participar mais ativamente na rede ensino básica e em setores produtivos da sociedade por meio do desenvolvimento de conteúdo direcionado e sob demanda.</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-12 col-sm-6 col-lg-4 pt-3 pt-sm-0">
-      <div class="row">
-        <div class="col-12">
-          <h3><strong>Capacitação</strong></h3>
-          <p>Capacitar docentes e discentes para aulas telepresenciais;</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-12 col-sm-6 col-lg-4 pt-3 pt-lg-0">
-      <div class="row">
-        <div class="col-12">
-          <h3><strong>UFFSTV</strong></h3>
-          <p>Realizar a criação da UFFSTV em plataforma digitial;</p>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
+  <iframe src="https://www.youtube.com/embed/MBX_Ij4qSPc" class="embed-responsive-item pt-4" allowfullscreen></iframe>
+</div>

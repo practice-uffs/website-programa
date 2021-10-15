@@ -11,7 +11,13 @@ permalink: /equipe/
     <div class="row align-items-center pt-2">
       <div class="col-12 col-md-8 col-lg-7">
         <h2>Equipe</h2>
-        <p class="lead">O PRACTICE conta com uma equipe de estudantes e servidores que se dedicam de forma organizada e eficiente para realizar diversos tipos de atividades. <a href="/equipe/historico/">Histórico de membros PRACTICE.</a></p>
+        <p class="lead">O PRACTICE conta com uma equipe de estudantes e servidores multidisciplinas e multicampi para realizar diversos tipos de atividades.</p>
+        <p class="text-sm text-gray-400">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 inline-block" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 9l3 3m0 0l-3 3m3-3H8m13 0a9 9 0 11-18 0 9 9 0 0118 0z" />
+            </svg>
+            Conheça o <a href="/equipe/historico/" class="text-gray-400 underline">histórico de membros</a> do programa.
+        </p>
       </div>
       <div class="col-md-3 mt-6">
           <lottie-player alt="image" class="fdb-icon pb-4" src="https://assets10.lottiefiles.com/packages/lf20_CbwvP6/data.json"  background="transparent"  speed="1"  style="width: 400px; height: 400px;" loop autoplay></lottie-player>
@@ -19,8 +25,6 @@ permalink: /equipe/
     </div>
   </div>
 </section>
-
-
 
 <section class="fdb-block">
   <div class="container">
@@ -66,7 +70,7 @@ permalink: /equipe/
     <section class="pt-5">
       <h2 class="pb-3">Desenvolvimento de software</h2>
       <hr class="pb-4">
-      <div class="card-group">
+      <div class="card-group space-y-2">
         {% assign active = site.data.people | where:"position","dev" %}
         {% assign people = active | where:"person","true" | sort:"name" %}
         {% for person in people %}

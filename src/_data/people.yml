@@ -8,6 +8,7 @@
   formation: Doutora em Educação, em Ciências e Matemática
   avatar: /images/equipe/elisangela-ribas.jpg
   github: https://github.com/elisribas
+  place: Chapecó, SC  
   bond: Coordenador
 
 - person: true
@@ -15,10 +16,11 @@
   name: Fernando Bevilacqua
   email: fernando.bevilacqua@uffs.edu.br
   position: coor-geral
-  uffs: Professor de Ciência da Computação
-  formation: Doutor em Tecnologia da Informação
+  uffs: Professor Ciência da Computação (UFFS/Chapecó)
+  formation: Doutor em Ciência da Computação
   avatar: /images/equipe/fernando-bevilacqua.png
   github: https://github.com/Dovyski
+  place: Chapecó, SC
   bond: Coordenador
 
 - person: true
@@ -26,10 +28,11 @@
   name: Luciano Lores Caimi
   email: lcaimi@uffs.edu.br
   position: coor-geral
-  uffs: Professor de Ciência da Computação
+  uffs: Professor Ciência da Computação (UFFS/Chapecó)
   formation: Doutor em Ciência da Computação
   avatar: /images/equipe/luciano-caimi.jpg
   github: https://github.com/lcaimi
+  place: Chapecó, SC  
   bond: Coordenador
 
 - person: true
@@ -37,10 +40,11 @@
   name: Maurício Fernando Bozatski
   email: mauricio@uffs.edu.br
   position: coor-geral
-  uffs: Professor de Filosofia
+  uffs: Professor Filosofia (UFFS/Chapecó)
   formation: Doutor em Filosofia
   avatar: /images/equipe/mauricio-bozatski.jpg
   github: https://github.com/phdmauricio
+  place: Chapecó, SC  
   bond: Coordenador
 
 # Demais membros
@@ -53,6 +57,7 @@
   formation: Acadêmico de Ciência da Computação
   avatar: /images/equipe/adriano-zortea.png
   github: https://github.com/zorteaadriano
+  place: Chapecó, SC  
   bond: Bolsista
 
 - person: false
@@ -63,6 +68,7 @@
   formation: Acadêmica de Letras – Português e Espanhol
   avatar: /images/equipe/alessandra-pedrotti.jpg
   github: https://github.com/alessandrapedrotti
+  place: Chapecó, SC  
   bond: Bolsista
 
 - person: true
@@ -73,6 +79,7 @@
   formation: Acadêmico de Ciência da Computação
   avatar: /images/equipe/alisson-luan-de-lima-peloso.jpg
   github: https://github.com/alissonpeloso
+  place: Chapecó, SC  
   bond: Bolsista
 
 - person: false
@@ -83,6 +90,7 @@
   formation: Acadêmica de Medicina
   avatar: /images/equipe/ana-carolina-morigi.jpeg
   github: https://github.com/anacarolinamorigi
+  place: Passo Fundo, RS
   bond: Bolsista
 
 - person: true
@@ -93,6 +101,7 @@
   formation: Acadêmica de Letras
   avatar: /images/equipe/ana-carolina-geremia.jpg
   github: https://github.com/Annacarolis
+  place: Chapecó, SC  
   bond: Bolsista
 
 - person: true
@@ -103,6 +112,7 @@
   formation: Acadêmica de Medicina
   avatar: /images/equipe/amanda-segatto-bisognin.jpeg
   github: https://github.com/amandasegattob
+  place: Chapecó, SC  
   bond: Bolsista
 
 - person: false
@@ -113,6 +123,7 @@
   formation: Acadêmico de Ciência da Computação
   avatar: /images/equipe/andrew-silva.jpg
   github: https://github.com/andrewmsilva
+  place: Chapecó, SC  
   bond: Bolsista
 
 - person: true
@@ -123,6 +134,7 @@
   formation: Acadêmica de Engenharia Ambiental e Sanitária
   avatar: /images/equipe/brenda-ellen-de-sousa-reis.jpg
   github: https://github.com/brendaellen
+  place: Erechim, RS
   bond: Bolsista
 
 - person: false
@@ -133,6 +145,7 @@
   formation: Acadêmica de Enfermagem
   avatar: /images/equipe/carol-balestrini.png
   github: https://github.com/Carolbalestrini
+  place: Chapecó, SC  
   bond: Bolsista
 
 - person: true
@@ -143,6 +156,7 @@
   formation: Acadêmica de Engenharia Ambiental e Sanitária
   avatar: /images/equipe/claudineia-vieira-raimundi.jpeg
   github: https://github.com/Claudineia-VR
+  place: Chapecó, SC  
   bond: Bolsista
 
 - person: true
@@ -153,6 +167,7 @@
   formation: Acadêmico de Ciência da Computação
   avatar: /images/equipe/cleisson-raimundi.png
   github: https://github.com/CleissonVieira
+  place: Chapecó, SC  
   bond: Bolsista
 
 - person: false
@@ -163,6 +178,7 @@
   formation: Acadêmica de Ciência da Computação
   avatar: /images/equipe/estela-vilas-boas.jpg
   github: https://github.com/estelavilasboas
+  place: Chapecó, SC  
   bond: Bolsista
 
 - person: true
@@ -173,6 +189,7 @@
   formation: Acadêmica de Filosofia
   avatar: /images/equipe/eweline-elen-trojan.jpg
   github: https://github.com/Eweline
+  place: Chapecó, SC  
   bond: Bolsista
 
 - person: true
@@ -183,6 +200,7 @@
   formation: Acadêmica de Física
   avatar: /images/equipe/gessica-tagliapietra-zanon.jpg
   github: https://github.com/GessicaZanon
+  place: Realeza, PR
   bond: Bolsista
 
 - person: true
@@ -193,6 +211,7 @@
   formation: Acadêmico de Ciência da Computação
   avatar: /images/equipe/guilherme-rafael-graeff.jpg
   github: https://github.com/GuilhermeGraeff
+  place: Chapecó, SC  
   bond: Bolsista
 
 - person: true
@@ -203,6 +222,7 @@
   formation: Acadêmico de Ciência da Computação
   avatar: /images/equipe/guilherme-smorcinski-nerling.jpeg
   github: https://github.com/SWE3T
+  place: Chapecó, SC  
   bond: Bolsista
 
 - person: false
@@ -213,6 +233,7 @@
   formation: Acadêmica de Geografia
   avatar: /images/equipe/isabeli-reik.jpg
   github: https://github.com/isabelirk
+  place: Chapecó, SC  
   bond: Voluntária
 
 - person: false
@@ -223,6 +244,7 @@
   formation: Acadêmico de Ciência da Computação
   avatar: /images/equipe/jean-carlos-hilger.jpeg
   github: https://github.com/JeanCHilger
+  place: Chapecó, SC  
   bond: Voluntário
 
 - person: true
@@ -233,6 +255,7 @@
   formation: Acadêmica de Letras
   avatar: /images/equipe/julia-gaboardi-bodanese.jpg
   github: https://github.com/JuliaGaboardiB
+  place: Chapecó, SC  
   bond: Bolsista
 
 - person: false
@@ -253,6 +276,7 @@
   formation: Acadêmico de Ciência da Computação
   avatar: /images/equipe/junior-vitor-ramisch.jpg
   github: https://github.com/arufonsekun
+  place: Chapecó, SC  
   bond: Voluntário
 
 - person: true
@@ -263,6 +287,7 @@
   formation: Acadêmica de Física
   avatar: /images/equipe/kamila-da-rosa.jpeg
   github: https://github.com/kamila-rosa
+  place: Realeza, PR
   bond: Bolsista
 
 - person: true
@@ -271,8 +296,9 @@
   email: leonardo.sdallagnol@gmail.com
   position: con-midia-AVA
   formation: Acadêmio de Arquitetura e Urbanismo
-  avatar: /images/equipe/leonardo-egidio-santin-dall’agnol.jpg
+  avatar: /images/equipe/leonardo-egidio-santin-dallagnol.jpg
   github: https://github.com/S4ntin
+  place: Erechim, RS
   bond: Bolsista
 
 - person: true
@@ -283,6 +309,7 @@
   formation: Acadêmica de Arquitetura e Urbanismo
   avatar: /images/equipe/luiza-dall-bosco-tonial.jpeg
   github: https://github.com/luizatonial
+  place: Erechim, RS
   bond: Bolsista
 
 - person: false
@@ -293,6 +320,7 @@
   formation: Acadêmico de Agronomia
   avatar: /images/equipe/lucas-ferreira.jpg
   github: https://github.com/lucasgalize
+  place: Laranjeiras do Sul, PR
   bond: Bolsista
 
 - person: false
@@ -303,6 +331,7 @@
   formation: Acadêmico de Ciências Biológicas
   avatar: /images/equipe/lucas-frarao.jpg
   github: https://github.com/lucasfrarao
+  place: Realeza, PR
   bond: Bolsista
 
 - person: true
@@ -313,6 +342,7 @@
   formation: Acadêmico de Medicina
   avatar: /images/equipe/luiz-eduardo-dameda.jpeg
   github: https://github.com/luizdameda
+  place: Passo Fundo, RS
   bond: Bolsista
 
 - person: true
@@ -323,6 +353,7 @@
   formation: Acadêmica de Geografia
   avatar: /images/equipe/maria-gelain.jpg
   github: https://github.com/mariagelain
+  place: Chapecó, SC  
   bond: Bolsista
 
 - person: true
@@ -333,6 +364,7 @@
   formation: Acadêmica de Ciências Biológicas
   avatar: /images/equipe/maria-luiza-reviliau.jpg
   github: https://github.com/MariaLuizaReviliau
+  place: Laranjeiras do Sul, PR
   bond: Bolsista
 
 - person: true
@@ -343,6 +375,7 @@
   formation: Bacharel em Ciência da Computação
   avatar: /images/equipe/matheus-negrao.jpg
   github: https://github.com/MaNegrao
+  place: Porto Alegre, RS
   bond: Voluntário
 
 - person: true
@@ -353,6 +386,7 @@
   formation: Acadêmica de Pedagogia
   avatar: /images/equipe/michele-nieradka.jpg
   github: https://github.com/minieradka
+  place: Laranjeiras do Sul, PR
   bond: Bolsista
 
 - person: true
@@ -363,6 +397,7 @@
   formation: Acadêmica de Ciências Biológicas
   avatar: /images/equipe/milena-savio-pastorini-paz.png
   github: https://github.com/MilenaPaz2020
+  place: Realeza, PR
   bond: Bolsista
 
 - person: true
@@ -373,6 +408,7 @@
   formation: Acadêmica de Química
   avatar: /images/equipe/morgana-maciel-oliveira.jpg
   github: https://github.com/morgana-mo
+  place: Cerro Largo, RS
   bond: Bolsista
 
 - person: false
@@ -383,6 +419,7 @@
   formation: Acadêmico de Engenharia de Aquicultura
   avatar: /images/equipe/pedro-augusto-maximowski.png
   github: https://github.com/pedroamaximowski
+  place: Laranjeiras do Sul, PR
   bond: Bolsista
 
 - person: false
@@ -393,6 +430,7 @@
   formation: Acadêmico em Agronomia
   avatar: /images/equipe/rafael-da-costa-guilman.jpg
   github: https://github.com/rafaguilman
+  place: Laranjeiras do Sul, PR
   bond: Bolsista
 
 - person: false
@@ -403,6 +441,7 @@
   formation: Acadêmico de Ciência da Computação
   avatar: /images/equipe/raphael-borges.jpg
   github: https://github.com/oraphaborges
+  place: Chapecó, SC  
   bond: Bolsista
 
 - person: false
@@ -413,6 +452,7 @@
   formation: Acadêmico de Engenharia Ambiental e Sanitária
   avatar: /images/equipe/ricardo-patrik-manfro.jpeg
   github: https://github.com/ricardopatrik
+  place: Cerro Largo, RS
   bond: Bolsista
 
 - person: true
@@ -423,6 +463,7 @@
   formation: Acadêmico de Física
   avatar: /images/equipe/robison-jose-santos-silva.jpg
   github: https://github.com/robisonjose
+  place: Realeza, PR
   bond: Bolsista
 
 - person: true
@@ -433,6 +474,7 @@
   formation: Acadêmica de Ciência da Computação
   avatar: /images/equipe/stefani-caroline-frare-meneghetti.jpg
   github: https://github.com/stefanimeneghetti
+  place: Chapecó, SC
   bond: Bolsista
 
 - person: true
@@ -443,6 +485,7 @@
   formation: Acadêmica de Arquitetura e Urbanismo
   avatar: /images/equipe/taynara-chayane-christman.jpeg
   github: https://github.com/TaynaraCh
+  place: Bahia, BA
   bond: Bolsista
 
 - person: false
@@ -453,6 +496,7 @@
   formation: Mestranda em Ambiente e Tecnologias Sustentáveis
   avatar: /images/equipe/thalia-lopes-friedrich.jpg
   github: https://github.com/thaliafriedrich
+  place: Cerro Largo, RS
   bond: Bolsista
 
 - person: true
@@ -463,6 +507,7 @@
   formation: Acadêmica de Filosofia
   avatar: /images/equipe/vanderleia_pedrotti.png
   github: https://github.com/Vandipedrotti
+  place: Chapecó, SC
   bond: Bolsista
 
 - person: false
@@ -473,6 +518,7 @@
   formation: Acadêmico de Ciência da Computação
   avatar: /images/equipe/vinicius-reis.jpg
   github: https://github.com/vini2reis
+  place: Chapecó, SC
   bond: Bolsista
 
 - person: false
@@ -483,4 +529,5 @@
   formation: Acadêmico de Ciências Econômicas
   avatar: /images/equipe/vinicius-alves.jpeg
   github: https://github.com/VIF-Franca
+  place: Laranjeiras do Sul, PR
   bond: Bolsista

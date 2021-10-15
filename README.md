@@ -101,13 +101,6 @@ Faça ***fork*** do repositório do site pelo Github.
 ```
 git clone https://github.com/SEU_USUARIO/website-programa.git && cd website-programa
 ```
-
-Mude para a branch *`dev`*.
-```
-git checkout dev
-```
-> **Cuidado:** Preste atenção em qual das branchs estão sendo feitas as alterações.
-
 Instale todas as dependências:
 
 ```
@@ -142,6 +135,16 @@ Configuration file: /mnt/c/website-programa/_config.yml
     Server address: http://127.0.0.1:4000
   Server running... press ctrl-c to stop.
 ```
+
+### 4. Deploy (produção)
+
+Para colocar o site em produção, o conteúdo da pasta `_site` deve ser colocada em algum servidor web. Para gerar uma versão atualizada dela, rode o seguinte comando (dentro da pasta `src` do projeto).
+
+```
+bundle exec jekyll build
+```
+
+A partir daqui, o conteúdo da pasta `_site` está pronto para uso.
 
 
 ## Licença

@@ -3,75 +3,88 @@
 # Top navbar
 
 - title: Sobre
-  excerpt: "Programa PRACTICE"
+  excerpt: "Conheça o PRACTICE"
   image:
   dropdown:
     - title: Visão geral
       url: /sobre
+      desc: Conheça mais sobre o programa
     - title: ---
     - title: Equipe
       url: /equipe
-    - title: ---
-    - title: Prcoin
-      url: /prcoin
+      desc: Quem faz são as pessoas
     - title: ---
     - title: Portfólio
       url: /portfolio
+      desc: Trabalhos que já fizemos
     - title: ---
     - title: Direitos Autorais
       url: /direitos-autorais
+      desc: Autoria dos trabalhos que produzimos
 
 - title: Ferramentas
-  excerpt: "Ferramentas PRACTICE"
+  excerpt: "Nossas ferramentas"
   image:
   dropdown:
-    - title: Ferramentas
+    - title: Visão geral
       url: /ferramentas
+      desc: Conheça nossos sistemas
     - title: ---
     - title: Mural
-      url: https://practice.uffs.edu.br/mural/
+      url: https://mural.practice.uffs.cc
+      desc: Central de solicitações e de ideias
     - title: ---
     - title: Aplicativo
       url: https://play.google.com/store/apps/details?id=cc.uffs.practice
+      desc: O que temos a oferecer, na palma de sua mão
     - title: ---
     - title: Forms
       url: https://practice.uffs.edu.br/forms/
+      desc: Criação de enquetes online
 
 - title: Serviços
-  excerpt: "Serviços PRACTICE"
+  excerpt: "Serviços que temos a oferecer (grátis, prático e com qualidade)"
   dropdown:
     - title: Solicitação de serviços
-      url: https://practice.uffs.edu.br/mural/
+      url: https://mural.practice.uffs.cc
+      desc: Podemos ajudar de muitas maneiras
     - title: ---
     - title: Prazos de solicitação
       url: /servico/prazos-de-solicitacao
+      desc: Conheça nossos prazos de trabalho
     - title: ---
     - title: Formatos
       url: /servico/formatos
+      desc: Quais são os formatos dos produtos
     - title: ---
     - title: Fluxo de trabalho
       url: /servico/fluxo
+      desc: Como atendemos as solicitações
     - title: ---
     - title: Áudio e vídeo
       url: /servico/midia
+      desc: Gravações, edições, podcasts, etc
     - title: ---
     - title: Estúdio
       url: /servico/estudio
+      desc: Precisa gravar algo grande?
     - title: ---
     - title: Texto e imagem
       url: /servico/conteudo
+      desc: Identidade visual, cartazes e afins
     - title: ---
     - title: Transmissão ao vivo
       url: /servico/transmissao-ao-vivo
+      desc: Colocamos seu evento ao vivo no YouTube
 
 - title: Recursos
-  excerpt: "Recursos PRACTICE"
+  excerpt: "Conheça nossos materiais"
   url: /recursos
 
 - title: Parcerias
-  excerpt: "Parcerias PRACTICE"
+  excerpt: "Algumas das entidades que trabalharam conosco"
   url: /parcerias
 
 - title: Contato
-  excerpt: "Contatos PRACTICE"
+  excerpt: "Formas de contato conosco"
   url: /contato

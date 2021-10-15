@@ -2,7 +2,13 @@
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-} /*!
+}
+
+.practice-blue {
+    color: #007C9D
+}
+
+/*!
  *  Font Awesome 4.5.0 by @davegandy - http://fontawesome.io - @fontawesome
  *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
  */
@@ -5194,4 +5200,20 @@ header .dropdown-toggle {
 .navbar.top-nav-collapse {
   background-color: white !important;
   box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12) !important;
+}
+
+.dropdown-item {
+    padding: 4px 4px 0 2px !important;
+}
+
+.dropdown-divider {
+    margin: 2px 0 !important;
+}
+
+.navbar-nav li {
+    padding-top: 20px;
+}
+
+.navbar-nav li a:hover {
+    color: #007C9D !important;
 }
