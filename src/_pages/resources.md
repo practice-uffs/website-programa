@@ -9,13 +9,13 @@ permalink: /recursos/
 <section class="fdb-block">
   <div class="container">
     <div class="row align-items-center pt-2">
-      <div class="col-md-7">
-        <h1><b>Recursos</b></h1>
+      <div class="col-md-8">
+        <h1>Recursos</h1>
         <h2>Criamos conteúdos para aprimorar seus conhecimentos e facilitar sua vida</h2>
         <p class="lead mt-4">Precisa realizar uma videoconferência e não sabe qual a melhor forma de fazer? Precisa fazer um vídeo, animação ou imagem e tem dificuldade em lidar com as ferramentas de edição modernas? Ou talvez criar um formulário robusto para aplicar provas ou fazer pesquisas? Não se preocupe, o PRACTICE criou materiais para ajudar com isso.</p>
       </div>
-      <div class="col-md-5">
-        <p><img alt="image" class="img-fluid" src="/images/icons/undraw_content_team_3epn.svg"></p>
+      <div class="col-md-4">
+        <p><img alt="image" class="img-fluid" src="/images/illustrations/undraw_education.svg"></p>
       </div>
     </div>
   </div>
