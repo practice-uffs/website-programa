@@ -21,7 +21,7 @@ permalink: /equipe/
         </p>
       </div>
       <div class="col-md-3 mt-6">
-          <img src="/images/illustrations/undraw_collaborators.svg" title="Ilustração de duas pessoas trabalhando juntas" />
+          <img src="/images/illustrations/undraw_Collaborators.svg" title="Ilustração de duas pessoas trabalhando juntas" />
       </div>
     </div>
   </div>
