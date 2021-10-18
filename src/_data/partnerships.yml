@@ -3,15 +3,16 @@
   active: true
   title: Curso de Ciência da Computação da UFFS
   web: https://cc.uffs.edu.br/
+  bio: O curso de Ciência da Computação da UFFS, campus Chapecó/SC, pretende, através de bases sólidas de computação, formar profissionais capazes de desempenhar um papel importante em áreas da Tecnologia da Informação (TI), tanto na Indústria quanto na Academia
   description: O curso de Ciência da Computação da UFFS, campus Chapecó/SC, pretende, através de bases sólidas de computação, formar profissionais capazes de desempenhar um papel importante em áreas da Tecnologia da Informação (TI), tanto na Indústria quanto na Academia
-  image: /images/partnerships/grintex-logo-icon.png
-  url_image: https://cc.uffs.edu.br/images/favicons/android-chrome-512x512.png
-
+  image: https://cc.uffs.edu.br/images/favicons/android-chrome-512x512.png
+  
 - project:
   type: partnerships
   active: true
   title: FronteiraCast
   web: https://uffs.cc/fronteiracast
+  bio: O FronteiraCast é um projeto de cultura fundado em 2019 por estudantes da UFFS Campus Chapecó em conjunto com o coordenador do curso de Ciência da Computação Fernando Bevilacqua e professor do curso de Filosofia Maurício Bozatski.
   description: O FronteiraCast é um projeto de cultura fundado em 2019 por estudantes da UFFS Campus Chapecó em conjunto com o coordenador do curso de Ciência da Computação Fernando Bevilacqua e professor do curso de Filosofia Maurício Bozatski.
   image: /images/partnerships/fronteiracast.png
 
@@ -20,6 +21,7 @@
   active: true
   title: Grupo de Invovação Tecnológica Experimental (GRINTEX)
   web: https://grintex.uffs.cc
+  bio: O Grupo de Inovação Tecnológica Experimental (GRINTEX) da Universidade Federal da Fronteira Sul, campus Chapecó/SC, foi fundado em 2019. Atua com membros do curso de Ciência da Computação e da Secretaria Especial de Tecnologia da Informação (SETI).
   description: O Grupo de Inovação Tecnológica Experimental (GRINTEX) da Universidade Federal da Fronteira Sul, campus Chapecó/SC, foi fundado em 2019. Atua com membros do curso de Ciência da Computação e da Secretaria Especial de Tecnologia da Informação (SETI).
   image: /images/partnerships/grintex-logo-icon.png
 
@@ -28,6 +30,7 @@
   active: true
   title: Setor de Assuntos Estudantis (SAE)
   web: 
+  bio: O Setor de Assuntos Estudantis da UFFS, campus Chapecó, atua visando contribuir com a ampliação das condições de permanência e êxito dos estudantes, atentando às demandas educacionais de modo a identificar, encaminhar e acompanhar situações relacionadas às questões sociais, psicológicas e pedagógicas que interferem no processo de ensino e aprendizagem.
   description: O Setor de Assuntos Estudantis da UFFS, campus Chapecó, atua visando contribuir com a ampliação das condições de permanência e êxito dos estudantes, atentando às demandas educacionais de modo a identificar, encaminhar e acompanhar situações relacionadas às questões sociais, psicológicas e pedagógicas que interferem no processo de ensino e aprendizagem.
   image: /images/partnerships/sae.png
 
@@ -36,6 +39,7 @@
   active: true
   title: Diretoria de Políticas de Graduação (DPGRAD)
   web: 
+  bio: A Diretoria de Políticas de Graduação (DPGRAD) atua na criação e acompanhamento de projetos, programas e políticas voltadas para o pilar do Ensino dentro da UFFS. Visa a promoção da qualide de ensino da graduação, incentivo à permanência e formação contínua dos sujeitos da comunidade acadêmica.
   description: A Diretoria de Políticas de Graduação (DPGRAD) atua na criação e acompanhamento de projetos, programas e políticas voltadas para o pilar do Ensino dentro da UFFS. Visa a promoção da qualide de ensino da graduação, incentivo à permanência e formação contínua dos sujeitos da comunidade acadêmica.
   image: /images/partnerships/uffs.png
 
@@ -44,6 +48,7 @@
   active: true
   title: Diretoria de Comunicação Social (DCS)
   web: 
+  bio: A Diretoria de Comunicação Social atua na divulgação da Universidade Federal da Fronteira Sul (UFFS) como um bem público que todos têm o direito de acessar, realizando desde a produção do material publicitário até na cobertura jornalística. 
   description: A Diretoria de Comunicação Social atua na divulgação da Universidade Federal da Fronteira Sul (UFFS) como um bem público que todos têm o direito de acessar, realizando desde a produção do material publicitário até na cobertura jornalística. 
   image: /images/partnerships/uffs.png
 
@@ -52,5 +57,6 @@
   active: true
   title: Núcleo de Apoio Pedagógico (NAP)
   web: 
+  bio: O Núcleo de Apoio Pedagógico da UFFS, campus Chapecó integra a Coordenação Acadêmica do Campus e vincula-se à Diretoria de Organização Pedagógica da Pró-Reitoria de Graduação da UFFS. Tem por finalidade ser um espaço institucional de apoio didático, pedagógico e de articulação para a formação docente no Campus.
   description: O Núcleo de Apoio Pedagógico da UFFS, campus Chapecó integra a Coordenação Acadêmica do Campus e vincula-se à Diretoria de Organização Pedagógica da Pró-Reitoria de Graduação da UFFS. Tem por finalidade ser um espaço institucional de apoio didático, pedagógico e de articulação para a formação docente no Campus.
   image: /images/partnerships/uffs.png

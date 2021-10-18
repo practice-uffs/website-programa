@@ -2,44 +2,35 @@
 layout: hero
 title: "Parcerias"
 image:
-  feature: banner-rotulo.png
+    feature: banner-rotulo.png
 permalink: /parcerias/
 ---
 
-<section class="fdb-block">
-  <div class="container">
-    <div class="row align-items-center pt-2">
-      <div class="col-12 col-md-8 col-lg-7">
-        <h2>Parcerias</h2>
-        <p class="lead">Página destinada a parceiros do Programa de Inovação PRACTICE.</p>
-      </div>
-      <div class="col-8 col-md-4 m-auto m-md-0 ml-md-auto pt-5">
-        <p><img alt="image" class="img-fluid" src="https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs//draws/git.svg"></p>
-      </div>
+<section class="mb-5">
+    <div class="">
+        <div class="row align-items-center pt-2">
+            <div class="col-9">
+                <h1>{{ page.title }}</h1>
+                <h2>Vamos colaborar em projetos maiores?</h2>
+                <p class="lead">Estamos sempre em busca ou disponíveis para parcerias.</p>
+            </div>
+            <div class="col-3">
+                <img src="/images/illustrations/undraw_collab.svg" title="Pessoa sentada colaborando com outra pessoa em cadeira de rodas." />
+            </div>
+        </div>
     </div>
-  </div>
 </section>
 
+<p>Projetos grandes geralmente precisam de muitas mentes para serem executados. Uma das missões do programa é fomentar esse diálogo e troca de ideias, visdando garantir que todas elas tenham uma chance. Desde que o programa foi fundado, fizemos parcerias com diversas entidades e setores da UFFS para trabalhar em projetos maiores e mais ambiciosos.</p>
+<p>Veja a lista abaixo dos nossos parceiros.</p>
 
-{% assign partnerships = site.data.partnerships |  where: "type","partnerships" %}
+{% assign partnerships = site.data.partnerships | where: "type","partnerships" %}
 
-<section>
-  <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-12 text-left">
-        <h3>Parceiros do programa de Inovação PRACTICE</h3>
-      </div>
+<section class="text-gray-600 body-font py-5">
+    <div class="flex flex-col">
+        {% assign active_partnerships = partnerships | where: "active",true %}
+        {% for partnership in active_partnerships %}
+            {% include partnership-list.html %}
+        {% endfor %}
     </div>
-    <div class="row justify-content-center">
-      <div class="col-12">
-        <div class="tiles">
-          {% assign active_partnerships = partnerships | where: "active",true %}
-          {% for post in active_partnerships %}
-            <hr />
-            {% include post-partnerships.html %}
-          {% endfor %}
-        </div>
-      </div>
-    </div>
-  </div>
 </section>
