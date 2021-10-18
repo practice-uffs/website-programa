@@ -3,7 +3,7 @@ layout: servicos
 title: "Fluxo de trabalho"
 image:
     feature: banner-rotulo.png
-permalink: /servico/fluxo/
+permalink: /fluxo
 ---
 
 <section class="mb-10">

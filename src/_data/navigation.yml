@@ -21,6 +21,10 @@
     - title: Direitos Autorais
       url: /direitos-autorais
       desc: Autoria dos trabalhos que produzimos
+    - title: ---
+    - title: Fluxo de trabalho
+      url: /fluxo
+      desc: Como atendemos as solicitações
 
 - title: Tecnologias
   excerpt: "Tecnologias próprias e disponíveis de graça"
@@ -60,12 +64,6 @@
     - title: Formatos
       url: /servico/formatos
       desc: Quais são os formatos dos produtos
-    - title: ---
-    - title: Fluxo de trabalho
-      url: /servico/fluxo
-      desc: Como atendemos as solicitações
-    - title: ---
-
 
 
 - title: Recursos
