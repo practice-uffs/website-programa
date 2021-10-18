@@ -22,20 +22,20 @@
       url: /direitos-autorais
       desc: Autoria dos trabalhos que produzimos
 
-- title: Ferramentas
-  excerpt: "Nossas ferramentas"
+- title: Tecnologias
+  excerpt: "Tecnologias próprias e disponíveis de graça"
   image:
   dropdown:
     - title: Visão geral
-      url: /ferramentas
-      desc: Conheça nossos sistemas
+      url: /tecnologias
+      desc: Conheça nossas soluções tecnológicas
     - title: ---
     - title: Mural
       url: https://mural.practice.uffs.cc
       desc: Central de solicitações e de ideias
     - title: ---
     - title: Aplicativo
-      url: https://play.google.com/store/apps/details?id=cc.uffs.practice
+      url: /app
       desc: O que temos a oferecer, na palma de sua mão
     - title: ---
     - title: Forms
@@ -47,12 +47,16 @@
   dropdown:
     - title: Solicitação de serviços
       url: https://mural.practice.uffs.cc
-      desc: Podemos ajudar de muitas maneiras
+      desc: "Audio e vídeo (gravações, edições, podcasts, etc). <br />Texto e imagem (identidade visual, cartazes e afins).<br /> Transmissão ao vivo (Youtube)."
     - title: ---
     - title: Prazos de solicitação
       url: /servico/prazos-de-solicitacao
       desc: Conheça nossos prazos de trabalho
     - title: ---
+    - title: Estúdio
+      url: /servico/estudio
+      desc: Precisa gravar algo mais complexo?
+    - title: ---      
     - title: Formatos
       url: /servico/formatos
       desc: Quais são os formatos dos produtos
@@ -61,21 +65,8 @@
       url: /servico/fluxo
       desc: Como atendemos as solicitações
     - title: ---
-    - title: Áudio e vídeo
-      url: /servico/midia
-      desc: Gravações, edições, podcasts, etc
-    - title: ---
-    - title: Estúdio
-      url: /servico/estudio
-      desc: Precisa gravar algo grande?
-    - title: ---
-    - title: Texto e imagem
-      url: /servico/conteudo
-      desc: Identidade visual, cartazes e afins
-    - title: ---
-    - title: Transmissão ao vivo
-      url: /servico/transmissao-ao-vivo
-      desc: Colocamos seu evento ao vivo no YouTube
+
+
 
 - title: Recursos
   excerpt: "Conheça nossos materiais"

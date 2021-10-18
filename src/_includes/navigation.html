@@ -22,7 +22,7 @@
                     </svg>
                     <span class="inline-block pr-2">
                         <span class="font-medium">{{ item.title }}</span><br />
-                        <span class="text-sm text-gray-500">{{ item.desc }}</span>
+                        <p class="text-sm text-gray-500 desc">{{ item.desc }}</p>
                     </span>
                 </a>
               {% endif %}
@@ -39,4 +39,13 @@
       {% endif %}
     </li>
   {% endfor %}
+    <li>
+        <a href="https://mural.practice.uffs.cc" class="bg-blue-500 p-1 pr-2 -mt-1 text-sm text-white font-normal">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 inline-block mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z" />
+            </svg>
+            Solicitar serviço
+        </a>
+    </li>
+
 </ul>
