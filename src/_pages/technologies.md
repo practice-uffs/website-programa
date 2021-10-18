@@ -1,16 +1,15 @@
 ---
 layout: hero
-title: "Ferramentas"
+title: "Tecnologias"
 image:
   feature: banner-rotulo.png
-permalink: /ferramentas/
+permalink: /tecnologias/
 ---
-
 
 <section class="fdb-block">
   <div class="container">
-    <h2 class="pb-5">Ferramentas</h2>
-    {% assign active_tools = site.data.tools %}
+    <h2 class="pb-5">Tecnologias</h2>
+    {% assign active_tools = site.data.technologies %}
     <ul id="profileTabs" class="nav nav-tabs justify-content-center nav-justified">
         {% for tool in active_tools %}
           {% include tool-list.html %}

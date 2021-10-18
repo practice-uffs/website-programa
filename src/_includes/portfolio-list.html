@@ -1,5 +1,32 @@
-<div class="card col-md-2 p-0 m-4" style="float: left; left: 6%;">
-  <a href="{{ flyer.youtube }}" target="_blank">
-    <img class="card-img-top" src="{{ flyer.url_image }}">
-  </a>
-</div>
+<div class="px-2 py-16 mx-auto">
+    <div class="mx-auto flex flex-wrap">
+      <div class="lg:w-1/2 w-full lg:pr-10 lg:py-6 mb-6 lg:mb-0">
+        <h2 class="text-sm title-font text-gray-500 tracking-widest">{{ portfolio.subtitle | capitalize }}</h2>
+        <h1 class="text-gray-900 text-3xl title-font font-medium mb-4">{{ portfolio.title }}</h1>
+        <p class="leading-relaxed mb-4">{{ portfolio.description }}</p>
+        <div class="flex border-t border-gray-200 py-2">
+          <span class="text-gray-500">Data</span>
+          <span class="ml-auto text-gray-900">{{ portfolio.date }}</span>
+        </div>
+        <div class="flex border-t border-gray-200 py-2">
+          <span class="text-gray-500">Pessoas impactadas</span>
+          <span class="ml-auto text-gray-900">{{ portfolio.audience }}</span>
+        </div>
+        {% if portfolio.stats_label %}
+            <div class="flex border-t border-gray-200 py-2">
+                <span class="text-gray-500">{{ portfolio.stats_label }}</span>
+                <span class="ml-auto text-gray-900">{{ portfolio.stats_value }}</span>
+            </div>
+        {% endif %}
+        {% if portfolio.link %}
+            <div class="flex border-t border-gray-200 py-2">
+                <span class="text-gray-500">Link</span>
+                <span class="ml-auto text-gray-900">
+                    <a href="{{ portfolio.link }}">{{ portfolio.link }}</a>
+                </span>
+            </div>
+        {% endif %}
+      </div>
+      <img alt="Ilustração do projeto" class="lg:w-1/2 w-full lg:h-auto h-64 object-cover object-center rounded" src="{{ portfolio.image }}">
+    </div>
+  </div>

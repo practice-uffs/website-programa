@@ -1,0 +1,33 @@
+# Lista de projetos no portifolio
+- porfolio: true
+  title: Transmissões ao vivo
+  subtitle: Transmissões ao vivo
+  description: ""
+  date: ddsr
+  audience: dsds
+  stats_label: dsds
+  stats_value: dsds
+  image: /images/portfolio/4_3.jpg
+  link: 
+
+- porfolio: true
+  title: Colação de grau remota
+  subtitle: Transmissões ao vivo
+  description: ""
+  date: ddsr
+  audience: dsds
+  stats_label: dsds
+  stats_value: dsds
+  image: /images/portfolio/formatura-erechim.png
+  link: 
+
+- porfolio: true
+  title: Material para aulas
+  subtitle: Gravaçào em estúdio
+  description: ""
+  date: ddsr
+  audience: dsds
+  stats_label: dsds
+  stats_value: dsds
+  image: /images/portfolio/4_2.jpg
+  link: 

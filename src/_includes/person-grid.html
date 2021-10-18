@@ -10,14 +10,6 @@
                 <br /><span class="text-sm">{{ person.uffs }}</span>
             {% endif %}
 
-            <div class="text-sm mt-2 text-gray-400">
-                <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 inline-block" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
-                </svg>
-                {{ person.place }}
-            </div>            
-
             <div class="mt-2 space-x-5">
                 <span class="text-yellow-700 font-medium inline-block text-sm">
                     <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 inline-block" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -25,6 +17,16 @@
                     </svg>
                     {{ person.bond }}
                 </span>
+            </div>
+
+            <div class="mt-2 space-x-5">
+                <div class="text-sm inline-block">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 inline-block" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+                    </svg>
+                    {{ person.place }}
+                </div>
     
                 <a href="{{ person.github }}" class="text-gray-500 inline-block text-sm" target="_blank">
                     <svg class="w-5 h-5 inline-block" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
@@ -39,8 +41,6 @@
                     E-mail
                 </a>
             </div>
-
-
         </div>
     </div>
 

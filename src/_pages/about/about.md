@@ -15,18 +15,15 @@ permalink: /sobre/
       </div>
       <div class="col-md-1"></div>
       <div class="col-md-3 mt-4">
-        <lottie-player alt="image" class="fdb-icon pb-4" src="https://assets5.lottiefiles.com/packages/lf20_k86wxpgr.json"  background="transparent"  speed="1"  style="width: 280px; height: 280px;" loop autoplay></lottie-player>
+        <img src="/images/illustrations/undraw_lost_online.svg" title="Ilustração de uma pessoa frente ao espaço sideral" />
       </div>
     </div>
   </div>
 </section>
 
-<p class="text-justify">
-O PRACTICE é um programa de ensino, pesquisa, extensão e inovação da <a href="https://www.uffs.edu.br">Universidade Federal da Fronteira Sul (UFFS)</a>. Ele é composto por bolsistas e professores que atuam com o objetivo de empoderar tecnologicamente a comunidade acadêmica. O PRACTICE visa estruturar ambientes, capacitar agentes educacionais, produzir e mediar a produção de conteúdos educacionais. A meta é promover e democratizar a inovação, do cotidiano até o processo de aprendizagem, de estudantes e servidores da UFFS.
+<p class="text-justify">O PRACTICE é um programa de ensino, pesquisa, extensão e inovação da <a href="https://www.uffs.edu.br">Universidade Federal da Fronteira Sul (UFFS)</a>. Ele é composto por bolsistas e professores que atuam com o objetivo de empoderar tecnologicamente a comunidade acadêmica (<a href="/equipe">conheça a equipe</a>). O PRACTICE visa estruturar ambientes, capacitar agentes educacionais, produzir e mediar a produção de conteúdos educacionais. A meta é promover e democratizar a inovação, do cotidiano até o processo de aprendizagem, de estudantes e servidores da UFFS.</p>
 
-<p class="text-justify">O programa atua em todos os seis campi da UFFS (seu seus três estados da federação). Como um todo institucional, o programa atende e fomenta iniciativas que oportunizem maior envolvimento da comunidade interna em projetos e ações que busquem ampliar a inovação, a habilidade pedagógica e tecnológica. Por esse motivo, o programa atua em seis eixos com o intuito de aprimorar e fortalecer o cenário tecnlógico voltado à educação na UFFS.</p>
-
-<section class="fdb-block">
+<section class="py-10 mb-10">
   <div class="container">
     <div class="row text-left mt-5">
       <div class="col-4 col-sm-6 col-lg-4 text-center">
@@ -76,6 +73,8 @@ O PRACTICE é um programa de ensino, pesquisa, extensão e inovação da <a href
     </div>
   </div>
 </section>
+
+<p class="text-justify">O programa atua em todos os seis campi da UFFS (seu seus três estados da federação). Como um todo institucional, o programa atende e fomenta iniciativas que oportunizem maior envolvimento da comunidade interna em projetos e ações que busquem ampliar a inovação, a habilidade pedagógica e tecnológica. Por esse motivo, o programa atua em seis eixos (listados acima) com o intuito de aprimorar e fortalecer o cenário tecnlógico voltado à educação na UFFS.</p>
 
 Conheça mais sobre o programa no <a href="https://www.youtube.com/watch?v=MBX_Ij4qSPc">vídeo</a> abaixo:
 

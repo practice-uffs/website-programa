@@ -10,17 +10,18 @@ permalink: /equipe/
   <div class="container">
     <div class="row align-items-center pt-2">
       <div class="col-12 col-md-8 col-lg-7">
-        <h2>Equipe</h2>
-        <p class="lead">O PRACTICE conta com uma equipe de estudantes e servidores multidisciplinas e multicampi para realizar diversos tipos de atividades.</p>
+        <h1>Equipe</h1>
+        <h2>Quem são as pessoas</h2>
+        <p class="lead">O PRACTICE conta com um grupo de estudantes e servidores multidisciplinar e multicampi para realizar diversos tipos de atividades.</p>
         <p class="text-sm text-gray-400">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 inline-block" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 9l3 3m0 0l-3 3m3-3H8m13 0a9 9 0 11-18 0 9 9 0 0118 0z" />
             </svg>
-            Conheça o <a href="/equipe/historico/" class="text-gray-400 underline">histórico de membros</a> do programa.
+            Conheça o <a href="/equipe/historico/" class="text-gray-400 underline">histórico de integrantes</a> do programa.
         </p>
       </div>
       <div class="col-md-3 mt-6">
-          <lottie-player alt="image" class="fdb-icon pb-4" src="https://assets10.lottiefiles.com/packages/lf20_CbwvP6/data.json"  background="transparent"  speed="1"  style="width: 400px; height: 400px;" loop autoplay></lottie-player>
+          <img src="/images/illustrations/undraw_collaborators.svg" title="Ilustração de duas pessoas trabalhando juntas" />
       </div>
     </div>
   </div>
