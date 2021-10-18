@@ -8,8 +8,8 @@ last_modified_at: 2021-04-18T17:00:00-00:00
 highlight: false
 share: true
 image:
-  teaser: posts/2020-05-03-uffs-cria-assessoria-de-inovacao-tecnologica-na-educacao-assitec.png
-  feature: /images/posts/2020-05-03-uffs-cria-assessoria-de-inovacao-tecnologica-na-educacao-assitec.png
+  teaser: posts/survey.jpg
+  feature: /images/posts/survey.jpg
 ---
 
 O programa possui 9 meses de existência, e a UFFS já colhe bons frutos com os serviços prestados; entre eles, destacam-se as transmissões ao vivo, edições audiovisuais e a elaboração de identidades visuais.

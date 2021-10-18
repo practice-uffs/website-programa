@@ -3,107 +3,98 @@ layout: hero
 permalink: /
 title: "Inicial"
 image:
-  feature: banner-rotulo.png
+    feature: banner-rotulo.png
 ---
 
-<section class="fdb-block" data-block-type="features" data-id="3" >
-  <div class="container">
-      <div class="row text-center justify-content-center mt-5">
-          <div class="col-12 col-sm-4 col-xl-3 m-md-auto">
-              <div class="col-10 col-sm-6 m-md-auto">
-                <lottie-player alt="image" class="fdb-icon pb-4" src="https://assets4.lottiefiles.com/packages/lf20_QTzCex.json"  background="transparent"  speed="1"  style="width: 100px; height: 100px;" loop autoplay></lottie-player>
-              </div>
-              <h3><strong>Tecnologia</strong></h3>
-              <p>Buscamos criar soluções tecnológicas para aprimorar o ambiente acadêmico de ensino e aprendizagem.</p>
-          </div>
-          <div class="col-12 col-sm-4 col-xl-3 m-auto pt-4 pt-sm-0">
-              <div class="col-10 col-sm-6 m-md-auto">
-                <lottie-player alt="image" class="fdb-icon pb-4" src="https://assets8.lottiefiles.com/packages/lf20_UQy5L5.json"  background="transparent"  speed="1"  style="width: 100px; height: 100px;" loop autoplay></lottie-player>
-              </div>
-              <h3><strong>Comunidade</strong></h3>
-              <p>Não estamos sós, focamos na habilidade pedagógica e tecnológica tanto de servidores quanto estudantes.</p>
-          </div>
-          <div class="col-12 col-sm-4 col-xl-3 m-auto pt-4 pt-sm-0">
-              <div class="col-10 col-sm-6 m-md-auto">
-                <lottie-player alt="image" class="fdb-icon pb-4" src="https://assets9.lottiefiles.com/packages/lf20_yG9n84.json"  background="transparent"  speed="1"  style="width: 100px; height: 100px;" loop autoplay></lottie-player>
-              </div>
-              <h3><strong>Independência</strong></h3>
-              <p>Nossa missão é empoderar tecnologicamente pessoas para que a tecnologia seja ajuda, não barreira.</p>
-          </div>
-      </div>
-  </div>
-</section>
-<section class="fdb-block" data-block-type="contents" data-id="4" >
-  <div class="container">
-      <div class="row">
-          <div class="col text-left">
-              <h2>O que é o PRACTICE?</h2>
-              <p>O Programa de Ampliação e Consolidação de Tecnologias e Inovação no Contexto Educacional (PRACTICE) objetiva estruturar ambientes e capacitar agentes educacionais para a produção e mediação de conteúdos por meio de tecnologias. Visamos contribuir para a promoção da inovação no processo de ensino-aprendizagem da UFFS, seja em componentes curriculares e extracurriculares, projetos ou iniciativas.</p>
-              <h3>O que fazemos?</h3>
-              <p>Capacitação didática de docentes para a oferta de aulas via telepresença, de maneira síncrona e assíncrona, bem como o fomento para o desenvolvimento de tecnologias inovadoras próprias da UFFS voltadas à interação, criação, curadoria e distribuição de conteúdos de acesso público.</p>
-              <p>Também trabalhamos pelos estudantes para que tenham voz de sugestão de adequação de programas de Assistência Estudantil para oportunizar a participação de todos, sem prejuízo, nas atividades de envolvam tecnologia.</p>
-              <h3>Como fazemos e trabalhamos?</h3>
-              <p>Trabalhamos pela estruturação de ambientes que possibilitem a gravação, transmissão, edição e produção de conteúdos educacionais nas mais variadas plataformas de distribuição de conteúdo. Nossas soluções incluem, por exemplo, adaptação de algumas salas de aulas atuais da UFFS para o oferecimento de aula em tempo real por telepresença.</p>
-              <p>Todo nosso trabalho é feito de forma pública e transparente através do <a href="https://github.com/practice-uffs" target="_blank">Github</a>. Nossas soluções tecnológicas são open-souce, livres para todos usarem. Nossos materiais são gratuítos e reutilizáveis ou adaptáveis. Acreditamos que a inovação aberta, com ciência e tecnologia a favor da comunidade, fará a diferença no avanço da educação.</p>
-          </div>
-      </div>
-  </div>
-</section>
 <section class="fdb-block">
-  <div class="container">
-    <div class="row align-items-center">
-      <div class="col-10 col-sm-6 col-md-5 col-lg-4 m-auto pb-5 pb-md-0">
-        <img alt="image" class="img-fluid rounded-0" src="https://cdn.jsdelivr.net/gh/froala/design-blocks@master/dist/imgs/draws/iphone-hand.svg">
-      </div>
-      <div class="col-12 ml-md-auto col-md-7 col-lg-6 pb-5 pb-md-0">
-        <h2>Aplicativo móvel</h2>
-        <p class="lead">Todas nossas soluções são acessíveis através de nosso aplicativo para smartphones.</p>
-        <p>Queremos que a tecnologia chegue até servidores e estudantes de forma fácil, sem complicações. Queremos ferramentas na palma da mão de cada um dos membros de nossa comunidade acadêmica. Trabalhamos para que nossos avanços estejam disponíveis, em primeira mão, em seu celular, para um uso fácil e imediato.</p>
-      </div>
+    <div class="container">
+        <div class="row text-center justify-content-center mt-5">
+            <div class="col-12 col-sm-4 col-xl-3 m-md-auto">
+                <img src="/images/illustrations/undraw_visionary_technology.svg" class="h-36 mx-auto mb-8" title="Ilustração de uma pessoa frente a um smartphone com tecnologia visionária"/>
+                <p class="font-light text-2xl">Tecnologia</p>
+                <p class="text-sm">Buscamos criar soluções tecnológicas para aprimorar o ambiente acadêmico de ensino e aprendizagem.</p>
+            </div>
+            <div class="col-12 col-sm-4 col-xl-3 m-auto pt-4 pt-sm-0">
+                <img src="/images/illustrations/undraw_the_world_is_mine.svg" class="h-40 mx-auto mb-4 " title="Ilustração de uma pessoa carregando o planeta terra"/>
+                <p class="font-light text-2xl">Comunidade</p>
+                <p class="text-sm">Não estamos sós, focamos na habilidade pedagógica e tecnológica tanto de servidores quanto estudantes.</p>
+            </div>
+            <div class="col-12 col-sm-4 col-xl-3 m-auto pt-4 pt-sm-0">
+                <img src="/images/illustrations/undraw_powerful.svg" class="w-42 mx-auto mb-6" title="Ilustração de uma pessoa carregando o planeta terra"/>
+                <p class="font-light text-2xl">Independência</p>
+                <p class="text-sm">Nossa missão é empoderar tecnologicamente pessoas para que a tecnologia seja ajuda, não barreira.</p>
+            </div>
+        </div>
     </div>
-  </div>
 </section>
 
-<section>
-  <div class="card breath-top">
-    <div class="card-header">
-      <h3>Destaques</h3>
+<section class="text-gray-600 body-font">
+    <div class="container mx-auto flex px-5 py-5 md:flex-row flex-col items-center">
+        <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0">
+            <lottie-player src="https://assets6.lottiefiles.com/packages/lf20_yoatyllj.json" background="transparent" speed="1"  style="width: 100%; height: auto;" loop autoplay></lottie-player>
+        </div>
+        <div class="lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 flex flex-col md:items-start md:text-left items-center ">
+            <p class="font-extralight text-3xl">O que é?</p>
+            <p class="mb-8 leading-relaxed text-gray-600">
+                O PRACTICE é um programa de ensino, pesquisa, extensão e inovação da <a href="https://www.uffs.edu.br">Universidade Federal da Fronteira Sul (UFFS)</a>. Ele é composto por bolsistas e professores que atuam com o objetivo de empoderar tecnologicamente a comunidade acadêmica.
+            </p>
+            <p class="text-sm text-gray-400">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 inline-block" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 9l3 3m0 0l-3 3m3-3H8m13 0a9 9 0 11-18 0 9 9 0 0118 0z" />
+                </svg>
+                <a href="/equipe" class="text-gray-400 no-underline">Conheça a equipe</a>.
+            </p>
+        </div>
     </div>
-    <div class="card-body">
-      <div class="row justify-content-center">
-        <div class="col-12">
-          <div class="tiles">
+</section>
+
+<section class="text-gray-600 body-font">
+    <div class="container mx-auto flex px-5 py-5 md:flex-row flex-col items-center">
+        <div class="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center">
+            <p class="font-extralight text-3xl">Qual o objetivo?</p>
+            <p class="mb-8 leading-relaxed  text-gray-600">
+                O programa visa estruturar ambientes, capacitar agentes educacionais, produzir e mediar a produção de conteúdos educacionais. A filosofia é promover e democratizar tecnologia e inovação, do cotidiano até o processo de aprendizagem, de estudantes e servidores da UFFS.
+            </p>
+            <p class="text-sm text-gray-400">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 inline-block" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 9l3 3m0 0l-3 3m3-3H8m13 0a9 9 0 11-18 0 9 9 0 0118 0z" />
+                </svg>
+                Veja nossas <a href="/tecnologias" class="text-gray-400 no-underline">tecnologias e projetos</a>.
+            </p>
+        </div>
+        <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
+            <lottie-player src="https://assets1.lottiefiles.com/packages/lf20_2n1snrke.json"  background="transparent"  speed="1"  style="width: 90%; height: auto;"  loop autoplay></lottie-player>
+        </div>
+    </div>
+</section>
+
+
+<h2 class="mt-10">Destaques</h2>
+<hr />
+
+<section class="text-gray-600 body-font overflow-hidden">
+    <div class="py-8 mx-auto">
+        <div class="flex flex-wrap -m-12">
             {% assign highlighted-posts = site.categories.noticias | where: "highlight","true" %}
-            {% for post in highlighted-posts limit: 4 %}
-              {% include post-news.html %}
+            {% for post in highlighted-posts limit: 2 %}
+            {% include post-news.html %}
             {% endfor %}
-          </div><!-- /.tiles -->
         </div>
-      </div>
     </div>
-  </div>
 </section>
 
-<section>
-  <div class="card breath-top">
-    <div class="card-header">
-      <h3>Últimas notícias</h3>
-    </div>
-    <div class="card-body">
-      <div class="row">
-        <div class="col-12 text-left">
-          {% for post in site.categories.noticias %}
+<h3 class="mt-24">Últimas notícias</h3>
+<hr />
+
+<section class="text-gray-600 body-font">
+    <div class="py-2 mx-auto">
+        <div class="flex flex-wrap -m-4">
+            {% for post in site.categories.noticias %}
             {% if post.highlight == false %}
-              {% include post-grid-mini.html %}
+            {% include post-grid-mini.html %}
             {% endif %}
-          {% endfor %}
+            {% endfor %}
         </div>
-      </div>
-      <div class="row">
-        <div class="col-12 text-right">
-          <a href="/noticias">Ver mais notícias</a>
-        </div>
-      </div>
+        <a href="/noticias" class="mt-4">Ver mais notícias</a>
     </div>
-  </div>
 </section>

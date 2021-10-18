@@ -1,5 +1,5 @@
 ---
-title: "Seleção de bolsistas para o PRACTICE."
+title: "Seleção de bolsistas para o campus Laranjeiras do Sul"
 description: "Vaga para Laranjeiras do Sul. Venha fazer parte do PRACTICE!"
 source: https://www.uffs.edu.br/atos-normativos/edital/gr/2020-0483?fbclid=IwAR3D6xwnACJlBUhbuNN-iqPKoBV_HXgriN7yjXY8tLV2EllOJEXiOPFsbAY
 layout: article
@@ -8,8 +8,8 @@ last_modified_at: 2020-09-01T17:16:30-00:00
 highlight: true
 share: true
 image:
-  teaser: posts/2020-09-01-edital-bolsistas-practice-laranjeiras-do-sul.png
-  feature: /images/posts/2020-09-01-edital-bolsistas-practice-laranjeiras-do-sul.png
+  teaser: posts/study.jpg
+  feature: /images/posts/study.jpg
 ---
 
 Você, estudante da UFFS, quer ter a oportunidade de atuar e desenvolver suas habilidades em um programa inovador na nossa universidade?
