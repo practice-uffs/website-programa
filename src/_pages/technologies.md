@@ -9,7 +9,7 @@ permalink: /tecnologias/
 <section class="fdb-block">
     <div class="container">
         <div class="row align-items-center pt-2">
-            <div class="col-12 col-md-8 col-lg-7">
+            <div class="col-9">
                 <h1>Tecnologias</h1>
                 <h2>Nosso repertório de soluções</h2>
                 <p class="lead">Trabalhamos continuamente para criar soluções tecnológicas para a comunidade acadêmica (e externa). Todas as soluções são de código aberto (open-source) e gratuitas.</p>
@@ -20,8 +20,8 @@ permalink: /tecnologias/
                     Veja o código-fonte e documentação técnica das soluções em nosso <a href="https://github.com/practice-uffs" class="text-gray-400 underline">Github</a>.
                 </p>
             </div>
-            <div class="col-md-3 mt-6">
-                <img src="/images/illustrations/undraw_Collaborators.svg" title="Ilustração de duas pessoas trabalhando juntas" />
+            <div class="col-3 mt-6">
+                <img src="/images/illustrations/undraw_outer_space.svg" title="Ilustração de um foguete decolando" />
             </div>
         </div>
     </div>
