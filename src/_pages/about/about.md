@@ -74,7 +74,7 @@ permalink: /sobre/
   </div>
 </section>
 
-<p class="text-justify">O programa atua em todos os seis campi da UFFS (seu seus três estados da federação). Como um todo institucional, o programa atende e fomenta iniciativas que oportunizem maior envolvimento da comunidade interna em projetos e ações que busquem ampliar a inovação, a habilidade pedagógica e tecnológica. Por esse motivo, o programa atua em seis eixos (listados acima) com o intuito de aprimorar e fortalecer o cenário tecnlógico voltado à educação na UFFS.</p>
+<p class="text-justify">O programa atua em todos os seis campi da UFFS (em três estados da Federação). Como um todo institucional, o programa atende e fomenta iniciativas que oportunizem maior envolvimento da comunidade interna em projetos e ações que busquem ampliar a inovação, a habilidade pedagógica e tecnológica. Por esse motivo, o programa atua em seis eixos (listados acima) com o intuito de aprimorar e fortalecer o cenário tecnlógico voltado à educação na UFFS.</p>
 
 Conheça mais sobre o programa no <a href="https://www.youtube.com/watch?v=MBX_Ij4qSPc">vídeo</a> abaixo:
 
