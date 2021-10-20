@@ -28,9 +28,9 @@ permalink: /fluxo/
 
     <p><img src="/images/pages/fluxograma-equipes.svg" class="mb-5" title="Fluxograma de equipes do programa" /></p>
 
-    <p>No total, possuimos sete equipes. A gerência (<code>@ger</code>) é responsável por fazer pontes entre o programa e a instituição, atuando nas atividades administrativas institucionais. Nesse contexto, a equipe de Auxílio Gerencial (<code>@ger-aux</code>) atua, sendo responsável pela gerência de projetos, pela coordenação de equipes e pela falicitação de comunicação entre as demais equipes. A equipe de Comunicação (<code>@ger-com</code>) também atua nesse contexto, sendo a equipe de relações públicas do programa, mostrando à comunidade todos nossos projetos e atuações.</p>
+    <p>No total, possuimos sete equipes. A gerência (<code>@ger</code>) é responsável por fazer pontes entre o programa e a instituição, atuando nas atividades administrativas institucionais. Junto a esse contexto e mais próxima do programa, a equipe de Auxílio Gerencial (<code>@ger-aux</code>) atua, sendo responsável pela gerência de projetos, pela coordenação de equipes e pela falicitação de comunicação entre as demais equipes. A equipe de Comunicação (<code>@ger-com</code>) também atua assim, sendo a equipe de relações públicas do programa, mostrando à comunidade todos nossos projetos e atuações.</p>
 
-    <p>As demais equipes do programa estão dividias em dois grandes grupos: produção de conteúdo (@con) e desenvolvimento de software (@dev). As equipes de conteúdo são organizadas em Texto e imagem (@con-conteudo), Vídeo e áudio (@con-midia) e Design (@con-design). As equipes de desenvolvimento de software são organizadas em 3 grupos: Internet e websites (@dev-web), Tecnologias móveis (@dev-mobile) e Infra-estrutura (@dev-ops).</p>
+    <p>As demais equipes do programa estão dividias em dois grandes grupos: produção de conteúdo (<code>@con</code>) e desenvolvimento de software (<code>@dev</code>). As equipes de conteúdo são organizadas em Texto e imagem (<code>@con-conteudo</code>), Vídeo e áudio (<code>@con-midia</code>) e Design (<code>@con-design</code>). As equipes de desenvolvimento de software são organizadas em 3 grupos: Internet e websites (<code>@dev-web</code>), Tecnologias móveis (<code>@dev-mobile</code>) e Infra-estrutura (<code>@dev-ops</code>).</p>
 </section>
 
 <section class="py-3 text-justify">
@@ -38,7 +38,8 @@ permalink: /fluxo/
     <p>Nossa característica marcante é que trabalhamos exclusivamente na núvem. Isso quer dizer que os materiais que produzimos estão sempre online, disponíveis para qualquer pessoa da equipe contribuir, seja para opinar ou atuar. Como consequência, nossos materiais estão disponíveis em qualquer local (ou computador/dispositivo), além de esterem protegidos com backup automático.</p>
 
     <p>Além de produzirmos nossos trabalhos na núvem, também coordenamos os trabalhos de forma online. Utilizamos o <a href="https://github.com/practice-uffs">Github</a> para criar e organizar tarefas, equipes, prazos e atividades.</p>
-    <p class="text-sm text-gray-400">
+    
+    <p class="text-sm text-gray-400 py-4">
         <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 inline-block" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 9l3 3m0 0l-3 3m3-3H8m13 0a9 9 0 11-18 0 9 9 0 0118 0z" />
         </svg>
@@ -46,12 +47,12 @@ permalink: /fluxo/
     </p>
     <p><img src="/images/pages/practice-github.png" class="mb-5 w-full object-cover object-center block" title="Github do programa" /></p>
 
-    <p>Toda comunicação é feita via <a href="https://github.com/" target="_blank">GitHub</a> para que qualquer pessoa da equipe (seja o turno de trabalho) saiba o que está acontecendo. Utilizamos o método ágil <a href="https://www.desenvolvimentoagil.com.br/scrum/" target="_blank">Scrum</a> e trabalhamos em cima de períodos de 14 dias de duração (chamadas <em>sprints</em>). A sprint é iniciada com uma reunião de planejamento (semanal, entre gerência e líderes de equipe), que define as tarefas que serão desenvolvidas. Essas tarefas então são inseridas em um Quadro de Tarefas Scrum pelo qual os membros de cada equipe tem acesso para realiza-las.</p>
-    <p>As equipes realizam reuniões semanais de andamento e coordenação, pela qual se verifica detalhadamente o andamento do trabalho visando aperfeiçoar o fluxo de trabalho. Por fim, o fechamento da sprint acontece ao final do período de 14 dias. Cabe a gerência encerrar as tarefas que foram desenvolvidas no período ou mantê-las abertas para a próxima sprint.</p>
+    <p>Toda comunicação é feita via <a href="https://github.com/" target="_blank">GitHub</a> para que qualquer pessoa da equipe (seja qual for o turno de trabalho) saiba o que está acontecendo. Utilizamos o método ágil <a href="https://www.desenvolvimentoagil.com.br/scrum/" target="_blank">Scrum</a> e trabalhamos em cima de períodos de 14 dias de duração (chamadas <em>sprints</em>). A sprint é iniciada com uma reunião de planejamento (semanal, entre gerência e líderes de equipe), que define as tarefas que serão desenvolvidas. Essas tarefas são então inseridas em um Quadro de Tarefas Scrum pelo qual os membros de cada equipe tem acesso para realiza-las.</p>
+    <p>As equipes realizam reuniões semanais de andamento e coordenação, pela qual se verifica detalhadamente o andamento do trabalho. Também há discussões para aperfeiçoar o fluxo, quando necessário. Por fim, o fechamento da sprint acontece ao final do período de 14 dias. Cabe a gerência, à liderança de cada equipe e a <code>@ger-aux</code> encerrar as tarefas que foram desenvolvidas no período ou mantê-las abertas para a próxima sprint.</p>
 
     <p><img src="/images/pages/bot-practice-telegram.png" class="mb-5 w-2/3 mx-auto" title="Bot atuando no Telegram" /></p>
 
-    <p>Cada tarefa criada no Github (chamada de issue) possui um número. Temos diversos grupos no Telegram (um para cada equipe e um geral) para agilizar qualquer comunicação. Quando o número de uma tarefa é mencionado no grupo, nosso bot (chamada Minerva) posta as informações daquela tarefa (imagem acima). Dessa forma, podemos focar no que importa (produz com qualidade) ao invés de procurarmos por informação.</p>
+    <p>Cada tarefa criada no Github (chamada de issue) possui um número. Temos diversos grupos no Telegram (um para cada equipe e um geral) para agilizar a comunicação. Quando o número de uma tarefa é mencionado no grupo, nosso bot (chamada Minerva) posta as informações daquela tarefa (imagem acima). Dessa forma, podemos focar no que importa (produzir com qualidade) ao invés de procurarmos por informação.</p>
 </section>
 
 <section class="py-3 text-justify">
@@ -61,13 +62,13 @@ permalink: /fluxo/
 
     <div class="lines-container py-10">
         <div class="lines">
-            <p class="text-xs text-gray-400 mb-4"><strong>Maior maturação (zero)</strong><br />Conhecemos todos os aspectos do projeto.</p>
+            <p class="text-xs text-gray-400 mb-4"><strong>Menor maturação (dois)</strong><br />Não sabemos todos os aspectos do projeto.</p>
             <div class="line"></div>
-            <p class="text-white">|</p>
+            <p class="text-xs text-gray-400 mt-4 text-center"><strong>Maturação média (um)</strong><br />Conhecemos alguns aspectos do projeto.</p>
             <div class="line"></div>
-            <p class="text-white">|</p>
+            <p class="text-white mt-4 mb-4">|</p>
             <div class="line"></div>
-            <p class="text-xs text-gray-400 w-full text-right mt-4"><strong>Menor maturação (dois)</strong><br />Não sabemos todos os aspectos do projeto.</p>
+            <p class="text-xs text-gray-400 w-full text-right mt-4"><strong>Maior maturação (zero)</strong><br />Conhecemos todos os aspectos do projeto.</p>
         </div>
     </div>
 
@@ -112,4 +113,11 @@ permalink: /fluxo/
             </div>
         </div>
     </div>
+
+    <p class="text-sm text-gray-400 py-4">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 inline-block" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+        </svg>
+        A metáfora de maturidade de projetos baseada em horizontes foi copiada da conversa de Jason Warner (CTO do Github) no episódio <a href="https://changelog.com/podcast/395#transcript-9"><em>Leading GitHub to a $7.5 billion acquisition</em></a>, no podcast <a href="https://changelog.com">The Changelog</a>.
+    </p>    
 </section>
