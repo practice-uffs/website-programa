@@ -1,4 +1,20 @@
 - technology: 
+  id: aura
+  active: true 
+  title: Aura
+  subtitle: À sua disposição para ajudar com assuntos acadêmicos.
+  short_description: Assistente virtual baseada em inteligência artificial.
+  description: "A Universidade é repleta de conhecimento, documentos e processos. Conhecer tudo, ou saber onde encontrar
+  algo, é uma tarefa significativa. A Aura surgiu com a ideia de ajudar a comunidade a encontrar o que precisa
+  e realizar tarefas nesse contexto. Não sabe como fazer algo, ou não sabe sobre algo da Universidade? A Aura te ajuda, 24 horas por dia, 7 dias por semana."
+  url: https://practice.uffs.edu.br/mural/
+  github: https://github.com/practice-uffs
+  image: /images/aura-icon.png
+  hero_image: 
+  status: project
+  project_doc:
+
+- technology: 
   id: mural
   active: true 
   title: Mural
@@ -11,6 +27,7 @@
   github: https://github.com/practice-uffs
   image: /images/logo-icon.png
   hero_image: 
+  status: ready
 
 - technology: 
   id: aplicativo
@@ -28,6 +45,7 @@
   github: https://github.com/practice-uffs  
   image: /images/logo-icon.png
   hero_image: 
+  status: doing
 
 - technology: 
   id: forms
@@ -43,4 +61,5 @@
   github: https://github.com/practice-uffs  
   image: /images/logo-icon.png
   hero_image: 
+  status: doing
 
