@@ -6,7 +6,7 @@ image:
 permalink: /app/
 ---
 
-<section class="absolute left-1/2 top-48">
+<section class="absolute left-1/2 top-14 sm:h-96">
     <div class="mobile-wrapper">
         <div class="mobile">
             <div class="photo"></div>
