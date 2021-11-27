@@ -7,7 +7,7 @@
   description: "A Universidade é repleta de conhecimento, documentos e processos. Conhecer tudo, ou saber onde encontrar
   algo, é uma tarefa significativa. A Aura surgiu com a ideia de ajudar a comunidade a encontrar o que precisa
   e realizar tarefas nesse contexto. Não sabe como fazer algo, ou não sabe sobre algo da Universidade? A Aura te ajuda, 24 horas por dia, 7 dias por semana."
-  url: https://practice.uffs.edu.br/mural/
+  url: https://drive.google.com/file/d/1nAc5sOaraClQECv31hVw8rJqSoXq-jdj/view?usp=sharing
   github: https://github.com/practice-uffs
   image: /images/aura-icon.png
   hero_image: 
@@ -23,7 +23,7 @@
   description: "Essa é a plataforma oficial do programa, onde a comunidade acadêmica pode 
   solicitar e acompanhar serviços. Além disso, você pode dar sugestões de melhorias e ideias, 
   fazendo parte do crescimento do programa e inovação da UFFS."
-  url: https://practice.uffs.edu.br/mural/
+  url: https://practice.uffs.edu.br/mural
   github: https://github.com/practice-uffs
   image: /images/logo-icon.png
   hero_image: 
@@ -45,7 +45,7 @@
   github: https://github.com/practice-uffs  
   image: /images/logo-icon.png
   hero_image: 
-  status: doing
+  status: ready
 
 - technology: 
   id: forms
@@ -57,7 +57,7 @@
   corrido e ter um formulário pronto para uso (com o que o digital tem a oferecer)? Basta 
   compartilhar um link e receber respostas (com acompanhamento em tempo real). Chega de sofrer, 
   crie formulários, enquetes e afins usando o Practice Forms."
-  url: https://practice.uffs.edu.br/forms/
+  url: https://practice.uffs.edu.br/forms
   github: https://github.com/practice-uffs  
   image: /images/logo-icon.png
   hero_image: 

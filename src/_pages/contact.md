@@ -24,8 +24,8 @@ permalink: /contato/
 <section class="mt-5">
     <div class="container">
         <p class="font-medium">Canal oficial de comunicação</p>
-        <p>Se você possui qualquer solicitação de produto/serviço que temos a ofercer, a forma oficial de nos contatar é através do <a href="https://mural.practice.uffs.cc/" target="_blank">Practice Mural</a>. Basta fazer um pedido que atenderemos sua demanda (simples assim).</p>
-        <p>Quando o que você procura não está listado no <a href="https://mural.practice.uffs.cc/" target="_blank">Practice Mural</a>, você pode escrever para <a href="mailto:practice@uffs.edu.br">practice@uffs.edu.br</a>. Será um prazer discutir algo maior e mais ambicioso.</p>
+        <p>Se você possui qualquer solicitação de produto/serviço que temos a ofercer, a forma oficial de nos contatar é através do <a href="https://practice.uffs.edu.br/mural" target="_blank">Practice Mural</a>. Basta fazer um pedido que atenderemos sua demanda (simples assim).</p>
+        <p>Quando o que você procura não está listado no <a href="https://practice.uffs.edu.br/mural" target="_blank">Practice Mural</a>, você pode escrever para <a href="mailto:practice@uffs.edu.br">practice@uffs.edu.br</a>. Será um prazer discutir algo maior e mais ambicioso.</p>
     </div>
 </section>
 
