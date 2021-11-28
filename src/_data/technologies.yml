@@ -48,6 +48,58 @@
   status: ready
 
 - technology: 
+  id: app-saude
+  active: true 
+  title: Practice Bem-Estar
+  subtitle: Um aplicativo para ajudar a manter a sua saúde acadêmica em dia.
+  short_description: Aplicativo para smartphone.
+  description: "Uma das metas do programa é trabalhar em prol de sua comunidade acadêmica.
+  Isso inclui bem-estar. O aplicativo Practice Bem-Estar foi pensado para abordar temas de
+  saúde física e mental. Há informações sobre alimentação, exercícios e sono, além formas de acesso a redes de ajuda.
+  Além disso, o aplicativo conta com questionários de monitoramento de ações do usuário,
+  como atividades físicas, humor, etc. Baseado nos dados informados, o aplicativo dará dicas
+  personalizadas sobre esses assuntos."
+  url:
+  github: https://github.com/app-saude
+  image: /images/logo-icon.png
+  hero_image: 
+  status: doing
+
+- technology: 
+  id: app-uffs-virtual
+  active: true 
+  title: UFFS Boas-vindas
+  subtitle: O guia de informações básicas da UFFS na sua mão.
+  short_description: Aplicativo para smartphone.
+  description: "Ao ingressar na UFFS, muitas pessoas sentem-se perdidas
+  por não saber onde encontrar lugar para morar, onde encontrar informações, quem são colegas, etc. Além disso,
+  há diferenças culturais e regionais que tornam o processo mais difícil do que deveria ser. O aplicativo UFFS Boas-vindas
+  ajudará a comunidade acadêmica da UFFS, especialmente recém chegados, a conhecer onde está estudando. Já pensou
+  ter uma listagem de costumes, locais interessantes, coisas para fazer e conhecer, na palma da mão?"
+  url:
+  github: https://github.com/app-uffs-virtual
+  image: /images/logo-icon.png
+  hero_image: 
+  status: doing  
+
+- technology: 
+  id: uffs-virtual
+  active: true 
+  title: UFFS Virtual
+  subtitle: Conheça virtualmente todos os campi da UFFS e suas atividades
+  short_description: Conheça virtualmente todos os campi da UFFS e suas atividades
+  description: "A UFFS é uma instituição grande, com vários campi em três estados diferentes. Já
+  imaginou poder fazer um passeio virtual em cada um desses campi para conhecer salas de aula,
+  infra-estrutura e espaços? E, ainda por cima, conhecer as atividades de ensino, pesquisa e extensão
+  que são realizadas nesses lugares, de forma contextualizada e interativa? Esse é o propósito da plataforma
+  web UFFS Virtual."
+  url:
+  github: https://github.com/app-uffs-virtual
+  image: /images/logo-icon.png
+  hero_image: 
+  status: project    
+
+- technology: 
   id: forms
   active: true 
   title: Forms
