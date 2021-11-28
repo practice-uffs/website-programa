@@ -14,9 +14,7 @@ permalink: /tecnologias/
                 <h2>Nosso repertório de soluções</h2>
                 <p class="lead">Trabalhamos continuamente para criar soluções tecnológicas para a comunidade acadêmica (e externa). Todas as soluções são de código aberto (open-source) e gratuitas.</p>
                 <p class="text-sm text-gray-400">
-                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 inline-block" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 9l3 3m0 0l-3 3m3-3H8m13 0a9 9 0 11-18 0 9 9 0 0118 0z" />
-                    </svg>
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 inline-block" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 9l3 3m0 0l-3 3m3-3H8m13 0a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
                     Veja o código-fonte e documentação técnica das soluções em nosso <a href="https://github.com/practice-uffs" class="text-gray-400 underline">Github</a>.
                 </p>
             </div>

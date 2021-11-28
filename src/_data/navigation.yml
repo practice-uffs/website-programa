@@ -14,6 +14,10 @@
       url: /equipe
       desc: Quem são as pessoas
     - title: ---
+    - title: Como participar?
+      url: /como-participar
+      desc: Trabale conosco
+    - title: ---
     - title: Portfólio
       url: /portfolio
       desc: Trabalhos que já fizemos
