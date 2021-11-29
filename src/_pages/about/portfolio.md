@@ -14,9 +14,7 @@ permalink: /portfolio/
                 <h2>Um pouco sobre nossos projetos realizados</h2>
                 <p class="lead">Criamos e ajudados a executar muitos projetos, materiais e iniciativas. Conheça as principais delas.</p>
                 <p class="text-sm text-gray-400">
-                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 inline-block" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
-                    </svg>
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 inline-block" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
                     Tudo que fazemos é gerenciado (e visível) publicamente em nosso <a href="https://github.com/practice-uffs" class="text-gray-400 underline">Github</a>.
                 </p>
             </div>
