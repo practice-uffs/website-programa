@@ -24,7 +24,7 @@
   solicitar e acompanhar serviços. Além disso, você pode dar sugestões de melhorias e ideias, 
   fazendo parte do crescimento do programa e inovação da UFFS."
   url: https://practice.uffs.edu.br/mural
-  github: https://github.com/practice-uffs
+  github: https://github.com/practice-uffs/mural
   image: /images/logo-icon.png
   hero_image: 
   status: ready
@@ -42,7 +42,7 @@
   UFFS. Esse aplicativo é um dos facilitadores que está sendo criado para ajudar a suprir este 
   objetivo."
   url: https://play.google.com/store/apps/details?id=cc.uffs.practice
-  github: https://github.com/practice-uffs  
+  github: https://github.com/practice-uffs/app
   image: /images/logo-icon.png
   hero_image: 
   status: ready
@@ -50,7 +50,7 @@
 - technology: 
   id: app-saude
   active: true 
-  title: Practice Bem-Estar
+  title: Bem-Estar
   subtitle: Um aplicativo para ajudar a manter a sua saúde acadêmica em dia.
   short_description: Aplicativo para smartphone.
   description: "Uma das metas do programa é trabalhar em prol de sua comunidade acadêmica.
@@ -60,7 +60,7 @@
   como atividades físicas, humor, etc. Baseado nos dados informados, o aplicativo dará dicas
   personalizadas sobre esses assuntos."
   url:
-  github: https://github.com/app-saude
+  github: https://github.com/practice-uffs/app-saude
   image: /images/logo-icon.png
   hero_image: 
   status: doing
@@ -77,7 +77,7 @@
   ajudará a comunidade acadêmica da UFFS, especialmente recém chegados, a conhecer onde está estudando. Já pensou
   ter uma listagem de costumes, locais interessantes, coisas para fazer e conhecer, na palma da mão?"
   url:
-  github: https://github.com/app-uffs-virtual
+  github: https://github.com/practice-uffs/app-uffs-virtual
   image: /images/logo-icon.png
   hero_image: 
   status: doing  
@@ -94,7 +94,7 @@
   que são realizadas nesses lugares, de forma contextualizada e interativa? Esse é o propósito da plataforma
   web UFFS Virtual."
   url:
-  github: https://github.com/app-uffs-virtual
+  github: https://github.com/practice-uffs/uffs-virtual
   image: /images/logo-icon.png
   hero_image: 
   status: project    
@@ -110,8 +110,27 @@
   compartilhar um link e receber respostas (com acompanhamento em tempo real). Chega de sofrer, 
   crie formulários, enquetes e afins usando o Practice Forms."
   url: https://practice.uffs.edu.br/forms
-  github: https://github.com/practice-uffs  
+  github: https://github.com/practice-uffs/forms
   image: /images/logo-icon.png
   hero_image: 
   status: doing
+
+- technology: 
+  id: maker
+  active: true 
+  title: Maker
+  subtitle: Conteúdo digital criado com texto e inteligência artificial.
+  short_description: Criação de conteúdo digital sem necessidade de conhecimento técnico.
+  description: "A criação de conteúdo digital, como cartazes, folders, capas é geralmente uma tarefa para poucos.
+  Até agora. Com o Practice Maker, qualquer pessoa pode criar conteúdo digital sem conhecimento técnico sobre o 
+  assunto. Basta escrevero o conteúdo do material, por exemplo a data do evento, e o Practice Maker cria o folder 
+  para você. Ainda melhor, a ferramenta utiliza inteligência artificial para entender o conteúdo e, em seguida, 
+  adicionar imagens e elementos contextualizados."
+  url: https://practice.uffs.edu.br/maker
+  github: https://github.com/practice-uffs/maker  
+  image: /images/logo-icon.png
+  hero_image: 
+  status: doing  
+
+  
 
