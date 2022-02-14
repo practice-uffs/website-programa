@@ -411,6 +411,17 @@
   place: Cerro Largo, RS
   bond: Bolsista
 
+- person: true
+  actingTime: Fevereiro de 2022 até hoje
+  name: Patricia Trevisan
+  email: patitrev@hotmail.com
+  position: dev
+  formation: Acadêmica de Ciência da Computação
+  avatar: /images/equipe/patricia-trevisan.jpg
+  github: https://github.com/patitrev
+  place: Chapecó, SC
+  bond: Bolsista
+
 - person: false
   actingTime: Novembro de 2020 até setembro de 2021
   name: Pedro Augusto Maximowski
