@@ -20,9 +20,12 @@
         {% endif %}
         {% if portfolio.link %}
             <div class="flex border-t border-gray-200 py-2">
-                <span class="text-gray-500">Link</span>
                 <span class="ml-auto text-gray-900">
-                    <a href="{{ portfolio.link }}">{{ portfolio.link }}</a>
+                    <button type="button" class="btn btn-outline-info btn-sm">
+                      <a href="{{ portfolio.link }}" class="text-decoration-none w-100" target="_blank">
+                        Acessar a live
+                      </a>
+                    </button>
                 </span>
             </div>
         {% endif %}

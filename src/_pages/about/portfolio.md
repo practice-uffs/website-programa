@@ -42,8 +42,8 @@ permalink: /portfolio/
             <div class="row">
                 <div class="col-12 text-left">
                     {% assign active_portfolios = portfolios | where: "portfolio","true" %}
-                    {% for flyer in active_portfolios reversed %}
-                    {% include portfolio-list-live.html %}
+                    {% for portfolio in active_portfolios reversed %}
+                        {% include portfolio-list-live.html %}
                     {% endfor %}
                 </div>
             </div>

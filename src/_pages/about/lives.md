@@ -44,7 +44,7 @@ permalink: /portfolio/lives/
       <div class="row">
         <div class="col-12 text-left">
           {% assign flyers = lives | sort: "flyer" %}
-          {% for flyer in flyers reversed %}
+          {% for portfolio in flyers reversed %}
             {% include portfolio-list.html %}
           {% endfor %}
         </div>
