@@ -10,7 +10,7 @@ permalink: /portfolio/
     <div class="container">
         <div class="row align-items-center pt-2">
             <div class="col-12 col-md-8 col-lg-7">
-                <h1>Portifólio</h1>
+                <h1>Portfólio</h1>
                 <h2>Um pouco sobre nossos projetos realizados</h2>
                 <p class="lead">Criamos e ajudados a executar muitos projetos, materiais e iniciativas. Conheça as principais delas.</p>
                 <p class="text-sm text-gray-400">
