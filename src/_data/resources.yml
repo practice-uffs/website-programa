@@ -1,5 +1,26 @@
 - resource: left
   active: true
+  file: https://cdn.uffs.cc/practice/website/resources/cartilha-de-apoio-a-saude-mental.pdf
+  title: "Cartilha de apoio para saúde mental dos estudantes"
+  description: "Essa cartilha foi elaborada com atenção especial à vida e 
+  saúde do estudante da universidade. Tem objetivo de informar e auxiliar 
+  os estudantes de graduação a identificarem possíveis problemas que envolvem 
+  sua saúde mental, e saberem como e onde buscar ajuda"
+  modified: 2022
+  image: /images/resources/cartilha-de-apoio-para-saude-mental-dos-estudantes.png
+
+- resource: right
+  active: true
+  file: https://cdn.uffs.cc/practice/website/resources/principais-orgaos-e-funcoes-da-UFFS.pptx.pdf
+  title: "Principais órgãos da UFFS e suas funções"
+  description: "O PRACTICE elaborou essa cartilha no intuito de auxiliar os 
+  acadêmicos facilitando o acesso às informações relacionadas aos órgãos da 
+  UFFS e das funções que cada órgão desenvolve."
+  modified: 2022
+  image: /images/resources/principais-orgaos-da-uffs-e-suas-funcoes.png
+
+- resource: left
+  active: true
   file: https://cdn.uffs.cc/practice/website/resources/orientacoes-de-uso-da-plataforma-moodle.pptx.pdf
   title: "Orientações de uso da Plataforma Moodle"
   description: "Essa cartilha tem como objetivo auxiliar os acadêmicos da UFFS,
