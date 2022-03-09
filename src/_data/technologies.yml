@@ -9,25 +9,12 @@
   e realizar tarefas nesse contexto. Não sabe como fazer algo, ou não sabe sobre algo da Universidade? A Aura te ajuda, 24 horas por dia, 7 dias por semana."
   url: https://drive.google.com/file/d/1nAc5sOaraClQECv31hVw8rJqSoXq-jdj/view?usp=sharing
   github: https://github.com/practice-uffs
-  image: /images/aura-icon.png
+  image: /images/icons/aura-icon.png
   hero_image: 
   status: project
   project_doc:
 
-- technology: 
-  id: mural
-  active: true 
-  title: Mural
-  subtitle: Uma ponte entre você e a construção de uma universidade melhor.
-  short_description: Central de ideias e solicitações.
-  description: "Essa é a plataforma oficial do programa, onde a comunidade acadêmica pode 
-  solicitar e acompanhar serviços. Além disso, você pode dar sugestões de melhorias e ideias, 
-  fazendo parte do crescimento do programa e inovação da UFFS."
-  url: https://practice.uffs.edu.br/mural
-  github: https://github.com/practice-uffs/mural
-  image: /images/logo-icon.png
-  hero_image: 
-  status: ready
+
 
 - technology: 
   id: aplicativo
@@ -47,23 +34,22 @@
   hero_image: 
   status: ready
 
+
+
 - technology: 
-  id: app-saude
+  id: mural
   active: true 
-  title: Bem-Estar
-  subtitle: Um aplicativo para ajudar a manter a sua saúde acadêmica em dia.
-  short_description: Aplicativo para smartphone.
-  description: "Uma das metas do programa é trabalhar em prol de sua comunidade acadêmica.
-  Isso inclui bem-estar. O aplicativo Practice Bem-Estar foi pensado para abordar temas de
-  saúde física e mental. Há informações sobre alimentação, exercícios e sono, além formas de acesso a redes de ajuda.
-  Além disso, o aplicativo conta com questionários de monitoramento de ações do usuário,
-  como atividades físicas, humor, etc. Baseado nos dados informados, o aplicativo dará dicas
-  personalizadas sobre esses assuntos."
-  url:
-  github: https://github.com/practice-uffs/app-saude
-  image: /images/logo-icon.png
+  title: Mural
+  subtitle: Uma ponte entre você e a construção de uma universidade melhor.
+  short_description: Central de ideias e solicitações.
+  description: "Essa é a plataforma oficial do programa, onde a comunidade acadêmica pode 
+  solicitar e acompanhar serviços. Além disso, você pode dar sugestões de melhorias e ideias, 
+  fazendo parte do crescimento do programa e inovação da UFFS."
+  url: https://practice.uffs.edu.br/mural
+  github: https://github.com/practice-uffs/mural
+  image: /images/icons/mural-icon.png
   hero_image: 
-  status: doing
+  status: ready
 
 - technology: 
   id: app-uffs-virtual
@@ -78,7 +64,7 @@
   ter uma listagem de costumes, locais interessantes, coisas para fazer e conhecer, na palma da mão?"
   url:
   github: https://github.com/practice-uffs/app-uffs-virtual
-  image: /images/logo-icon.png
+  image: /images/icons/uffsboasvindas-icon .png
   hero_image: 
   status: doing  
 
@@ -95,9 +81,27 @@
   web UFFS Virtual."
   url:
   github: https://github.com/practice-uffs/uffs-virtual
-  image: /images/logo-icon.png
+  image: /images/icons/uffsvirtual-icon.png
   hero_image: 
   status: project    
+
+- technology: 
+  id: app-saude
+  active: true 
+  title: Bem-Estar
+  subtitle: Um aplicativo para ajudar a manter a sua saúde acadêmica em dia.
+  short_description: Aplicativo para smartphone.
+  description: "Uma das metas do programa é trabalhar em prol de sua comunidade acadêmica.
+  Isso inclui bem-estar. O aplicativo Practice Bem-Estar foi pensado para abordar temas de
+  saúde física e mental. Há informações sobre alimentação, exercícios e sono, além formas de acesso a redes de ajuda.
+  Além disso, o aplicativo conta com questionários de monitoramento de ações do usuário,
+  como atividades físicas, humor, etc. Baseado nos dados informados, o aplicativo dará dicas
+  personalizadas sobre esses assuntos."
+  url:
+  github: https://github.com/practice-uffs/app-saude
+  image: /images/icons/bemestar-icon.png
+  hero_image: 
+  status: doing
 
 - technology: 
   id: forms
@@ -111,7 +115,7 @@
   crie formulários, enquetes e afins usando o Practice Forms."
   url: https://practice.uffs.edu.br/forms
   github: https://github.com/practice-uffs/forms
-  image: /images/logo-icon.png
+  image: /images/icons/forms-icon.png
   hero_image: 
   status: doing
 
@@ -128,7 +132,7 @@
   adicionar imagens e elementos contextualizados."
   url: https://practice.uffs.edu.br/maker
   github: https://github.com/practice-uffs/maker  
-  image: /images/logo-icon.png
+  image: /images/icons/maker-icon.png
   hero_image: 
   status: doing  
 
