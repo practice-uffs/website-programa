@@ -93,8 +93,8 @@
   place: Passo Fundo, RS
   bond: Bolsista
 
-- person: true
-  actingTime: Outubro de 2021 até hoje
+- person: false
+  actingTime: Outubro de 2021 até Março de 2022
   name: Ana Caroline Geremia
   email: geremiaanacaroline@gmail.com
   position: con-midia-AVA
@@ -394,11 +394,11 @@
   name: Milena Sávio Pastorini Paz
   email: milena.pastorini2016@gmail.com
   position: con-midia-live
-  formation: Acadêmica de Ciências Biológicas
+  formation: Licenciada em Ciências Biológicas
   avatar: /images/equipe/milena-savio-pastorini-paz.png
   github: https://github.com/MilenaPaz2020
   place: Realeza, PR
-  bond: Bolsista
+  bond: Voluntária
 
 - person: true
   actingTime: Outubro de 2020 até hoje
