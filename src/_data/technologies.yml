@@ -47,7 +47,7 @@
   fazendo parte do crescimento do programa e inovação da UFFS."
   url: https://practice.uffs.edu.br/mural
   github: https://github.com/practice-uffs/mural
-  image: /images/icons/mural-icon.png
+  image: /images/icons/mural-icon.svg
   hero_image: 
   status: ready
 
@@ -64,7 +64,7 @@
   ter uma listagem de costumes, locais interessantes, coisas para fazer e conhecer, na palma da mão?"
   url:
   github: https://github.com/practice-uffs/app-uffs-virtual
-  image: /images/icons/uffsboasvindas-icon .png
+  image: /images/icons/boasvindas-icon.svg
   hero_image: 
   status: doing  
 
@@ -99,7 +99,7 @@
   personalizadas sobre esses assuntos."
   url:
   github: https://github.com/practice-uffs/app-saude
-  image: /images/icons/bemestar-icon.png
+  image: /images/icons/bemestar-icon.svg
   hero_image: 
   status: doing
 
@@ -115,7 +115,7 @@
   crie formulários, enquetes e afins usando o Practice Forms."
   url: https://practice.uffs.edu.br/forms
   github: https://github.com/practice-uffs/forms
-  image: /images/icons/forms-icon.png
+  image: /images/icons/forms-icon.svg
   hero_image: 
   status: doing
 
@@ -132,7 +132,7 @@
   adicionar imagens e elementos contextualizados."
   url: https://practice.uffs.edu.br/maker
   github: https://github.com/practice-uffs/maker  
-  image: /images/icons/maker-icon.png
+  image: /images/icons/maker-icon.svg
   hero_image: 
   status: doing  
 
