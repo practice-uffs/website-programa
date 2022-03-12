@@ -197,11 +197,11 @@
   name: Gessica Tagliapietra Zanon
   email: gessicataglipietra@gmail.com
   position: con-conteudo
-  formation: Acadêmica de Física
+  formation: Licenciada em Física
   avatar: /images/equipe/gessica-tagliapietra-zanon.jpg
   github: https://github.com/GessicaZanon
   place: Realeza, PR
-  bond: Bolsista
+  bond: Voluntária
 
 - person: true
   actingTime: Março de 2021 até hoje
@@ -290,8 +290,8 @@
   place: Realeza, PR
   bond: Bolsista
 
-- person: true
-  actingTime: Outubro de 2021 até hoje
+- person: false
+  actingTime: Outubro de 2021 até março de 2022
   name: Leonardo Egidio Santin Dall’agnol
   email: leonardo.sdallagnol@gmail.com
   position: con-midia-AVA
