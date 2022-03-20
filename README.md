@@ -41,7 +41,7 @@ gem install bundler
 Você precisa ter o [git](https://gitforwindows.org/) e um editor de código qualquer, ex.: [Visual Studio Code](https://code.visualstudio.com), disponíveis:
 
 ```
-sudo apt-get install git code
+sudo apt install git
 ```
 
 #### 2.2 Instale o Ruby
@@ -49,7 +49,7 @@ sudo apt-get install git code
 Instale a última versão do [Ruby](https://www.ruby-lang.org):
 
 ```
-sudo apt-get install ruby-full build-essential zlib1g-dev
+sudo apt install ruby-full build-essential zlib1g-dev
 ```
 
 A partir desse ponto, não é recomendado a utilização de uma conta _root_. Use a sua própria conta de usuário.
@@ -86,6 +86,10 @@ O site é construído com base no [Jekyll](https://jekyllrb.com), que usa o bund
 gem install bundler
 ```
 
+```
+sudo apt install ruby-bundler
+```
+
 ## Manuseio do site
 
 Se você seguiu os pré-requisitos de instalação, a partir desse ponto você pode testar o site localmente na sua máquina. Siga os passos abaixo para 
@@ -101,7 +105,8 @@ Faça ***fork*** do repositório do site pelo Github.
 ```
 git clone https://github.com/SEU_USUARIO/website-programa.git && cd website-programa
 ```
-Instale todas as dependências:
+
+Acessando o clone via terminal então instale todas as dependências:
 
 ```
 cd src
