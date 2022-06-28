@@ -148,12 +148,12 @@
   place: Chapecó, SC  
   bond: Bolsista
 
-- person: true
-  actingTime: Outubro de 2020 até hoje
+- person: false
+  actingTime: Outubro de 2020 até Junho de 2022
   name: Claudineia Vieira Raimundi
   email: claudineia.v.raimundi@gmail.com
   position: ger-aux
-  formation: Acadêmica de Engenharia Ambiental e Sanitária
+  formation: Bacharel em Engenharia Ambiental e Sanitária
   avatar: /images/equipe/claudineia-vieira-raimundi.jpeg
   github: https://github.com/Claudineia-VR
   place: Chapecó, SC  
@@ -168,6 +168,17 @@
   avatar: /images/equipe/cleisson-raimundi.png
   github: https://github.com/CleissonVieira
   place: Chapecó, SC  
+  bond: Bolsista
+
+- person: true
+  actingTime: Junho de 2022 até hoje
+  name: Eduardo Fernando Dias
+  email: edu.dias071002@gmail.com
+  position: con-design
+  formation: Acadêmico de Física
+  avatar: /images/equipe/eduardo-fernando-dias.jpg
+  github: https://github.com/Edu-F-Dias
+  place: Realeza, PR 
   bond: Bolsista
 
 - person: false
@@ -266,6 +277,17 @@
   formation: 
   avatar: 
   github: 
+  bond: Bolsista
+
+- person: true
+  actingTime: Junho de 2022 até hoje
+  name: Júlia Zanini
+  email: juliagaboardi96@gmail.com
+  position: con-midia-AVA
+  formation: Acadêmica de Pedagogia
+  avatar: /images/equipe/julia-zanini.jpeg
+  github: https://github.com/julia-zanini
+  place: Laranjeiras do Sul, PR 
   bond: Bolsista
 
 - person: false
@@ -474,6 +496,17 @@
   formation: Acadêmico de Física
   avatar: /images/equipe/robison-jose-santos-silva.jpg
   github: https://github.com/robisonjose
+  place: Realeza, PR
+  bond: Bolsista
+
+- person: true
+  actingTime: Junho de 2022 até hoje
+  name: Saene Viceli
+  email: saenevicei@gmail.com
+  position: con-design
+  formation: Acadêmica de Física
+  avatar: /images/equipe/saene-viceli.jpg
+  github: https://github.com/Saene99
   place: Realeza, PR
   bond: Bolsista
 
