@@ -1,0 +1,28 @@
+<section class="container-fluid fixed-bottom aura-widget">
+    <div class="row">
+        <div class="col">
+
+            <div class="aura-view-chat" id="auraWidget" style="display: none;">
+                <div data-name="aura" id="tab_aura" style="height: 100%;">
+                    <iframe class="aura-chat" src="http://api.tests.practice.uffs.cc/v0/widgets/aura?type=fullscreen" frameborder="0" ></iframe>
+                </div>
+            </div>
+
+        </div>
+        <div class="w-100"></div>
+        <div class="col">
+
+            <button 
+                type="button" 
+                data-placement="top" 
+                data-toggle="tooltip" 
+                title="Clique para conversar com a Aura"
+                class="aura-btn btn-light open-button"
+                onclick="openAuraWidget()"
+            >
+                <img class="aura-btn-icon" width="100%" alt="Aura" src="/images/icons/aura-icon.png"/>
+            </button>
+            
+        </div>
+    </div>
+</section>

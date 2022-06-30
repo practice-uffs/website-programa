@@ -6323,6 +6323,43 @@ header .dropdown-toggle {
     transform: translate(-50%, -50%);
 }
 
+
+/* Widget aura */
+
+.aura-view-chat {
+    display: none;
+    float: right;
+    margin-bottom: 10px;
+}
+
+.aura-chat {
+    width: 450px;
+    height: 650px;
+    border-radius: 5px;
+}
+
+.aura-btn {
+    float: right;
+    width: 80px;
+    height: 80px;
+    margin-left: 10px;
+    border-radius: 50px;
+    margin-bottom: 12px;
+}
+
+@media only screen and (max-width: 600px) {
+    .aura-chat {
+        width: 350px;
+        height: 500px;
+    }
+
+    .aura-btn {
+        width: 70px;
+        height: 70px;
+    }
+}
+
+
 /* https://codepen.io/javiergnz/pen/dyoEoee */
 
 .lines-container {
