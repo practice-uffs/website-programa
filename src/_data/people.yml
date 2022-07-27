@@ -1,6 +1,6 @@
 # Coordenação
 - person: true
-  actingTime: Junho de 2020 até setembro de 2020
+  actingTime: Junho de 2020 até hoje
   name: Elisângela Ribas
   email: elisangela.santos@uffs.edu.br
   position: coor-geral
@@ -12,7 +12,7 @@
   bond: Coordenador
 
 - person: false
-  actingTime: Junho de 2020 até hoje
+  actingTime: Junho de 2020 até Julho de 2022
   name: Fernando Bevilacqua
   email: fernando.bevilacqua@uffs.edu.br
   position: coor-geral
@@ -36,7 +36,7 @@
   bond: Coordenador
 
 - person: false
-  actingTime: Junho de 2020 até hoje
+  actingTime: Junho de 2020 até Julho de 2022
   name: Maurício Fernando Bozatski
   email: mauricio@uffs.edu.br
   position: coor-geral
@@ -61,7 +61,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Junho de 2020 até abril de 2021
+  actingTime: Junho de 2020 até Abril de 2021
   name: Alessandra Pedrotti
   email: alessandrapedrotti24@gmail.com
   position: ger-aux
@@ -83,7 +83,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Outubro de 2020 até agosto de 2021
+  actingTime: Outubro de 2020 até Agosto 2021
   name: Ana Carolina Morigi da Cruz Silveira
   email: anacarolinamorigi@gmail.com
   position: con-design
@@ -116,7 +116,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Junho de 2020 até maio de 2021
+  actingTime: Junho de 2020 até Maio de 2021
   name: Andrew Malta Silva
   email: andrewsaxx@gmail.com
   position: dev
@@ -182,7 +182,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Junho de 2020 até junho de 2021
+  actingTime: Junho de 2020 até Junho de 2021
   name: Estela Maris Vilas Boas
   email: estelavilasboas01@gmail.com
   position: con-design
@@ -193,7 +193,7 @@
   bond: Bolsista
 
 - person: true
-  actingTime: Março de 2020 até hoje
+  actingTime: Maio de 2021 até hoje
   name: Eweline Elen Trojan
   email: wewetrojan@gmail.com
   position: con-conteudo
@@ -203,8 +203,8 @@
   place: Chapecó, SC  
   bond: Bolsista
 
-- person: true
-  actingTime: Outubro de 2020 até hoje
+- person: false
+  actingTime: Outubro de 2020 até Fevereiro de 2022
   name: Gessica Tagliapietra Zanon
   email: gessicataglipietra@gmail.com
   position: con-conteudo
@@ -248,7 +248,7 @@
   bond: Voluntária
 
 - person: false
-  actingTime: Junho de 2020 até setembro de 2021
+  actingTime: Junho de 2020 até Setembro de 2021
   name: Jean Carlo Hilger
   email: hilgerjeancarlo@gmail.com
   position: dev
@@ -270,7 +270,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Outubro de 2020 até outubro de 2020
+  actingTime: Outubro de 2020 até Outubro de 2020
   name: Julia Gaio
   email: 
   position: con-midia-AVA
@@ -291,7 +291,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Junho de 2020 até setembro de 2021
+  actingTime: Junho de 2020 até Setembro de 2021
   name: Junior Vitor Ramisch
   email: junior.ramisch@estudante.uffs.edu.br
   position: dev
@@ -313,7 +313,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Outubro de 2021 até março de 2022
+  actingTime: Outubro de 2021 até Março de 2022
   name: Leonardo Egidio Santin Dall’agnol
   email: leonardo.sdallagnol@gmail.com
   position: con-midia-AVA
@@ -335,7 +335,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Junho de 2020 até setembro de 2020
+  actingTime: Junho de 2020 até Setembro de 2020
   name: Lucas Ferreira
   email: lucas.colegioagricola@gmail.com
   position: con-conteudo
@@ -346,7 +346,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Julho de 2021 até setembro de 2021
+  actingTime: Julho de 2021 até Setembro de 2021
   name: Lucas Frarão
   email: lucasfraraor@gmail.com
   position: con-design
@@ -411,8 +411,8 @@
   place: Laranjeiras do Sul, PR
   bond: Bolsista
 
-- person: true
-  actingTime: Outubro de 2020 até hoje
+- person: false
+  actingTime: Outubro de 2020 até Fevereiro de 2022
   name: Milena Sávio Pastorini Paz
   email: milena.pastorini2016@gmail.com
   position: con-midia-live
@@ -445,7 +445,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Novembro de 2020 até setembro de 2021
+  actingTime: Outubro de 2020 até Outubro de 2021
   name: Pedro Augusto Maximowski
   email: pedromaximowski123@gmail.com
   position: con-midia-live
@@ -456,7 +456,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Outubro de 2020 até janeiro de 2021
+  actingTime: Outubro de 2020 até Janeiro 2021
   name: Rafael da Costa Guilman
   email: rafaguilman@gmail.com
   position: con-midia-live
@@ -467,7 +467,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Outubro de 2020 até maio de 2021
+  actingTime: Outubro de 2020 até Maio de 2021
   name: Raphael Borges Dos Santos Filho
   email: oborgesrapha@gmail.com
   position: dev
@@ -478,7 +478,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Outubro de 2020 até janeiro de 2021
+  actingTime: Outubro de 2020 até Janeiro de 2021
   name: Ricardo Patrik Manfro
   email: ricardopynthayaty@gmail.com
   position: con-design
@@ -522,7 +522,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Outubro de 2020 até abril de 2022
+  actingTime: Outubro de 2020 até Abril de 2022
   name: Taynara Chayane Christmann
   email: taynarachayanec@gmail.com
   position: con-design
@@ -533,7 +533,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Outubro de 2020 até maio de 2021
+  actingTime: Outubro de 2020 até Maio de 2021
   name: Thalía Lopes Friedrich
   email: thalia.friedrich27@gmail.com
   position: con-conteudo
@@ -555,7 +555,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Junho de 2020 até junho de 2021
+  actingTime: Junho de 2020 até Junho de 2021
   name: Vinícius dos Reis
   email: viniciusdosreis312@gmail.com
   position: con-midia-AVA
@@ -566,7 +566,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Junho de 2020 até abril de 2021
+  actingTime: Junho de 2020 até Abril de 2021
   name: Vinícius França Alves
   email: viniciusfrancap@hotmail.com
   position: ger-aux
