@@ -1,9 +1,9 @@
 # Coordenação
-- person: false
+- person: true
   actingTime: Junho de 2020 até setembro de 2020
   name: Elisângela Ribas
   email: elisangela.santos@uffs.edu.br
-  position: coor-tec
+  position: coor-geral
   uffs: Pedagoga
   formation: Doutora em Educação, em Ciências e Matemática
   avatar: /images/equipe/elisangela-ribas.jpg
@@ -11,7 +11,7 @@
   place: Chapecó, SC  
   bond: Coordenador
 
-- person: true
+- person: false
   actingTime: Junho de 2020 até hoje
   name: Fernando Bevilacqua
   email: fernando.bevilacqua@uffs.edu.br
@@ -35,7 +35,7 @@
   place: Chapecó, SC  
   bond: Coordenador
 
-- person: true
+- person: false
   actingTime: Junho de 2020 até hoje
   name: Maurício Fernando Bozatski
   email: mauricio@uffs.edu.br
@@ -168,7 +168,7 @@
   avatar: /images/equipe/cleisson-raimundi.png
   github: https://github.com/CleissonVieira
   place: Chapecó, SC  
-  bond: Bolsista
+  bond: Voluntário
 
 - person: true
   actingTime: Junho de 2022 até hoje
@@ -262,7 +262,7 @@
   actingTime: Outubro de 2021 até hoje
   name: Júlia Gaboardi Bodanese
   email: juliagaboardi96@gmail.com
-  position: con-conteudo
+  position: ger-aux
   formation: Acadêmica de Letras
   avatar: /images/equipe/julia-gaboardi-bodanese.jpg
   github: https://github.com/JuliaGaboardiB
