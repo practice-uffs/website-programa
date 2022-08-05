@@ -62,11 +62,11 @@
   há diferenças culturais e regionais que tornam o processo mais difícil do que deveria ser. O aplicativo UFFS Boas-vindas
   ajudará a comunidade acadêmica da UFFS, especialmente recém chegados, a conhecer onde está estudando. Já pensou
   ter uma listagem de costumes, locais interessantes, coisas para fazer e conhecer, na palma da mão?"
-  url:
+  url: https://play.google.com/store/apps/details?id=cc.uffs.practice.app_boas_vindas
   github: https://github.com/practice-uffs/app-uffs-virtual
   image: /images/icons/boasvindas-icon.svg
   hero_image: 
-  status: doing  
+  status: ready  
 
 - technology: 
   id: uffs-virtual
