@@ -2,7 +2,31 @@
 layout: default
 ---
 
-<div id="main" role="main">
+
+<style>
+
+@media screen and (min-width: 56.25em) {
+    #main .inner-wrap {
+        margin-right: 3.35765%;
+        width: 75%;
+    }
+
+}
+
+#main .page-title {
+	text-align: center;
+}
+
+
+.wrap {
+    max-width: 90em;
+}
+
+
+</style>
+
+
+<div id="main" role="main" >
 	<article class="wrap text-justify" itemscope itemtype="http://schema.org/Article" style="margin-top: 90px;">
 		{% if page.image.feature %}
 		<div class="page-feature">
@@ -14,8 +38,8 @@ layout: default
 		{% endif %}
 		{% include breadcrumbs.html %}
 		<div class="page-title">
-			<h1>{{ page.title }}</h1>
-			{% include page-meta.html %}
+			<h1 class="mb-3">{{ page.title }}</h1>
+			<i>{% include page-meta.html %}</i>
 		</div>
 		<div class="inner-wrap">
 			<div id="content" itemprop="articleBody">
@@ -41,7 +65,7 @@ layout: default
 				<div class="row">
 				  <div class="col-12 text-left">
 					{% for post in site.categories.noticias limit: 2 %}
-						{% include post-grid-mini.html %}
+						{% include post-grid-mini-latest-news.html %}
 					{% endfor %}
 				  </div>
 				</div>
