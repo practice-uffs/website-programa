@@ -159,7 +159,7 @@
   place: Chapecó, SC  
   bond: Bolsista
 
-- person: true
+- person: false
   actingTime: Junho de 2020 até hoje
   name: Cleisson Vieira Raimundi
   email: cleisson.raimundi@estudante.uffs.edu.br
@@ -214,7 +214,7 @@
   place: Realeza, PR
   bond: Voluntária
 
-- person: true
+- person: false
   actingTime: Março de 2021 até hoje
   name: Guilherme Rafael Graeff
   email: guilherme.rafael.graeff@gmail.com
@@ -574,4 +574,26 @@
   avatar: /images/equipe/vinicius-alves.jpeg
   github: https://github.com/VIF-Franca
   place: Laranjeiras do Sul, PR
+  bond: Bolsista
+
+- person: true
+  actingTime: Setembro de 2022 até hoje
+  name: Robert Biasoli Drey
+  email: dreyrobert@gmail.com
+  position: dev
+  formation: Acadêmico de Ciência da Computação
+  avatar: /images/equipe/robert-drey.jpeg
+  github: https://github.com/dreyrobert
+  place: Chapecó, SC  
+  bond: Bolsista
+
+- person: true
+  actingTime: Agosto de 2022 até hoje
+  name: Ryan Marconi Ten Caten
+  email: tencatenryan11@gmail.com
+  position: dev
+  formation: Acadêmico de Ciência da Computação
+  avatar: /images/equipe/ryan-marconi.jpeg
+  github: https://github.com/marconiryan
+  place: Chapecó, SC  
   bond: Bolsista
