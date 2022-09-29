@@ -355,10 +355,3 @@ $(function() {
         ctx.fillRect(0, 0, w, h);
     });
 });
-
-// Widget Aura
-function openAuraWidget() {
-    var display = document.getElementById("auraWidget").style.display;
-    if(display == "block") document.getElementById("auraWidget").style.display = "none";
-    else if (display == "none") document.getElementById("auraWidget").style.display = "block";
-}
