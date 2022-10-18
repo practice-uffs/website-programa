@@ -71,7 +71,7 @@
   place: Chapecó, SC  
   bond: Bolsista
 
-- person: true
+- person: false
   actingTime: Março de 2021 até hoje
   name: Alisson Luan de Lima Peloso
   email: alisson.luan2000@gmail.com
@@ -192,7 +192,7 @@
   place: Chapecó, SC  
   bond: Bolsista
 
-- person: true
+- person: false
   actingTime: Maio de 2021 até hoje
   name: Eweline Elen Trojan
   email: wewetrojan@gmail.com
@@ -225,7 +225,7 @@
   place: Chapecó, SC  
   bond: Bolsista
 
-- person: true
+- person: false
   actingTime: Julho de 2021 até hoje
   name: Guilherme Smorcinski Nerling
   email: guilherme.devon@gmail.com
@@ -236,7 +236,7 @@
   place: Chapecó, SC  
   bond: Bolsista
 
-- person: true
+- person: false
   actingTime: Junho de 2020 até hoje
   name: Isabeli Reik
   email: isabelireik2@gmail.com
@@ -258,7 +258,7 @@
   place: Chapecó, SC  
   bond: Voluntário
 
-- person: true
+- person: false
   actingTime: Outubro de 2021 até hoje
   name: Júlia Gaboardi Bodanese
   email: juliagaboardi96@gmail.com
@@ -356,7 +356,7 @@
   place: Realeza, PR
   bond: Bolsista
 
-- person: true
+- person: false
   actingTime: Outubro de 2020 até hoje
   name: Luiz Eduardo Dameda
   email: luiz.edu.dameda@gmail.com
@@ -367,7 +367,7 @@
   place: Passo Fundo, RS
   bond: Bolsista
 
-- person: true
+- person: false
   actingTime: Junho de 2020 até hoje
   name: Maria Gelain
   email: mariaegelain9@gmail.com
@@ -505,12 +505,12 @@
   email: saenevicei@gmail.com
   position: con-design
   formation: Acadêmica de Física
-  avatar: /images/equipe/saene-viceli.jpg
+  avatar: /images/equipe/saene-viceli.jpeg
   github: https://github.com/Saene99
   place: Realeza, PR
   bond: Bolsista
 
-- person: true
+- person: false
   actingTime: Março de 2021 até hoje
   name: Stefani Caroline Frare Meneghetti
   email: meneghettistefani@gmail.com
@@ -543,7 +543,7 @@
   place: Cerro Largo, RS
   bond: Bolsista
 
-- person: true
+- person: false
   actingTime: Outubro de 2021 até hoje
   name: Vanderléia Pedrotti
   email: vandy.pedrotti@gmail.com
@@ -597,3 +597,38 @@
   github: https://github.com/marconiryan
   place: Chapecó, SC  
   bond: Bolsista
+
+- person: true
+  actingTime: Outubro de 2022 até hoje
+  name: Romane Demosthene
+  email: romane.demosthene509@gmail.com
+  position: dev
+  formation: Acadêmico de Ciência da Computação
+  avatar: /images/equipe/romane-demosthene.jpeg
+  github: https://github.com/demostheneromane
+  place: Chapecó, SC  
+  bond: Bolsista
+  
+- person: true
+  actingTime: Outubro de 2022 até hoje
+  name: Gustavo Guilherme Sutil Alberton
+  email: gustavogsalberton@gmail.com
+  position: dev
+  formation: Acadêmico de Ciência da Computação
+  avatar: /images/equipe/gustavo-guilherme-sutil-alberton.jpeg
+  github: https://github.com/gustavoSutil
+  place: Chapecó, SC  
+  bond: Bolsista
+
+- person: true
+  actingTime: Outubro de 2022 até hoje
+  name: André Lucas Machado Giachini
+  email: dirtzuke@gmail.com 
+  position: dev
+  formation: Acadêmico de Ciência da Computação
+  avatar: /images/equipe/andre-lucas-machado-giachini.jpg
+  github: https://github.com/andregiachini
+  place: Chapecó, SC  
+  bond: Bolsista
+
+
