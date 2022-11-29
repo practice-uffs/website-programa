@@ -1,6 +1,6 @@
 - resource: right
   active: true
-  file: http://practice.uffs.edu.br/Guia-do-Estudante/
+  file: https://practice.uffs.edu.br/Guia-do-Estudante/
   title: "Guia do Estudante"
   description: "A trajetória acadêmica pode representar um grande desafio 
   para a maioria dos estudantes, e para auxiliar nesse processo, o PRACTICE 
