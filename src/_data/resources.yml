@@ -1,3 +1,15 @@
+- resource: right
+  active: true
+  file: http://127.0.0.1:4000/Guia-do-Estudante/
+  title: "Guia do Estudante"
+  description: "A trajetória acadêmica pode representar um grande desafio 
+  para a maioria dos estudantes, e para auxiliar nesse processo, o PRACTICE 
+  elaborou o Guia do Estudante. Nele você encontrará diversas dicas e estratégias 
+  para os estudos, organização pessoal, gerenciamento do tempo, e muitas 
+  sugestões de sites e aplicativos para facilitar a implementação dessas dicas."
+  modified: 2022
+  image: /images/resources/Guia_do_Estudante.png
+
 - resource: left
   active: true
   file: https://cdn.uffs.cc/practice/website/resources/cartilha-de-apoio-a-saude-mental.pdf
