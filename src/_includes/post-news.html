@@ -1,24 +1,27 @@
-<div class="p-12 md:w-1/2 flex flex-col items-start">
-    <span class="inline-block py-1 px-2 rounded bg-indigo-50 text-indigo-500 text-xs font-medium tracking-widest">{{ post.categories }}</span>
-    <img class="lg:h-48 md:h-36 w-full object-cover object-center mt-2" src="{{ site.url }}{{ post.image.feature }}" alt="blog">
-    <h2 class="sm:text-3xl text-2xl title-font font-medium text-gray-900 mt-4 mb-4">{{ post.title | strip_html }}</h2>
-    <p class="leading-relaxed mb-8">{{ post.description | strip_html | truncate: 300 }}</p>
-    <div class="flex items-center flex-wrap pb-4 mb-4 mt-auto w-full">
-        <a href="{{ site.url }}{{ post.url }}" class="text-indigo-500 inline-flex items-center">Saber mais
-            <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
-                <path d="M5 12h14"></path>
-                <path d="M12 5l7 7-7 7"></path>
-            </svg>
-        </a>
-        <span class="text-gray-400 mr-3 inline-flex items-center ml-auto leading-none text-sm py-1">
-            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
-            </svg>
-            {% if post.date %}
-                <time datetime="{{ post.date | date: '%Y-%m-%d' }}" itemprop="datePublished">
-                    {% include data.html date=post.date %}
-                </time>
-            {% endif %}
-        </span>
+
+<div class="p-12 md:w-1/2 flex flex-col items-start ">
+    <div class="mx-3">
+        <span class="inline-block py-1 px-2 rounded bg-indigo-50 text-indigo-500 text-xs font-medium tracking-widest">{{ post.categories }}</span>
+        <img class="lg:h-48 md:h-36 w-full object-cover object-center mt-2" src="{{ site.url }}{{ post.image.feature }}" alt="blog">
+        <h2 class="sm:text-3xl text-2xl title-font font-medium text-gray-900 mt-4 mb-4">{{ post.title | strip_html }}</h2>
+        <p class="leading-relaxed mb-8">{{ post.description | strip_html | truncate: 300 }}</p>
+        <div class="flex items-center flex-wrap pb-4 mb-4 mt-auto w-full">
+            <a href="{{ site.url }}{{ post.url }}" class="text-indigo-500 inline-flex items-center">Saber mais
+                <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M5 12h14"></path>
+                    <path d="M12 5l7 7-7 7"></path>
+                </svg>
+            </a>
+            <span class="text-gray-400 mr-3 inline-flex items-center ml-auto leading-none text-sm py-1">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+                </svg>
+                {% if post.date %}
+                    <time datetime="{{ post.date | date: '%Y-%m-%d' }}" itemprop="datePublished">
+                        {% include data.html date=post.date %}
+                    </time>
+                {% endif %}
+            </span>
+        </div>
     </div>
 </div>

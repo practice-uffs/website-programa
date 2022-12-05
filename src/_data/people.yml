@@ -1,9 +1,9 @@
 # Coordenação
-- person: false
-  actingTime: Junho de 2020 até setembro de 2020
+- person: true
+  actingTime: Junho de 2020 até hoje
   name: Elisângela Ribas
   email: elisangela.santos@uffs.edu.br
-  position: coor-tec
+  position: coor-geral
   uffs: Pedagoga
   formation: Doutora em Educação, em Ciências e Matemática
   avatar: /images/equipe/elisangela-ribas.jpg
@@ -11,8 +11,8 @@
   place: Chapecó, SC  
   bond: Coordenador
 
-- person: true
-  actingTime: Junho de 2020 até hoje
+- person: false
+  actingTime: Junho de 2020 até Julho de 2022
   name: Fernando Bevilacqua
   email: fernando.bevilacqua@uffs.edu.br
   position: coor-geral
@@ -35,8 +35,8 @@
   place: Chapecó, SC  
   bond: Coordenador
 
-- person: true
-  actingTime: Junho de 2020 até hoje
+- person: false
+  actingTime: Junho de 2020 até Julho de 2022
   name: Maurício Fernando Bozatski
   email: mauricio@uffs.edu.br
   position: coor-geral
@@ -61,7 +61,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Junho de 2020 até abril de 2021
+  actingTime: Junho de 2020 até Abril de 2021
   name: Alessandra Pedrotti
   email: alessandrapedrotti24@gmail.com
   position: ger-aux
@@ -71,7 +71,7 @@
   place: Chapecó, SC  
   bond: Bolsista
 
-- person: true
+- person: false
   actingTime: Março de 2021 até hoje
   name: Alisson Luan de Lima Peloso
   email: alisson.luan2000@gmail.com
@@ -83,7 +83,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Outubro de 2020 até agosto de 2021
+  actingTime: Outubro de 2020 até Agosto de 2021
   name: Ana Carolina Morigi da Cruz Silveira
   email: anacarolinamorigi@gmail.com
   position: con-design
@@ -116,7 +116,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Junho de 2020 até maio de 2021
+  actingTime: Junho de 2020 até Maio de 2021
   name: Andrew Malta Silva
   email: andrewsaxx@gmail.com
   position: dev
@@ -159,7 +159,7 @@
   place: Chapecó, SC  
   bond: Bolsista
 
-- person: true
+- person: false
   actingTime: Junho de 2020 até hoje
   name: Cleisson Vieira Raimundi
   email: cleisson.raimundi@estudante.uffs.edu.br
@@ -168,7 +168,7 @@
   avatar: /images/equipe/cleisson-raimundi.png
   github: https://github.com/CleissonVieira
   place: Chapecó, SC  
-  bond: Bolsista
+  bond: Voluntário
 
 - person: true
   actingTime: Junho de 2022 até hoje
@@ -182,7 +182,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Junho de 2020 até junho de 2021
+  actingTime: Junho de 2020 até Junho de 2021
   name: Estela Maris Vilas Boas
   email: estelavilasboas01@gmail.com
   position: con-design
@@ -192,8 +192,8 @@
   place: Chapecó, SC  
   bond: Bolsista
 
-- person: true
-  actingTime: Março de 2020 até hoje
+- person: false
+  actingTime: Maio de 2021 até hoje
   name: Eweline Elen Trojan
   email: wewetrojan@gmail.com
   position: con-conteudo
@@ -203,8 +203,8 @@
   place: Chapecó, SC  
   bond: Bolsista
 
-- person: true
-  actingTime: Outubro de 2020 até hoje
+- person: false
+  actingTime: Outubro de 2020 até Fevereiro de 2022
   name: Gessica Tagliapietra Zanon
   email: gessicataglipietra@gmail.com
   position: con-conteudo
@@ -214,7 +214,7 @@
   place: Realeza, PR
   bond: Voluntária
 
-- person: true
+- person: false
   actingTime: Março de 2021 até hoje
   name: Guilherme Rafael Graeff
   email: guilherme.rafael.graeff@gmail.com
@@ -225,7 +225,7 @@
   place: Chapecó, SC  
   bond: Bolsista
 
-- person: true
+- person: false
   actingTime: Julho de 2021 até hoje
   name: Guilherme Smorcinski Nerling
   email: guilherme.devon@gmail.com
@@ -236,7 +236,7 @@
   place: Chapecó, SC  
   bond: Bolsista
 
-- person: true
+- person: false
   actingTime: Junho de 2020 até hoje
   name: Isabeli Reik
   email: isabelireik2@gmail.com
@@ -248,7 +248,7 @@
   bond: Voluntária
 
 - person: false
-  actingTime: Junho de 2020 até setembro de 2021
+  actingTime: Junho de 2020 até Setembro de 2021
   name: Jean Carlo Hilger
   email: hilgerjeancarlo@gmail.com
   position: dev
@@ -258,11 +258,11 @@
   place: Chapecó, SC  
   bond: Voluntário
 
-- person: true
+- person: false
   actingTime: Outubro de 2021 até hoje
   name: Júlia Gaboardi Bodanese
   email: juliagaboardi96@gmail.com
-  position: con-conteudo
+  position: ger-aux
   formation: Acadêmica de Letras
   avatar: /images/equipe/julia-gaboardi-bodanese.jpg
   github: https://github.com/JuliaGaboardiB
@@ -270,7 +270,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Outubro de 2020 até outubro de 2020
+  actingTime: Outubro de 2020 até Outubro de 2020
   name: Julia Gaio
   email: 
   position: con-midia-AVA
@@ -291,7 +291,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Junho de 2020 até setembro de 2021
+  actingTime: Junho de 2020 até Setembro de 2021
   name: Junior Vitor Ramisch
   email: junior.ramisch@estudante.uffs.edu.br
   position: dev
@@ -313,7 +313,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Outubro de 2021 até março de 2022
+  actingTime: Outubro de 2021 até Março de 2022
   name: Leonardo Egidio Santin Dall’agnol
   email: leonardo.sdallagnol@gmail.com
   position: con-midia-AVA
@@ -335,7 +335,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Junho de 2020 até setembro de 2020
+  actingTime: Junho de 2020 até Setembro de 2020
   name: Lucas Ferreira
   email: lucas.colegioagricola@gmail.com
   position: con-conteudo
@@ -346,7 +346,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Julho de 2021 até setembro de 2021
+  actingTime: Julho de 2021 até Setembro de 2021
   name: Lucas Frarão
   email: lucasfraraor@gmail.com
   position: con-design
@@ -356,7 +356,7 @@
   place: Realeza, PR
   bond: Bolsista
 
-- person: true
+- person: false
   actingTime: Outubro de 2020 até hoje
   name: Luiz Eduardo Dameda
   email: luiz.edu.dameda@gmail.com
@@ -367,7 +367,7 @@
   place: Passo Fundo, RS
   bond: Bolsista
 
-- person: true
+- person: false
   actingTime: Junho de 2020 até hoje
   name: Maria Gelain
   email: mariaegelain9@gmail.com
@@ -411,8 +411,8 @@
   place: Laranjeiras do Sul, PR
   bond: Bolsista
 
-- person: true
-  actingTime: Outubro de 2020 até hoje
+- person: false
+  actingTime: Outubro de 2020 até Fevereiro de 2022
   name: Milena Sávio Pastorini Paz
   email: milena.pastorini2016@gmail.com
   position: con-midia-live
@@ -445,7 +445,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Novembro de 2020 até setembro de 2021
+  actingTime: Outubro de 2020 até Outubro de 2021
   name: Pedro Augusto Maximowski
   email: pedromaximowski123@gmail.com
   position: con-midia-live
@@ -456,7 +456,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Outubro de 2020 até janeiro de 2021
+  actingTime: Outubro de 2020 até Janeiro de 2021
   name: Rafael da Costa Guilman
   email: rafaguilman@gmail.com
   position: con-midia-live
@@ -467,7 +467,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Outubro de 2020 até maio de 2021
+  actingTime: Outubro de 2020 até Maio de 2021
   name: Raphael Borges Dos Santos Filho
   email: oborgesrapha@gmail.com
   position: dev
@@ -478,7 +478,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Outubro de 2020 até janeiro de 2021
+  actingTime: Outubro de 2020 até Janeiro de 2021
   name: Ricardo Patrik Manfro
   email: ricardopynthayaty@gmail.com
   position: con-design
@@ -505,12 +505,12 @@
   email: saenevicei@gmail.com
   position: con-design
   formation: Acadêmica de Física
-  avatar: /images/equipe/saene-viceli.jpg
+  avatar: /images/equipe/saene-viceli.jpeg
   github: https://github.com/Saene99
   place: Realeza, PR
   bond: Bolsista
 
-- person: true
+- person: false
   actingTime: Março de 2021 até hoje
   name: Stefani Caroline Frare Meneghetti
   email: meneghettistefani@gmail.com
@@ -522,7 +522,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Outubro de 2020 até abril de 2022
+  actingTime: Outubro de 2020 até Abril de 2022
   name: Taynara Chayane Christmann
   email: taynarachayanec@gmail.com
   position: con-design
@@ -533,7 +533,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Outubro de 2020 até maio de 2021
+  actingTime: Outubro de 2020 até Maio de 2021
   name: Thalía Lopes Friedrich
   email: thalia.friedrich27@gmail.com
   position: con-conteudo
@@ -543,7 +543,7 @@
   place: Cerro Largo, RS
   bond: Bolsista
 
-- person: true
+- person: false
   actingTime: Outubro de 2021 até hoje
   name: Vanderléia Pedrotti
   email: vandy.pedrotti@gmail.com
@@ -555,7 +555,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Junho de 2020 até junho de 2021
+  actingTime: Junho de 2020 até Junho de 2021
   name: Vinícius dos Reis
   email: viniciusdosreis312@gmail.com
   position: con-midia-AVA
@@ -566,7 +566,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Junho de 2020 até abril de 2021
+  actingTime: Junho de 2020 até Abril de 2021
   name: Vinícius França Alves
   email: viniciusfrancap@hotmail.com
   position: ger-aux
@@ -575,3 +575,60 @@
   github: https://github.com/VIF-Franca
   place: Laranjeiras do Sul, PR
   bond: Bolsista
+
+- person: true
+  actingTime: Setembro de 2022 até hoje
+  name: Robert Biasoli Drey
+  email: dreyrobert@gmail.com
+  position: dev
+  formation: Acadêmico de Ciência da Computação
+  avatar: /images/equipe/robert-drey.jpeg
+  github: https://github.com/dreyrobert
+  place: Chapecó, SC  
+  bond: Bolsista
+
+- person: true
+  actingTime: Agosto de 2022 até hoje
+  name: Ryan Marconi Ten Caten
+  email: tencatenryan11@gmail.com
+  position: dev
+  formation: Acadêmico de Ciência da Computação
+  avatar: /images/equipe/ryan-marconi.jpeg
+  github: https://github.com/marconiryan
+  place: Chapecó, SC  
+  bond: Bolsista
+
+- person: true
+  actingTime: Outubro de 2022 até hoje
+  name: Romane Demosthene
+  email: romane.demosthene509@gmail.com
+  position: dev
+  formation: Acadêmico de Ciência da Computação
+  avatar: /images/equipe/romane-demosthene.jpeg
+  github: https://github.com/demostheneromane
+  place: Chapecó, SC  
+  bond: Bolsista
+  
+- person: true
+  actingTime: Outubro de 2022 até hoje
+  name: Gustavo Guilherme Sutil Alberton
+  email: gustavogsalberton@gmail.com
+  position: dev
+  formation: Acadêmico de Ciência da Computação
+  avatar: /images/equipe/gustavo-guilherme-sutil-alberton.jpeg
+  github: https://github.com/gustavoSutil
+  place: Chapecó, SC  
+  bond: Bolsista
+
+- person: true
+  actingTime: Outubro de 2022 até hoje
+  name: André Lucas Machado Giachini
+  email: dirtzuke@gmail.com 
+  position: dev
+  formation: Acadêmico de Ciência da Computação
+  avatar: /images/equipe/andre-lucas-machado-giachini.jpg
+  github: https://github.com/andregiachini
+  place: Chapecó, SC  
+  bond: Bolsista
+
+
