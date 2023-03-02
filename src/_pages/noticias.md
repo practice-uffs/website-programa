@@ -11,7 +11,7 @@ image:
     <h1>Notícias</h1>
     <hr />
   </div>
-  <div class="tiles">
+  <div class="tiles row">
     {% for post in site.categories.noticias %}
       {% include post-news.html %}
     {% endfor %}
