@@ -181,14 +181,14 @@
   production_deadline: "30 dias para o primeiro envio"
 
 - service:
-  product: "Gravações em estúdio"
+  product: "GRAVAÇÕES EM ESTÚDIO"
   id: 1
   description: "Níveis de complexidade para produtos: Gravações de áudio ou vídeo nos estúdios do PRACTICE, utilizando de equipamentos como câmeras, microfones, iluminação, mesa digitalizadora e/ou chromakey. O produto final a ser disponibilizado ao solicitante será apenas a gravação em estúdio, sem edições."
   evaluation_deadline: "3 dias úteis"
   production_deadline: "15 dias para o primeiro envio"
   
 - service:
-  product: "Transmissões ao vivo em estúdio"
+  product: "TRANSMISSÕES AO VIVO EM ESTÚDIO"
   id: 2
   description: "Níveis de complexidade para produtos: Transmissões ao vivo nos estúdios do PRACTICE, utilizando de equipamentos como câmeras, microfones, iluminação, mesa digitalizadora e/ou chromakey. O produto final a ser disponibilizado ao solicitante será apenas a transmissão em estúdio, sem gravações ou edições adicionais."
   evaluation_deadline: "3 dias úteis"
