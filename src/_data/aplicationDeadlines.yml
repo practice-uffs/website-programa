@@ -108,14 +108,14 @@
   id: 1
   description: "Identidade Visual Simples: contém símbolo, logotipo e paleta de cores"
   evaluation_deadline: "5 dias úteis"
-  production_deadline: "22 dias úteis"
+  production_deadline: "15 dias úteis"
 
 - service:
   product: "IMAGEM"
   id: 2
   description: "Identidade Visual Complexa: contém símbolo, logotipo, paleta de cores, marca d’água e padronagem"
   evaluation_deadline: "5 dias úteis"
-  production_deadline: "22 dias úteis"
+  production_deadline: "15 dias úteis"
 
 - service:
   product: "IMAGEM"
@@ -152,6 +152,48 @@
   evaluation_deadline: "3 dias úteis"
   production_deadline: "3 dias úteis"
 
+- service:
+  product: "IMAGEM"
+  id: 8
+  description: "Cartilha Simples: trata-se da criação e diagramação a partir de um material textual pronto disponibilizado pelo solicitante incluindo até 10 páginas. Quando necessária a revisão textual, são adicionados 5 dias ao prazo de produção."
+  evaluation_deadline: "5 dias úteis"
+  production_deadline: "15 dias para o primeiro envio"
+
+- service:
+  product: "IMAGEM"
+  id: 9
+  description: "Cartilha Média: trata-se da criação e diagramação a partir de um material textual pronto disponibilizado pelo solicitante incluindo de 10 até 20 páginas. Quando necessária a revisão textual, são adicionados 5 dias ao prazo de produção."
+  evaluation_deadline: "5 dias úteis"
+  production_deadline: "20 dias para o primeiro envio"
+
+- service:
+  product: "IMAGEM"
+  id: 10
+  description: "Cartilha Complexa: trata-se da criação e diagramação a partir de um material textual pronto disponibilizado pelo solicitante incluindo de 20 até 30 páginas. Quando necessária a revisão textual, são adicionados 5 dias ao prazo de produção."
+  evaluation_deadline: "5 dias úteis"
+  production_deadline: "25 dias para o primeiro envio"
+
+- service:
+  product: "IMAGEM"
+  id: 11
+  description: "Cartilha Extensa: trata-se da criação e diagramação a partir de um material textual pronto disponibilizado pelo solicitante incluindo mais de 30 páginas. Quando necessária a revisão textual, são adicionados 5 dias ao prazo de produção."
+  evaluation_deadline: "5 dias úteis"
+  production_deadline: "30 dias para o primeiro envio"
+
+- service:
+  product: "GRAVAÇÕES EM ESTÚDIO"
+  id: 1
+  description: "Níveis de complexidade para produtos: Gravações de áudio ou vídeo nos estúdios do PRACTICE, utilizando de equipamentos como câmeras, microfones, iluminação, mesa digitalizadora e/ou chromakey. O produto final a ser disponibilizado ao solicitante será apenas a gravação em estúdio, sem edições."
+  evaluation_deadline: "3 dias úteis"
+  production_deadline: "15 dias para o primeiro envio"
+  
+- service:
+  product: "TRANSMISSÕES AO VIVO EM ESTÚDIO"
+  id: 2
+  description: "Níveis de complexidade para produtos: Transmissões ao vivo nos estúdios do PRACTICE, utilizando de equipamentos como câmeras, microfones, iluminação, mesa digitalizadora e/ou chromakey. O produto final a ser disponibilizado ao solicitante será apenas a transmissão em estúdio, sem gravações ou edições adicionais."
+  evaluation_deadline: "3 dias úteis"
+  production_deadline: "15 dias para o primeiro envio"
+  
 - service:
   product: "DESENVOLVIMENTO"
   id: 1
