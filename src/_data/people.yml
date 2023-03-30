@@ -170,7 +170,7 @@
   place: Chapecó, SC  
   bond: Voluntário
 
-- person: true
+- person: false
   actingTime: Junho de 2022 até Fevereiro de 2022
   name: Eduardo Fernando Dias
   email: edu.dias071002@gmail.com
@@ -301,7 +301,7 @@
   place: Chapecó, SC  
   bond: Voluntário
 
-- person: true
+- person: false
   actingTime: Outubro de 2021 até Fevereiro de 2022
   name: Kamila da Rosa
   email: kamiladarosa7@gmail.com
@@ -400,7 +400,7 @@
   place: Porto Alegre, RS
   bond: Voluntário
 
-- person: true
+- person: false
   actingTime: Abril de 2021 até Fevereiro de 2022
   name: Michele Nieradka
   email: michele.nieradka@estudante.uffs.edu.br
@@ -422,7 +422,7 @@
   place: Realeza, PR
   bond: Voluntária
 
-- person: true
+- person: false
   actingTime: Outubro de 2020 até Fevereiro de 2022
   name: Morgana Maciél Oliveira
   email: mormaciel.mo@gmail.com
@@ -598,7 +598,7 @@
   place: Chapecó, SC  
   bond: Bolsista
 
-- person: true
+- person: false
   actingTime: Outubro de 2022 até Fevereiro de 2022
   name: Romane Demosthene
   email: romane.demosthene509@gmail.com
