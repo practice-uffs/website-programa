@@ -72,7 +72,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Março de 2021 até hoje
+  actingTime: Março de 2021 até Setembro de 2022
   name: Alisson Luan de Lima Peloso
   email: alisson.luan2000@gmail.com
   position: dev
@@ -160,7 +160,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Junho de 2020 até hoje
+  actingTime: Junho de 2020 até Setembro de 2022
   name: Cleisson Vieira Raimundi
   email: cleisson.raimundi@estudante.uffs.edu.br
   position: dev
@@ -170,8 +170,8 @@
   place: Chapecó, SC  
   bond: Voluntário
 
-- person: true
-  actingTime: Junho de 2022 até hoje
+- person: false
+  actingTime: Junho de 2022 até Fevereiro de 2022
   name: Eduardo Fernando Dias
   email: edu.dias071002@gmail.com
   position: con-design
@@ -193,7 +193,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Maio de 2021 até hoje
+  actingTime: Maio de 2021 até Setembro de 2022
   name: Eweline Elen Trojan
   email: wewetrojan@gmail.com
   position: con-conteudo
@@ -215,7 +215,7 @@
   bond: Voluntária
 
 - person: false
-  actingTime: Março de 2021 até hoje
+  actingTime: Março de 2021 até Setembro de 2022
   name: Guilherme Rafael Graeff
   email: guilherme.rafael.graeff@gmail.com
   position: dev
@@ -226,7 +226,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Julho de 2021 até hoje
+  actingTime: Julho de 2021 até Setembro de 2022
   name: Guilherme Smorcinski Nerling
   email: guilherme.devon@gmail.com
   position: dev
@@ -259,7 +259,7 @@
   bond: Voluntário
 
 - person: false
-  actingTime: Outubro de 2021 até hoje
+  actingTime: Outubro de 2021 até Setembro de 2022
   name: Júlia Gaboardi Bodanese
   email: juliagaboardi96@gmail.com
   position: ger-aux
@@ -301,8 +301,8 @@
   place: Chapecó, SC  
   bond: Voluntário
 
-- person: true
-  actingTime: Outubro de 2021 até hoje
+- person: false
+  actingTime: Outubro de 2021 até Fevereiro de 2022
   name: Kamila da Rosa
   email: kamiladarosa7@gmail.com
   position: con-design
@@ -357,7 +357,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Outubro de 2020 até hoje
+  actingTime: Outubro de 2020 até Setembro de 2022
   name: Luiz Eduardo Dameda
   email: luiz.edu.dameda@gmail.com
   position: con-design
@@ -368,7 +368,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Junho de 2020 até hoje
+  actingTime: Junho de 2020 até Setembro de 2022
   name: Maria Gelain
   email: mariaegelain9@gmail.com
   position: con-conteudo
@@ -400,8 +400,8 @@
   place: Porto Alegre, RS
   bond: Voluntário
 
-- person: true
-  actingTime: Abril de 2021 até hoje
+- person: false
+  actingTime: Abril de 2021 até Fevereiro de 2022
   name: Michele Nieradka
   email: michele.nieradka@estudante.uffs.edu.br
   position: con-design
@@ -422,8 +422,8 @@
   place: Realeza, PR
   bond: Voluntária
 
-- person: true
-  actingTime: Outubro de 2020 até hoje
+- person: false
+  actingTime: Outubro de 2020 até Fevereiro de 2022
   name: Morgana Maciél Oliveira
   email: mormaciel.mo@gmail.com
   position: ger-aux
@@ -492,7 +492,7 @@
   actingTime: Outubro de 2020 até hoje
   name: Robison José Santos da Silva
   email: robisonjose99@gmail.com
-  position: con-midia-AVA
+  position: ger-aux
   formation: Acadêmico de Física
   avatar: /images/equipe/robison-jose-santos-silva.jpg
   github: https://github.com/robisonjose
@@ -511,7 +511,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Março de 2021 até hoje
+  actingTime: Março de 2021 até Setembro de 2022
   name: Stefani Caroline Frare Meneghetti
   email: meneghettistefani@gmail.com
   position: dev
@@ -544,7 +544,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Outubro de 2021 até hoje
+  actingTime: Outubro de 2021 até Setembro de 2022
   name: Vanderléia Pedrotti
   email: vandy.pedrotti@gmail.com
   position: con-conteudo
@@ -598,8 +598,8 @@
   place: Chapecó, SC  
   bond: Bolsista
 
-- person: true
-  actingTime: Outubro de 2022 até hoje
+- person: false
+  actingTime: Outubro de 2022 até Fevereiro de 2022
   name: Romane Demosthene
   email: romane.demosthene509@gmail.com
   position: dev

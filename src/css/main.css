@@ -6323,6 +6323,72 @@ header .dropdown-toggle {
     transform: translate(-50%, -50%);
 }
 
+
+/* Widget aura */
+
+#aura_iframe{ 
+    position: fixed;
+    bottom: 35px;
+    right: 15px;
+    width: 450px;
+    height: 450px;
+    border: 0;
+    border-radius: 35px;
+    z-index: 10;
+  }
+  
+  #aura_span {
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+    background-color: #ececec;
+    padding: 3px;
+    border-radius: 90px;
+    cursor: pointer;
+    z-index: 11;
+    width: 75px;
+  }
+  
+  .close-button {
+    z-index: 1;
+    width: 80px;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    background: #ECECEC;
+    border-radius: 90px 90px 90px 90px ;
+    transition: all 0.3s;
+  }
+
+  
+@media(max-width: 450px){
+    .close-button {
+      width: 35px !important; 
+      bottom: 80px !important;
+      right: 20px !important;
+      border: 5px #ECECEC solid;
+      outline: #2F7B9A 3px solid;
+      transition: all 0.3s;
+      content: url(" https://cdn-icons-png.flaticon.com/512/2976/2976286.png");
+    }
+    #aura_iframe{
+      height: 100%;
+      width: 100%;
+      top: 0;
+      left: 0;
+      border-radius: 0;
+    }
+    #aura_span {
+      width: 50px;
+      position: fixed;
+      bottom: 10px;
+      right: 10px;
+      border-radius: 90px 90px 90px 90px;
+      transition: all 0.3s;
+    }
+}
+
+
 /* https://codepen.io/javiergnz/pen/dyoEoee */
 
 .lines-container {

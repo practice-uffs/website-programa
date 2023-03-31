@@ -1,0 +1,50 @@
+<section class="container-fluid fixed-bottom aura-widget">
+    <div class="row">
+        <div class="col">
+
+            <div class="aura-view-chat" id="auraWidget" style="display: none;">
+                <div data-name="aura" id="tab_aura" style="height: 100%;">
+                    <iframe class="aura-chat" src="http://api.tests.practice.uffs.cc/v0/widgets/aura?type=fullscreen" frameborder="0" ></iframe>
+                </div>
+            </div>
+
+        </div>
+        <div class="w-100"></div>
+        <div class="col">
+
+            
+        </div>
+
+        <img id="aura_span" class="d-none" height="45px" width="45px" src="/images/icons/aura-icon.png" />
+
+        <iframe id="aura_iframe" class="d-none " src="http://api.tests.practice.uffs.cc/v0/widgets/aura?type=fullscreen" frameborder="0"></iframe>
+    </div>
+
+    <script>
+        var IsClicked = false
+        document.getElementById('aura_span').onclick = function(e){
+            IsClicked = !IsClicked
+            if (IsClicked){
+                document.getElementById("aura_iframe").classList.remove('d-none');
+                document.getElementById("aura_span").classList.add("close-button");
+            } else {
+                document.getElementById("aura_iframe").classList.add('d-none')
+                document.getElementById("aura_span").classList.remove("close-button");
+            }
+        }
+        var xmlHttp = new XMLHttpRequest();
+        try {
+            xmlHttp.open( "GET", "http://api.tests.practice.uffs.cc/v0/widgets/aura?type=fullscreen", false )
+            document.getElementById("aura_span").classList.remove('d-none')
+            xmlHttp.onreadystatechange = () => {
+                if (xmlHttp.status == 404) {
+                    document.getElementById("aura_span").classList.add('d-none')
+                }
+            };
+            xmlHttp.send( null );
+        } catch(err) {
+            console.log(err)
+            document.getElementById("aura_span").classList.add('d-none')
+        }
+    </script>
+</section>
