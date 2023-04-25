@@ -587,8 +587,8 @@
   place: Chapecó, SC  
   bond: Bolsista
 
-- person: true
-  actingTime: Agosto de 2022 até hoje
+- person: false
+  actingTime: Agosto de 2022 até Abril de 2023
   name: Ryan Marconi Ten Caten
   email: tencatenryan11@gmail.com
   position: dev
@@ -631,4 +631,14 @@
   place: Chapecó, SC  
   bond: Bolsista
 
-
+- person: true
+  actingTime: Fevereiro de 2023 até hoje
+  name: Giancarlo D. Salton
+  email: gian@uffs.edu.br
+  position: coor-geral
+  uffs: Professor Ciência da Computação (UFFS/Chapecó)
+  formation: Doutorado em Ciência da Computação
+  avatar: /images/equipe/giancarlo-salton.jpg
+  github: https://github.com/giancds/
+  place: Chapecó, SC  
+  bond: Coordenador
