@@ -2,6 +2,7 @@
 layout: hero
 permalink: /
 title: "Inicial"
+excerpt: 'Conheça o PRACTICE, um programa de ensino, pesquisa, extensão e inovação da Universidade Federal da Fronteira Sul (UFFS), composto por bolsistas e professores que atuam com o objetivo de empoderar tecnologicamente a comunidade acadêmica.'
 image:
     feature: banner-rotulo.png
 ---
