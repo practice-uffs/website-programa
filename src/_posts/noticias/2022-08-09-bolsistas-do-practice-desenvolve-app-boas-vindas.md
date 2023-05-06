@@ -1,5 +1,6 @@
 ---
 title: "Bolsistas do practice desenvolvem app de boas-vindas para estudantes da UFFS."
+description: "Conheça mais sobre o App Boas Vindas e utilize-o no seu dia-a-dia para ter acesso rápido à informações sobre a UFFS."
 source: https://play.google.com/store/apps/details?id=cc.uffs.practice.app_boas_vindas
 layout: article
 categories: noticias
