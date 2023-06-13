@@ -10,7 +10,7 @@ permalink: /uffsboasvindas/
     <div class="mobile-wrapper">
         <div class="mobile">
             <div class="photo"></div>
-            <div class="screen"></div>
+            <div class="screenBoasVindas"></div>
         </div>
     </div>
 </section>
@@ -38,7 +38,7 @@ permalink: /uffsboasvindas/
 <section class="text-gray-600 body-font">
   <div class="container px-5 py-24 mx-auto flex flex-wrap">
     <div class="lg:w-1/2 w-full mb-10 lg:mb-0 rounded-lg overflow-hidden">
-      <img alt="feature" class="object-center w-80 transform mx-auto" src="/images/pages/uffsboasvindas/uffsboasvindas.png">
+      <img alt="feature" class="object-center w-80 transform mx-auto" src="/images/pages/uffsboasvindas/guiacalouros.png">
     </div>
     <div class="flex flex-col flex-wrap lg:py-6 -mb-10 lg:w-1/2 lg:pl-12 lg:text-left text-center">
       <div class="flex flex-col mb-10 items-center">

@@ -6322,6 +6322,18 @@ header .dropdown-toggle {
     top: 50%;
     transform: translate(-50%, -50%);
 }
+.mobile-wrapper .mobile .screenBoasVindas {
+    border-radius: 20px;
+    width: 95%;
+    height: 98%;
+    background: url(../images/pages/uffsboasvindas/uffsboasvindass.jpg) no-repeat center;
+    background-size: cover;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 3;
+}
 
 
 /* Widget aura */
