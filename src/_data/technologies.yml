@@ -52,6 +52,23 @@
   status: ready
 
 - technology: 
+  id: tour_virtual
+  active: true 
+  title: Tour Virtual UFFS
+  subtitle: Conheça virtualmente todos os campi da UFFS e suas atividades.
+  short_description: Conheça a universidade sem sair de casa.
+  description: "A UFFS é uma instituição grande, com vários campi em três estados diferentes. Já
+  imaginou poder fazer um passeio virtual em cada um desses campi para conhecer salas de aula,
+  infra-estrutura e espaços? E, ainda por cima, conhecer as atividades de ensino, pesquisa e extensão
+  que são realizadas nesses lugares, de forma contextualizada e interativa? Esse é o propósito da plataforma
+  web Tour Virtual UFFS."
+  url: https://practice.uffs.edu.br/tour-virtual/
+  github: https://github.com/practice-uffs/tour-virtual
+  image: /images/icons/uffsvirtual-icon.png
+  hero_image: 
+  status: ready
+
+- technology: 
   id: app-uffs-virtual
   active: true 
   title: UFFS Boas-vindas
@@ -67,23 +84,6 @@
   image: /images/icons/boasvindas-icon.svg
   hero_image: 
   status: ready  
-
-- technology: 
-  id: uffs-virtual
-  active: true 
-  title: UFFS Virtual
-  subtitle: Conheça virtualmente todos os campi da UFFS e suas atividades
-  short_description: Conheça virtualmente todos os campi da UFFS e suas atividades
-  description: "A UFFS é uma instituição grande, com vários campi em três estados diferentes. Já
-  imaginou poder fazer um passeio virtual em cada um desses campi para conhecer salas de aula,
-  infra-estrutura e espaços? E, ainda por cima, conhecer as atividades de ensino, pesquisa e extensão
-  que são realizadas nesses lugares, de forma contextualizada e interativa? Esse é o propósito da plataforma
-  web UFFS Virtual."
-  url:
-  github: https://github.com/practice-uffs/uffs-virtual
-  image: /images/icons/uffsvirtual-icon.png
-  hero_image: 
-  status: project    
 
 - technology: 
   id: app-saude
