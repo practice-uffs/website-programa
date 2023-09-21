@@ -42,6 +42,14 @@
       url: https://practice.uffs.edu.br/mural
       desc: Central de solicitações e de ideias
     - title: ---
+    - title: Tour Virtual UFFS
+      url: https://practice.uffs.edu.br/tour-virtual/
+      desc: Conheça a universidade sem sair de casa
+    - title: ---
+    - title: UFFS Boas Vindas
+      url: /uffsboasvindas
+      desc: Aplicativo para smartphone
+    - title: ---
     - title: Aplicativo
       url: /app
       desc: O que temos a oferecer, na palma de sua mão
