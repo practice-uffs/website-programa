@@ -126,7 +126,7 @@
   place: Chapecó, SC  
   bond: Bolsista
 
-- person: true
+- person: false
   actingTime: Outubro de 2020 até hoje
   name: Brenda Ellen de Sousa Reis
   email: brenda.reis@estudante.uffs.edu.br
@@ -323,7 +323,7 @@
   place: Erechim, RS
   bond: Bolsista
 
-- person: true
+- person: false
   actingTime: Outubro de 2020 até hoje
   name: Luiza Dall Bosco Tonial
   email: luu.tonial@gmail.com
@@ -378,7 +378,7 @@
   place: Chapecó, SC  
   bond: Bolsista
 
-- person: true
+- person: false
   actingTime: Abril de 2021 até hoje
   name: Maria Luiza Reviliau
   email: marialuizareviliau6240@gmail.com
@@ -389,7 +389,7 @@
   place: Laranjeiras do Sul, PR
   bond: Bolsista
 
-- person: true
+- person: false
   actingTime: Junho de 2020 até hoje
   name: Matheus Dias Negrão
   email: matheus.dnegrao@gmail.com
@@ -488,7 +488,7 @@
   place: Cerro Largo, RS
   bond: Bolsista
 
-- person: true
+- person: false
   actingTime: Outubro de 2020 até hoje
   name: Robison José Santos da Silva
   email: robisonjose99@gmail.com
@@ -499,7 +499,7 @@
   place: Realeza, PR
   bond: Bolsista
 
-- person: true
+- person: false
   actingTime: Junho de 2022 até hoje
   name: Saene Viceli
   email: saenevicei@gmail.com
@@ -576,7 +576,7 @@
   place: Laranjeiras do Sul, PR
   bond: Bolsista
 
-- person: true
+- person: false
   actingTime: Setembro de 2022 até hoje
   name: Robert Biasoli Drey
   email: dreyrobert@gmail.com
@@ -609,7 +609,7 @@
   place: Chapecó, SC  
   bond: Bolsista
   
-- person: true
+- person: false
   actingTime: Outubro de 2022 até hoje
   name: Gustavo Guilherme Sutil Alberton
   email: gustavogsalberton@gmail.com
@@ -642,3 +642,36 @@
   github: https://github.com/giancds/
   place: Chapecó, SC  
   bond: Coordenador
+
+- person: true
+  actingTime: Setembro de 2023 até hoje
+  name: Bruno Ferreira Hoffmann 
+  email: bruno.hoffmann@estudante.uffs.edu.br
+  position: con-midia-live
+  formation: Acadêmico de História
+  avatar: /images/equipe/giancarlo-salton.jpg #alterar imagem
+  github: https://github.com/brunofhoffmann
+  place: Chapecó, SC  
+  bond: Bolsista
+
+- person: true
+  actingTime: Setembro de 2023 até hoje
+  name: Nicole Teixeira
+  email: nicole.teixeira@estudante.uffs.edu.br
+  position: con-midia-AVA
+  formation: Acadêmica de Filosofia
+  avatar: /images/equipe/giancarlo-salton.jpg #alterar imagem
+  github: https://github.com/Azazelavocado
+  place: Erechim, RS  
+  bond: Bolsista
+
+- person: true
+  actingTime: Setembro de 2023 até hoje
+  name: Jovieli Carini Michalski
+  email: jovieli.michalski@estudante.uffs.edu.br
+  position: con-midia-AVA
+  formation: Acadêmica de Física
+  avatar: /images/equipe/giancarlo-salton.jpg #alterar imagem
+  github: https://github.com/Jovielimichalski
+  place: Realeza, PR
+  bond: Bolsista
