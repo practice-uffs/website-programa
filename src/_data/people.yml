@@ -127,7 +127,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Outubro de 2020 até hoje
+  actingTime: Outubro de 2020 até Junho de 2023
   name: Brenda Ellen de Sousa Reis
   email: brenda.reis@estudante.uffs.edu.br
   position: con-conteudo
@@ -237,7 +237,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Junho de 2020 até hoje
+  actingTime: Junho de 2020 até Setembro de 2022
   name: Isabeli Reik
   email: isabelireik2@gmail.com
   position: con-conteudo
@@ -324,7 +324,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Outubro de 2020 até hoje
+  actingTime: Outubro de 2020 até Julho de 2023
   name: Luiza Dall Bosco Tonial
   email: luu.tonial@gmail.com
   position: con-midia-live
@@ -390,7 +390,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Junho de 2020 até hoje
+  actingTime: Junho de 2020 até Setembro de 2022
   name: Matheus Dias Negrão
   email: matheus.dnegrao@gmail.com
   position: con-midia-live
@@ -489,7 +489,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Outubro de 2020 até hoje
+  actingTime: Outubro de 2020 até Agosto de 2023
   name: Robison José Santos da Silva
   email: robisonjose99@gmail.com
   position: ger-aux
@@ -500,7 +500,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Junho de 2022 até hoje
+  actingTime: Junho de 2022 até Abril de 2023
   name: Saene Viceli
   email: saenevicei@gmail.com
   position: con-design
@@ -577,7 +577,7 @@
   bond: Bolsista
 
 - person: false
-  actingTime: Setembro de 2022 até hoje
+  actingTime: Setembro de 2022 até Junho de 2023
   name: Robert Biasoli Drey
   email: dreyrobert@gmail.com
   position: dev
@@ -610,7 +610,7 @@
   bond: Bolsista
   
 - person: false
-  actingTime: Outubro de 2022 até hoje
+  actingTime: Outubro de 2022 até Junho de 2023
   name: Gustavo Guilherme Sutil Alberton
   email: gustavogsalberton@gmail.com
   position: dev
@@ -649,7 +649,7 @@
   email: bruno.hoffmann@estudante.uffs.edu.br
   position: con-midia-live
   formation: Acadêmico de História
-  avatar: /images/equipe/giancarlo-salton.jpg #alterar imagem
+  avatar: /images/equipe/man_default_user.jpg #alterar imagem
   github: https://github.com/brunofhoffmann
   place: Chapecó, SC  
   bond: Bolsista
@@ -658,9 +658,9 @@
   actingTime: Setembro de 2023 até hoje
   name: Nicole Teixeira
   email: nicole.teixeira@estudante.uffs.edu.br
-  position: con-midia-AVA
+  position: con-midia-live
   formation: Acadêmica de Filosofia
-  avatar: /images/equipe/giancarlo-salton.jpg #alterar imagem
+  avatar: /images/equipe/woman_default_user.jpg #alterar imagem
   github: https://github.com/Azazelavocado
   place: Erechim, RS  
   bond: Bolsista
@@ -669,9 +669,9 @@
   actingTime: Setembro de 2023 até hoje
   name: Jovieli Carini Michalski
   email: jovieli.michalski@estudante.uffs.edu.br
-  position: con-midia-AVA
+  position: con-midia-live
   formation: Acadêmica de Física
-  avatar: /images/equipe/giancarlo-salton.jpg #alterar imagem
+  avatar: /images/equipe/woman_default_user.jpg #alterar imagem
   github: https://github.com/Jovielimichalski
   place: Realeza, PR
   bond: Bolsista
