@@ -1,0 +1,21 @@
+- label: Certificados
+  route: /certificadosteste
+
+
+- label: "0001"
+  route: "https://drive.google.com/file/d/1jc5bGP_VhznSue5x0EOyCu7okOp5cHZz/view?usp=drive_link"
+
+- label: "0002"
+  route: "https://drive.google.com/file/d/16ANirHNxOk6DXszTR6oaJvEJSn8VZGCF/view?usp=drive_link"
+
+- label: "0003"
+  route: "https://drive.google.com/file/d/1S8lWuj-eb1BpaPj973Qbrrkkq1r53sjB/view?usp=drive_link"
+
+- label: "0004"
+  route: "https://drive.google.com/file/d/1_JWDUWEFsRqptEJXiHt9TwoHlyLOfjJG/view?usp=drive_link"
+
+- label: "0005"
+  route: "https://drive.google.com/file/d/19mzuKjG0PMjvbl4h0s-frSfdaXXBgtYW/view?usp=drive_link"
+
+- label: "0006"
+  route: "https://drive.google.com/file/d/1iWctr9SvFXhBI6ArWuDPXRQ7ViEhnnGa/view?usp=drive_link"
