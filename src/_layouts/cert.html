@@ -24,13 +24,36 @@ layout: default
 
 
 <div class="col-12">
+  <h2>{{ page.title }}</h2>
 
-    {% for route in site.data.routes offset:1 %}
-    <li class="col-12">
-        <a href= {{ route.route }}>
-            {{ route.label }}
-        </a>
-    </li>   
+    {% assign cert_label = page.url | split: '/' | last %}
+
+    {% for item in site.data.routes %}
+
+      {% if item.label == cert_label %}
+
+        {% assign cert_route = item.route %}
+
+      {% endif %}
+
     {% endfor %}
-</div>
 
+  
+
+  <p>Debug:</p>
+  <ul>
+      <li>Page URL: {{ page.url }}</li>
+      <li>Cert Label: {{ cert_label }}</li>
+      <li>Cert Route: {{ cert_route }}</li>
+  </ul>
+
+  {% if page.url contains "/certificados" or page.url contains "/certificados/" %}
+      {% if cert_route %}
+          <iframe src="{{ cert_route }}" width="100%" height="600px"></iframe>
+      {% else %}
+          <p>Certificado não encontrado.</p>
+      {% endif %}
+  {% else %}
+      <p>Selecione um certificado.</p>
+  {% endif %}
+</div>
