@@ -1,6 +1,6 @@
 ---
 title: "Lista final dos inscritos no edital de seleção Edital 817/GR/UFFS/2023"
-source: http://127.0.0.1:4000/edital/817-gr-uffs-2023
+source: https://practice.uffs.edu.br/edital/817-gr-uffs-2023
 layout: article
 categories: noticias
 last_modified_at: 2022-08-09T10:10:00-00:00
