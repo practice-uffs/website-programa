@@ -69,6 +69,8 @@ image:
     </div>
 </section>
 
+<p>Como solicitar transmissões ao vivo:</p>
+<img src="images/fluxodelive.png" alt="Como solicitar transmissões ao vivo">
 
 <h2 class="mt-10">Destaques</h2>
 <hr />
