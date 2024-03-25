@@ -121,3 +121,8 @@ permalink: /fluxo/
         A metáfora de maturidade de projetos baseada em horizontes foi copiada da conversa de Jason Warner (CTO do Github) no episódio <a href="https://changelog.com/podcast/395#transcript-9"><em>Leading GitHub to a $7.5 billion acquisition</em></a>, no podcast <a href="https://changelog.com">The Changelog</a>.
     </p>    
 </section>
+
+<section class="mb-10">
+<p>Como solicitar transmissões ao vivo:</p>
+<img src="/images/fluxodelive.png" alt="Como solicitar transmissões ao vivo">
+</section>
